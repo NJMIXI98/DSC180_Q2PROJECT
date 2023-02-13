@@ -4,15 +4,15 @@ import sys
 import json
 import matplotlib.pyplot as plt
 
-from q1 import get_data
-from q1 import average_price
-from q1 import model
-from q1 import plot
-from q1 import create_ranks
-from q1 import rank_plot
-from q1 import price_row
-from q1 import price
-from q1 import locate
+from q2 import get_data
+from q2 import average_price
+from q2 import model
+from q2 import plot
+from q2 import create_ranks
+from q2 import rank_plot
+from q2 import price_row
+from q2 import price
+from q2 import locate
 
 def main(targets):
     if 'all' in targets:
