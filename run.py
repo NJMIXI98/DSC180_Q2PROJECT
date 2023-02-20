@@ -41,6 +41,7 @@ def main(targets):
         y3 = level_diff(white_male)
         y4 = level_diff(black_male)
         width = 0.2
+        plt.ion() 
         plt.bar(x-0.2, y1, width, color='skyblue')
         plt.bar(x, y2, width, color='orange')
         plt.bar(x+0.2, y3, width, color='olivedrab')
@@ -49,7 +50,7 @@ def main(targets):
         plt.xlabel("Job Level Difference")
         plt.ylabel("Frequency")
         plt.legend(["Asian", "Hispanic", "White","Black"])
-        plt.show(block=False) 
+        plt.show(block=True) 
         
         #plot number of employee difference
         x = np.arange(8)
@@ -58,6 +59,7 @@ def main(targets):
         y3 = employ_diff(white_male)
         y4 = employ_diff(black_male)
         width = 0.2
+        plt.ion() 
         plt.rcParams["figure.figsize"] = [9.50, 4.50]
         plt.bar(x-0.2, y1, width, color='skyblue')
         plt.bar(x, y2, width, color='orange')
@@ -67,33 +69,37 @@ def main(targets):
         plt.xlabel("Numbers of Employees ")
         plt.ylabel("Frequency")
         plt.legend(["Asian", "Hispanic", "White","Black"])
-        plt.show(block=False)
+        plt.show(block=True)
         
         #plot type differences
         types = type_diff(asian_male)[0]
         data = type_diff(asian_male)[1]
         fig = plt.figure(figsize =(9, 5))
+        plt.ion() 
         plt.pie(data, labels = types)
         plt.title("Types of Company for Asian Male")
-        plt.show(block=False)
+        plt.show(block=True)
         types = type_diff(hispanic_male)[0]
         data = type_diff(hispanic_male)[1]
         fig = plt.figure(figsize =(9, 5))
+        plt.ion() 
         plt.pie(data, labels = types)
         plt.title("Types of Company for Hispanic Male")
-        plt.show(block=False)
+        plt.show(block=True)
         types = type_diff(white_male)[0]
         data = type_diff(white_male)[1]
         fig = plt.figure(figsize =(9, 5))
+        plt.ion() 
         plt.pie(data, labels = types)
         plt.title("Types of Company for Caucasian Male")
-        plt.show(block=False)
+        plt.show(block=True)
         types = type_diff(black_male)[0]
         data = type_diff(black_male)[1]
         fig = plt.figure(figsize =(9, 5))
+        plt.ion() 
         plt.pie(data, labels = types)
         plt.title("Types of Company for African American Male")
-        plt.show(block = False)
+        plt.show(block = True)
         
       
 
