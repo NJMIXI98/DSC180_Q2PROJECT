@@ -32,6 +32,7 @@ def main(targets):
         hispanic_male = df_male.loc[df_male['ethnicity'] == 'hispanic']
         white_male = df_male.loc[df_male['ethnicity'] == 'white']
         black_male = df_male.loc[df_male['ethnicity'] == 'black']
+        print(df_male) 
         
         #plot level differences
         x = np.arange(3)
@@ -48,7 +49,7 @@ def main(targets):
         plt.xlabel("Job Level Difference")
         plt.ylabel("Frequency")
         plt.legend(["Asian", "Hispanic", "White","Black"])
-        plt.show() 
+        plt.show(block=False) 
         
         #plot number of employee difference
         x = np.arange(8)
@@ -66,7 +67,7 @@ def main(targets):
         plt.xlabel("Numbers of Employees ")
         plt.ylabel("Frequency")
         plt.legend(["Asian", "Hispanic", "White","Black"])
-        plt.show()
+        plt.show(block=False)
         
         #plot type differences
         types = type_diff(asian_male)[0]
@@ -74,25 +75,25 @@ def main(targets):
         fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for Asian Male")
-        plt.show()
+        plt.show(block=False)
         types = type_diff(hispanic_male)[0]
         data = type_diff(hispanic_male)[1]
         fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for Hispanic Male")
-        plt.show()
+        plt.show(block=False)
         types = type_diff(white_male)[0]
         data = type_diff(white_male)[1]
         fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for Caucasian Male")
-        plt.show()
+        plt.show(block=False)
         types = type_diff(black_male)[0]
         data = type_diff(black_male)[1]
         fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for African American Male")
-        plt.show()
+        plt.show(block = False)
         
       
 
