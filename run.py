@@ -101,6 +101,10 @@ def main(targets):
         plt.title("Types of Company for African American Male")
         plt.show(block = True)
         
+        plt.ion() 
+        plt.plot([1.4, 2.5]) 
+        print("***********")
+        plt.show(block=True)
       
 
 if __name__ == '__main__':
