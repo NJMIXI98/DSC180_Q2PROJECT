@@ -1,0 +1,150 @@
+{"name":"Kyrie Smith",
+"email":"joebobby123678@gmail.com",
+"gender":"man",
+"ethnicity":"black",
+"treatment_id":"black-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Quantitative Model Governance Oversight Analyst - Minneapolis or Remote","company":"U.S. Bank","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"10001+","type":"Banking","level":"Entry level",
+"Main Responsibilities":"Collaborating and communicating with business lines, model owners, and model validation to ensure Model Risk Management program requirements are communicated and understood
+Overseeing execution of Validation Quality Assurance program, including:
+Allocating resources, performing/overseeing peer reviews, vetting the findings and ensuring their effective remediation
+Managing the peer review process designed to ensure model weaknesses and limitations are appropriately identified in the course of the inaugural, periodic, and targeted validations, as well as annual reviews performed by the validation teams across all models used within the Company
+Additional focus will be on ensuring consistency of the validation program execution across all validation teams and all model types utilized within the institution and staying current with changes in regulatory expectations and leading industry practices
+Being involved in assessments of business lines’ compliance with MRM program requirements, which includes:
+Interviewing business line personnel on products, services, business processes, risk management programs, and model use related to these efforts, as well as implementation of MRM program requirements
+Assessing model documentation, including development, monitoring, certifications, implementation, and validation documentation, for consistency and completeness against program standards and templates
+Summarizing and providing context for conclusions and findings in a written report, and verbally communicating findings to the business lines and senior management
+Thinking critically in executing the business line assessment process and for all activities in support of MRM program objectives and continuous process improvements therein
+Reviewing the bank’s internal policy updates and regulatory changes for potential impact to the MRM program and its key stakeholders
+Performing other work as required, to support the MRM program",
+"Position Requirements":"
+Bachelor’s degree in a quantitative field, and eight or more years of relevant experience OR
+MA/MS in a quantitative field, and five or more years of related experience OR
+PhD in a quantitative field, and four or more years of related experience
+"},
+"ranking2":{"title":"Data Analyst","company":"Dice","location":"Houston","state":"TX","country":"United States","remote":"unknown","time":"Contract","employees":"1001-5000","type":"Technology, Information and Internet","level":"Entry level",
+"Main Responsibilities":"unknown",
+"Position Requirements":"Strong understanding and knowledge of Endur Data Model – Mainly reference data and key simulation results
+Strong understanding and knowledge of the Nucleus data model
+Knowledge of General Risk Processes and hands-on experience on data management required for Risk Reporting (PNL Production, Market exposure, PNL Impacts, Limit Management, Reserve Adjustments, PPA's, Exposure, PnL Explained, Greeks, etc.)
+Expert in SQL/PSQL
+Strong understanding of the trade lifecycle for gas and power
+Expert in Data Warehousing skills preferably commodity trading Data warehouses
+Experience with Microsoft Azure Cloud
+Experience in Python
+Knowledge in Spotfire or other ETL tool
+Knowledge in STAR Schema
+Knowledge in SCD Framework
+Knowledge in WebApp/UI and React
+"},
+"ranking3":{"title":"Senior Data Analyst, Research and Development","company":"Kemper","location":"Williamson County","state":"TX","country":"United States","remote":"Remote","time":"Full-time","employees":"5001-10000","type":"Insurance","level":"Mid-senior level",
+"Main Responsibilities":"Perform complex analysis to better understand components of pricing and underwriting
+Develop creative ideas and solutions to real time product problems and/or business opportunities
+Apply advanced analytics and modeling techniques to seek out insights
+Explore internal data to develop more accurate pricing with existing data points
+Partner with other areas in National product to evaluate viability of third-party data
+Serve as a subject matter expert for the Auto product
+Generate and document programs, queries, reports, and, or dashboards
+May be involved in analyzing telematics data
+Be a student of the business by being inquisitive and through connecting data, ideas, and people",
+"Position Requirements":"3+years of product analyst experience
+Insurance experience preferred but not required
+Experience in statistical and business analysis
+Advanced excel skills and familiarity with database querying required
+Experience in SAS, Tableau, SQL, SQL Server, Python/R
+Education equivalent to a college degree in mathematics, statistics, risk management, actuarial, or related field, or the equivalent in related work experience
+Sponsorship not accepted for this opportunity
+This position is a remote role and can work from a US based home or a local Kemper office
+"},
+"ranking4":{"title":"Data Analyst (Remote)","company":"General Dynamics Information Technology","location":"Little Rock","state":"AR","country":"United States","remote":"Remote","time":"Full-time","employees":"10001+","type":" IT Services and IT Consulting","level":"Entry level",
+"Main Responsibilities":"Performs data analysis, interpretation and management duties
+Develops rules and methodologies for data collection and analysis
+Ensures the integrity of project data, including data extraction, storage, manipulation, processing and analysis
+Consults with the external clients and internal staff to determine data management needs and objectives
+May be responsible for database design, administration, security, and maintenance
+Prepares presentations that reflect the results of the data analysis
+Provides data-related training to staff
+Coordinates with scientists and other technical experts to design and develop statistical analyses methodologies
+Maintains current knowledge of relevant technologies as assigned
+Participates in special projects as required.",
+"Position Requirements":"Bachelors Degree (Master's Degree preferred) in a Computer Science, Statistics or a related technical discipline, or the equivalent combination of education, technical certifications or training, or work experience
+2-5 years of related statistics/data analysis experience
+Experience with R and/or SAS
+"},
+"ranking5":{"title":"Quantitative Researcher","company":"Radley James","location":"New York","state":"NY","country":"United States","remote":"(On-site)","time":"Full-time","employees":"51-200","type":"Staffing and Recruiting","level":"Director",
+"Main Responsibilities":"This position gives you the chance to design, back-test and calibrate models for Smart Order Routing, developing response functions for short term alphas. The team are recruiting for an experienced Quant within the US Equities space, with a deep understanding of the markets microstructure and order types.",
+"Position Requirements":"PhD in Statistical/Maths/Comp Sci Degree
+7+ years experience in Quant Research roles
+Experience with handling large amounts of tick data
+Professional experience with US Equities
+(Java or C++) and Python
+"},
+"ranking6":{"title":"Senior Associate Data Analyst","company":"Crew","location":"Minneapolis","state":"MN","country":"United States","remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"Business Consulting and Services","level":"Associate",
+"Main Responsibilities":"Vary by project but may include:
+Data warehousing
+Descriptive and predictive analytics
+Data forensics/data quality assessments
+Extract, transform and load (ETL) planning and coding
+Business intelligence, reporting and dashboard development
+Client training on best practices for leveraging data to solve business problems
+Activities such as measurement, forecasting, data mapping, etc.",
+"Position Requirements":"Our best Data Analyst Associates possess most of the following:
+▪ 1 – 3 years’ relevant experience
+▪ Bachelor’s Degree in Computer Science, Management Information Systems, Math, Statistics, or
+related field required
+Previous Analytical experience within the Data world including previous experience in data mining, analysis and reporting is strongly preferred
+Working knowledge of SQL, Power BI, Tableau, advanced Excel, and Python is required
+Prior experience with one of MySQL, PostgreSQL, Oracle, Microsoft SQL server etc. is a plus
+Demonstrates basic knowledge of object and component methodology and technology
+Detail oriented with a strong focus on the minute details of what the end user wants, documenting requirements with detailed reports measuring goals and outcomes, and communicating details in an effective manner
+Analytical mindset focused on process and data analysis. Ability to take complex data and processes and highlight useful information, identify gaps, propose conclusions, and support decision making
+Client service mindset. Act as a point of contact for project details and requirements, must possess positive attitude and do whatever it takes to get the project to the end goal while meeting client needs
+Strong written, presentation, and verbal communication skills. Has the ability to bridge the gap
+between vague and abstract ideas and produce clear, concise documentation, and verbal
+explanations for any business need
+Must be eligible to work in the US currently and in the future without employer sponsorship
+"},
+"ranking7":{"title":"Data Analyst - Mid Level (3-5 yrs.)","company":"Experis","location":"Austin","state":"TX","country":"United States","remote":"(On-site)","time":"Contract","employees":"10001+","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"The Data Analyst will be responsible for reviewing fixed income trades for data accuracy, communicating with vendors to ensure that reference data is correct in source system, reviewing regulatory filings for data validation, and performing preliminary root cause analysis for trade confirmations with inaccurate or missing data. This role will also maintain dashboards to track issues, analyze trends, and communicate to business and technology partners. This role will involve working in a fast-paced, technical, cross-functional environment with minimal supervision.",
+"Position Requirements":"Detail-oriented with financial calculations experience, including time value of money and yields
+Strong data analysis skills and proficiency with Microsoft Excel
+Ability to effectively manage time and track projects to completion
+Critical thinking with the ability to conduct research on financial products
+Excellent written and verbal communication skills
+Experience in fixed income products preferred
+Bachelors degree preferred
+You will demonstrate these behaviors:
+Thoroughness - Ensuring that ones own work and information are complete and accurate
+Analytical Thinking - Approaching a problem by using a logical, systematic, sequential approach
+Decisiveness - Willingness to make difficult decisions in a timely manner
+Building Collaborative Relationships - The ability to develop, maintain, and strengthen partnerships with others inside or outside of the organization who can provide information, assistance and support
+Results Orientation - Focusing on the desired end result of ones own or ones units work; setting challenging goals, focusing effort on the goals, and meeting or exceeding them
+Forward Thinking - Anticipating the implications and consequences of situations and taking appropriate action to be prepared for possible contingencies
+"},
+"ranking8":{"title":"Senior Data Analyst, Team Lead","company":"Atria Wealth Solutions","location":"Greater Houston","state":"TX","country":"United States","remote":"(On-site)","time":"Full-time","employees":"201-500","type":"Financial Services","level":"Associate",
+"Main Responsibilities":" Manage and maintain data tables to support various business functions.
+Work with developers to update our application database data model.
+Identify opportunities to make data available and find and correct discrepancies, deficiencies, and blind spots.
+Perform root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Manage and lead assigned projects and effectively communicate with the requestor and leadership team any project roadblocks that may jeopardize deadlines in advance of due dates.
+Work with Agile project teams of people with technical and non-technical backgrounds. Able to communicate requirements questions and technical issues to a non-technical audience.
+Manage, develop, and maintain reports for use by various departments.
+Ad-hoc SQL queries to support data analysis.
+Collaborates and maintains effective working relationships with management, internal departments, and external vendors.
+Provide testing support for all in-bound and out-bound files.
+Test and document system changes thoroughly. Support for QA and UAT of system changes",
+"Position Requirements":"2 or more years of prior experience in wealth management/securities industry
+In lieu of a bachelor's degree, 5+ years of experience with reporting and analytics with data analysis, extraction, and manipulation in a financial setting utilizing SQL.
+A very high level of proficiency in SQL, PostgreSQL and relational and multi-dimensional databases.
+Ability to analyze a company’s big-picture data needs.
+Solid experience in data sourcing, transformation and clean up, incl. use of data ETL (Extract, Transform, Lead) tools.
+Solid experience in Agile methodology
+Practical understanding and experience in Software Development Life Cycle (SDLC)
+Solid grasp of software engineering fundamentals and their practical application.
+Strong interpersonal skills, with a demonstrated ability to make effective decisions while working through complex issues.
+Self-starter attitude and ability to make decisions independently.
+Comfortable working in a fast-paced and highly collaborative environment.
+Excellent verbal and written communication skills.
+Helpful, can-do attitude and a willingness to take ownership of problems.
+Strong desire to learn and grow.
+Flexible and adaptable in response to changing demands."}}

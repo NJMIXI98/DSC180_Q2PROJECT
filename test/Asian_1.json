@@ -1,0 +1,188 @@
+{"name":"Leonard Chang",
+"email":"kaiwu1234321@gmail.com",
+"gender":"man",
+"ethnicity":"asian",
+"treatment_id":"asian-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Senior Data Analyst","company":"Performance Review Institute (PRI)","location":"Warrendale","state":"PA","country":"United States","remote":"Hybrid","time":"Full-time","employees":"51-200","type":"Non-profit Organizations","level":"Mid-Senior level",
+"Main Responsibilities":"Serve as a Subject Matter Expert (SME) in one or more data sources and its related business subject
+Collaborate with other functions across the company by building reports and dashboards with useful analysis and data insights
+Approve data model changes as a data team reviewer and code owner for specific database and data model schemas
+Explain trends across data sources, potential opportunities for growth or improvement, and data caveats for descriptive, diagnostic, predictive (including forecasting), and prescriptive data analysis
+Deep understanding of how data is created and transformed through SAE products and services provided to help drive product designs or service usage or note impacts to data reporting capabilities
+Develop new trusted data tests to expand test coverage for the enterprise data warehouse
+Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale database environment.
+Maintain and advocate for these standards through code review products and services provided to help drive product designs or service usage or note impacts to data reporting capabilities
+Develop new trusted data tests to expand test coverage for the enterprise data warehouse
+Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale database environment. Maintain and advocate for these standards through code review
+Follow and improve our processes and workflows for maintaining high quality data and reporting while implementing the DataOps philosophy in everything you do
+Understand the code base extremely well in order to conduct new data innovation and to spot inconsistencies and edge cases
+Solve technical problems of high scope and complexity
+Exert influence on the long-range goals of your team
+Advocate for improvements to data quality, security, and query performance that have particular impact across your team as a Subject
+Matter Expert (SME)
+Provide mentorship for Junior and Intermediate members of the team to help them grow in their responsibilities
+Provide expertise to all SAE teams through code reviews, pairing, and training to help deliver optimal queries
+Build close relationships with other functional teams to truly democratize data understanding and access
+Deliver and explain data analytics methodologies and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects
+Understand and document the full lifecycle of data in our data catalog so data can be efficiently integrated, modeled, and analyzed
+Document every action in either issue/MR templates, the handbook, or READMEs so your learnings turn into repeatable actions and then into automation",
+"Position Requirements":"Bachelors degree or experience in lieu of education
+6+ years experience in an analytics role or equivalent experience/training
+Share and work in accordance with our values
+Positive and solution-oriented mindset
+Clearly and concisely communicate complex business logic, technical requirements, and design recommendations through iterative solutions
+Expert in SQL within analytical data warehouses such as Snowflake (preferred), Databricks, or Redshift and in business intelligence tools such as Power BI (preferred), or Tableau
+Able to write complex SQL including multi-table joins, grouping and aggregation, common table expressions, and conditional filters
+Demonstrable understanding of Gremlin/Cypher and graph databases such as Neo4j (preferred) or AWS Neptune
+Passionate about data, analytics and automation. Experience cleaning and modeling large quantities of raw, disorganized data
+Experience working with a variety of complex data sources. Our data includes Salesforce, Marketo, NetSuite, and many others
+Effective communication and collaboration skills, including clear status updates
+Comfort working in a highly agile, intensely iterative environment
+Self-motivated and self-managing, with strong organizational skills
+Hands on experience working with Python, API calls, and JSON, to generate business insights and drive better organizational decision making
+Demonstrated analytical experience with one or more of the following business subject areas: marketing, finance, sales, product, customer success, customer support, engineering, or people
+Demonstrated ability to define, design, and develop key performance indicators related to one or more business subject areas
+"},
+"ranking2":{"title":"Data Engineering Analyst, Platform Engineering (Remote, Anywhere in US)","company":"Talentify.io","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"11-50","type":"Human Resources Services","level":"Entry level",
+"Main Responsibilities":"Help lead the design and development of the tools that perform ingest, organization, and analysis of data from various internal and external sources of many different types
+Utilize machine learning, statistical and time series models
+Implement in-house AI technology
+Build static and real-time dashboards and visualizations to convey results to the internal team as well as external clients
+Stay up-to-date with the latest ML/AI techniques
+Work in a highly collaborative environment to brainstorm, design, implement, and deliver solutions to challenging problems",
+"Position Requirements":"A Bachelor's degree in a quantitative field (e.g. Statistics/Applied Mathematics, Computer Science, Data Science, Engineering) or equivalent experience
+3+ years of experience in software development and data organization and analysis related roles
+Familiar with common data science techniques: Linear & logistic regression, Classification, Tree algorithms (e.g. Random Forest, Xgboost), Artificial neural networks, Time Series Analysis, Clustering algorithms (e.g. K-means)
+Strong programming experience in Python with proficiency in Numpy, Pandas, Matplotlib/Seaborn/Plotly, Sklearn, Web and API scraping
+Ability to quickly learn new tools and methodologies (MLOps, AWS)
+Strong verbal and written interpersonal skills
+2+ years of experience solving data science problems
+Experience working in an telecom/regulated industry setting
+Experience with time series, document and graph databases
+Domain expertise in telecommunications, voice, messaging or IoT industry
+Experience in identity management/security or fraud mitigation technologies
+"},
+"ranking3":{"title":"Principal Consultant - Power BI","company":"P3 Adaptive","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"11-50","type":"unknown","level":"unknown",
+"Main Responsibilities":"Build complex dimensional data models and reports from the bottom up
+Audit existing Power BI efforts with a focus on improvement
+Visualize compelling data stories on the report canvas
+Produce KPIs with user-friendly display dashboards
+Collaborate with client’s data team to engineer revolutionary companywide data solutions
+Provide skills training both at our client’s firms and in public classes
+Develop and implement Ad Hoc and Enterprise Power BI Solutions for our clients",
+"Position Requirements":"Exceptional communication skills
+Excellent time management skills – multitasking is critical
+Experienced in Project Management
+Intermediate or better proficiency in DAX
+Working knowledge of Power Query
+Experience visualizing data in Power BI Desktop and Power BI Service
+Solid understanding of dimensional modeling concepts
+Ability to connect with our clients
+Expertise in developing Power BI solutions
+Insatiable curiosity and love of learning
+Travel Optional
+Prior Professional Services or Consulting
+"},
+"ranking4":{"title":"Data Analyst (Remote)","company":"Talentify.io","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time",
+"employees":"11-50","type":"Human Resources Services","level":"Entry level",
+"Main Responsibilities":"Performs data analysis, interpretation and management duties
+Develops rules and methodologies for data collection and analysis
+Ensures the integrity of project data, including data extraction, storage, manipulation, processing and analysis
+Consults with the external clients and internal staff to determine data management needs and objectives
+May be responsible for database design, administration, security, and maintenance
+Prepares presentations that reflect the results of the data analysis
+Provides data-related training to staff
+Coordinates with scientists and other technical experts to design and develop statistical analyses methodologies
+Maintains current knowledge of relevant technologies as assigned
+Participates in special projects as required",
+"Position Requirements":"2-5 years of related statistics/data analysis experience
+Experience with R and/or SAS
+Bachelors Degree (Master's Degree preferred) in a Computer Science, Statistics or a related technical discipline, or the equivalent combination of education, technical certifications or training, or work experience
+"},
+"ranking5":{"title":"Senior Data Analyst, Team Lead","company":"Atria Wealth Solutions","location":"United States","state":"unknown","country":"United States","remote":"remote","time":"Full-time",
+"employees":"201-500","type":"Financial Services","level":"Associate",
+"Main Responsibilities":"Manage and maintain data tables to support various business functions
+Work with developers to update our application database data model
+Identify opportunities to make data available and find and correct discrepancies, deficiencies, and blind spots
+Perform root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement
+Manage and lead assigned projects and effectively communicate with the requestor and leadership team any project roadblocks that may jeopardize deadlines in advance of due dates
+Work with Agile project teams of people with technical and non-technical backgrounds. Able to communicate requirements questions and technical issues to a non-technical audience
+Manage, develop, and maintain reports for use by various departments
+Ad-hoc SQL queries to support data analysis
+Collaborates and maintains effective working relationships with management, internal departments, and external vendors
+Provide testing support for all in-bound and out-bound files
+Test and document system changes thoroughly. Support for QA and UAT of system changes",
+"Position Requirements":"2 or more years of prior experience in wealth management/securities industry
+In lieu of a bachelor's degree, 5+ years of experience with reporting and analytics with data analysis, extraction, and manipulation in a financial setting utilizing SQL
+A very high level of proficiency in SQL, PostgreSQL and relational and multi-dimensional databases
+Ability to analyze a company’s big-picture data needs
+Solid experience in data sourcing, transformation and clean up, incl. use of data ETL (Extract, Transform, Lead) tools
+Solid experience in Agile methodology
+Practical understanding and experience in Software Development Life Cycle (SDLC)
+Solid grasp of software engineering fundamentals and their practical application
+Strong interpersonal skills, with a demonstrated ability to make effective decisions while working through complex issues
+Self-starter attitude and ability to make decisions independently
+Comfortable working in a fast-paced and highly collaborative environment
+Excellent verbal and written communication skills
+Helpful, can-do attitude and a willingness to take ownership of problems
+Strong desire to learn and grow
+Flexible and adaptable in response to changing demands
+"},
+"ranking6":{"title":"Senior Data Analyst","company":"IBM","location":"Houston","state":"TX","country":"United States","remote":"unknown","time":"Full-time",
+"employees":"100001+","type":"IT Services and IT Consulting","level":"Unkown",
+"Main Responsibilities":"Analyzing source system documentation to draft a target data dictionary, identify data patterns (real time, intraday, batch)
+Developing target state data flow and process flow diagrams that will all serve as the primary inputs for modeling the data
+Developing the data modeling inputs in the appropriate context
+Making specific updates to the data models primarily in terms of data object names and definitions",
+"Position Requirements":"5+ years of experience with Tableau, PowerBI, and Power Apps
+Experience with SQL, Data Structures, Linked Lists, Algorithm basics (Big O notation, comparing and sorting algorithms)
+Experience with Java, Java Script, Python, and Algorithm basics
+Experience with analyzing source system documentation to draft a target data dictionary, identify data patterns (real time, intraday, batch) and develop target state data flow and process flow diagrams that will all serve as the primary inputs for modeling the data
+"},
+"ranking7":{"title":"Senior Data Analyst","company":"VMLY&R","location":"Memphis","state":"TN","country":"United States","remote":"unknown","time":"Full-time",
+"employees":"100001+","type":"Advertising Services","level":"Mid-Senior level",
+"Main Responsibilities":"Synthesize and interpret marketing data into a narrative of business performance and actionable insights in deliverables of various formats
+Create measurement frameworks that identify KPIs and diagnostic measures for marketing programs
+Enable behavior tracking on various digital platforms
+Extract data from various digital tools
+Manage data accuracy and integrity for client marketing programs
+Plan, implement and manage marketing optimization programs (e.g.: A/B testing)
+Create and design business and marketing dashboards that align to client program objectives and various audiences
+Implement, collect, and analyze natural language data across social media platforms
+Additional responsibilities as assigned",
+"Position Requirements":"4+ years of related experience working in marketing analytics
+Demonstrated ability to connect paid media tools, CRM, and Social Monitoring tools with site analytics tools to gain integrated online marketing insights
+Deep experience in data analysis and report generation through tools such as Excel, Tableau, PowerBI, SPSS etc.
+Expert knowledge in digital metrics, dimensions and KPIs
+Experience working independently, self-managing, and managing others on projects to deliver results supporting multiple clients and stakeholders
+Hands-on experience with web analytics platform(s) (Adobe Analytics, Google Analytics, etc.)
+Proficiency in Microsoft Excel
+Experience with multivariate and experimental test platform(s) (Adobe Target, Optimizely, Visual Website Optimizer, etc.)
+Experience with predictive analytics and CRM applications a plus??
+"},
+"ranking8":{"title":"Data Analyst","company":"Centre College","location":"Danville","state":"KY","country":"United States","remote":"(On-site)","time":"Full-time",
+"employees":"201-500","type":"unknown","level":"unknown",
+"Main Responsibilities":"Develop and support reports, dashboards, and analytic tools used by ITS and other administrative offices that employ the Jenzabar-CX database, the Centrenet portal and its mobile apps
+Use relevant data to generate administrative reports showing trends, patterns, and forecasts
+Create a final analysis report to help stakeholders understand the process of data analysis so that they can make important decisions based on various facts and trends
+Performing analysis to assess the quality and importance of the data
+Review reports and performance counters to filter data to identify and fix code issues
+Use statistical tools to identify, analyze, and interpret patterns and trends in complex datasets that can be useful for diagnosis and prediction
+Assist in the maintenance of the database content on the SIS/ERP system. (SUSE Linux, MS Windows Server, Informix, MS SQL Server, IIS, Apache, MySQL and PostgreSQL)
+Provide direct support to the managers and end users of the Jenzabar-CX administrative database environment in those modules supporting the analytic function
+Implement and provide support for Database Analytics and report writing. (SSRS, Cognos, Informix)
+Support the academic program and the administrative computing environment by responding to and resolving requests for assistance from faculty and administrative staff
+Demonstrates appreciation of and commitment to further an inclusive culture for those of diverse backgrounds such as ability, age, class, ethnicity, faith, gender, neurodiversity, race and sexual orientation",
+"Position Requirements":"A bachelor’s degree is required in computer science, information systems, or an appropriate discipline
+Excellent math skills for collecting, measuring, organizing, and analyzing data
+Knowledge of programming languages such as SQL, MATLAB, Python, Oracle, R
+Technical knowledge of developing database design, data models, data mining, and segmentation techniques
+Experience working with report packages such as business objects, programming, and databases
+Knowledge of statistics for use in dataset analysis and statistical packages
+Competent working skills in the Windows, Mac and appropriate versions of UNIX operating system
+Familiarity with the design of and the discrete structures within the Jenzabar-CX enterprise system and its Informix database platform, both their structure and functionality
+Ability to work in a team environment providing support for a diverse constituency of users, including students, faculty and administrative staff
+Strong communication and interpersonal skills
+Some lifting, pulling, and pushing of computer equipment is necessary. Some equipment exceeds 50 pounds and requires appropriate handling procedures
+Mobility on campus to various office locations required"}}

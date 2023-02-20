@@ -1,0 +1,140 @@
+{"name":"Eric Salvador",
+"email":"jobh7042@gmail.com",
+"gender":"man",
+"ethnicity":"hispanic",
+"treatment_id":"hispanic-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Sr Analyst, DACI Analytics","company":"Lowe's Companies, Inc.","location":"Carolina","state":"NC","country":"United States","remote":"(On-site)","time":"Full-time","employees":"10001+","type":"Retail","level":"Mid-Senior level",
+"Main Responsibilities":"Utilizes a depth of knowledge of how to best leverage disparate data sources, relevant external data and strong domain expertise, in order to deliver on a need of the business
+Provides technical skills to analytics projects, performing more advanced project analysis and data modeling, ultimately ensuring that the final deliverable is high-quality and provides impactful insights
+Translates a business question into an analytical model that can be utilized and executed by the business; Collects, cleans, transforms, and restructures data for statistical analysis; performs statistical summaries and tests for relevant business questions
+Serves as an analytical subject-matter expert for others on the analytical team, working with leading analytics and data modeling tools in order to drive the business of the Lowe's organization; Communicates analyses and insights to leaders by summarizing conclusions and solutions; translates analytics and statistics into clear, understandable themes for business leaders; identifies specific analytic results that drive actionable insights
+Performs operational or customer behavior modeling and analysis in order to provide quality insight
+Creates analytic solutions by exploring innovative data and techniques; conducts exploratory data analysis and modeling
+Builds predictive and prescriptive models supporting a vast array of customer and business scenarios; performs statistical tests to enhance the predictability of models
+Maintains consistency in analytic practices by brainstorming and partnering with other areas within the broader DACI organization
+Responsible for continuously learning and sharing analytic methodology and techniques new to Lowe’s
+Develops solid hypotheses, in collaboration with business partners, on how value can be created; builds analytical models, analyses, or tests to validate/disprove these hypotheses and develops actionable recommendations for the business
+Track measures of success and develop dashboard reports that measure customer and operational metrics for one or more of Lowe's operations, driving actionable insights
+Translates project requirements into analytical problem(s), sometimes partnering with more junior level analysts, asking the right questions and validating understanding of requirements with manager or more senior level analysts
+Contributes to or builds project plans, ensuring clear understanding of project requirements and timeline; provides guidance to more junior level analysts and communicates project timelines, scope and expectations to stakeholders
+Gathers and assimilates information/data, sometimes in partnership with more junior level analysts, using known tools, techniques, methods and models to ensure an accurate and concise output summarizing findings; discusses analysis and findings with the team before delivering to stakeholders
+Offers insight and recommendations based on the data analysis for review by more senior level analysts; discusses and incorporates ideas from more junior level analysts
+Maintains updated knowledge of evolving technology and methods that can be used for effective data analysis
+Provides input into the framework for measuring impact of the data analytics function; participates in discussions of impact with stakeholders after projects",
+"Position Requirements":"unknown
+"},
+"ranking2":{"title":"Quantitative Researcher","company":"Bruin","location":"Connecticut","state":"CT","country":"United States","remote":"Hybrid","time":"Full-time","employees":"51-200","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"Research & develop methods to make existing trading signals more efficient, profitable and robust
+Research and develop new trading signals that complement and diversify production strategies in terms of style, source of alpha & market trade
+Research and develop portfolio construction and optimization methods to maximize performance while controlling risk, drawdowns, and trading costs
+Follow robust research and development procedures to reduce simulated and actual performance differences",
+"Position Requirements":"MS or Ph.D. in a quantitative field such as science, engineering, or finance
+3+ years related experience
+Exposure to securities and derivatives markets and investment processes with knowledge of mid-to-low frequency systematic strategies
+Advanced programming experience in languages suited for quantitative design
+Ability to synthesize complex topics into the easily digestible written commentary
+"},
+"ranking3":{"title":"Senior Data Analyst, Marketing Analytics","company":"Environmental Defense Fund","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"1001-5000","type":"Non-profit Organizations","level":"Mid-Senior level",
+"Main Responsibilities":"Create and manage a suite of standard monthly and quarterly reporting
+Perform analyses on disparate sets of data to extract actionable insights
+Communicate data-driven insights and recommendations to key stakeholders and clients
+Work collaboratively with cross-functional teams of analysts, marketers, developers, and others
+Research data hygiene issues
+Monitor both top-line and bottom-line impact of programs to achieve growth, revenue and ROI goals
+Combine data from multiple systems in order to get a full profile of constituent activity
+Document processes used to produce queries, reports, and routine analyses
+Assist in the organizing and analyzing of marketing experiments
+Help lead the evolution of our existing reporting and analysis to increase their utility and usefulness
+Guide and mentor fellow analysts to build a best-in-class analytics team
+Participate in advancing EDF DEI goals in which people from all backgrounds and experiences feel connected, included, and empowered to address the environmental and organizational challenges in alignment with EDF values",
+"Position Requirements":"4+ years of experience in data analysis
+2+ years of experience in marketing
+Bachelors’ degree required in an analytical field, with familiarity and high comfort level with statistics
+Strong analytical skills, attention to detail a must
+Creative and logical thinker
+Capable of tackling very loosely-defined problems
+Naturally inquisitive, with a curiosity for understanding root causes
+Ability to abstract specific insights from large data-sets
+Ability to self-teach, be a quick learner of technology and data analysis techniques
+Adept at SQL queries
+Demonstrated experience with Tableau or other data visualization tools, as well as experience with R and other statistical tools
+Familiarity with GitHub a plus
+Solid verbal and written communication skills
+Ability to work independently and as part of a team
+Demonstrates self-awareness, cultural competency and inclusivity, and ability to work with colleagues and stakeholders across diverse cultures and backgrounds
+"},
+"ranking4":{"title":"Data Analyst_1","company":"Michelin","location":"Greenville","state":"SC","country":"United States","remote":"unknown","time":"Full-time","employees":"10001+","type":"Motor Vehicle Manufacturing","level":"unknown",
+"Main Responsibilities":"Identifies and understands issues the company/entity/business is facing and relevant data sources for its scope
+prioritizes needs with stakeholders
+Identifies or acquires data needed to meet a simple business need
+Collects, selects and validates data relevant to the analysis
+Analysis and valorizes, with the help of a Data Scientist, heterogeneous, possibly unstructured, data masses to extract useful knowledge for the optimization of the company’s offers, services or processes and to obtain reliable results",
+"Position Requirements":"unknown
+"},
+"ranking5":{"title":"Senior, Data Analyst","company":"Fidelity Investments","location":"Boston","state":"MA","country":"United States","remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Financial Services","level":"unknown",
+"Main Responsibilities":"As a skilled analyst, you will provide data analysis leadership on multiple projects simultaneously. You will help conduct data analysis across different projects with diverse scope, complex business and technical requirements in a multi-platform and highly integrated data environment. This role is analysis and design centric; crafting and detailing data solutions/models, which are then handed to developers, engineers, and DBAs to implement",
+"Position Requirements":"Bachelor’s Degree or equivalent in a technology related field (e.g. Computer Science, Engineering, etc.) with a focus on data analysis, data structures, or data modeling. MBA is a plus
+Expert level analysis skills in the form of research, gap analysis, data mining, and data profiling
+Solid understanding of data lineage. Ability to breakdown and detail the flow of data from origination to consumption
+Consistent track record of solving real world problems using a design-oriented modeling approach in large data warehouses, data marts, and analytics/reporting platforms
+Understanding of different database platforms (e.g. Oracle, Snowflake, Hadoop, Microsoft SQL Server) usages (OLTP Recordkeeping, ODS, MDM, Warehousing, and Data Lakes)
+Understanding of modeling strategies (dimensional, relational, unstructured)
+Robust SQL experience, used to design new platforms on cloud technologies/architecture including Snowflake, AWS, etc.
+Proficient with ERD/Data Modelling tools (e.g. SAP Power Designer or Erwin)
+Experience carrying out projects in an Agile environment
+Having outstanding interpersonal skills with experience collaborating and influencing across all levels of the organization including written, verbal, and technology illustrations
+Perform autonomously on tasks but are willing and able to share knowledge with coworkers and partners
+Go-getter, self-sufficient, and willing to exhaust all research avenues before seeking help or discontinuing the search for answers
+Accepts uncertainty and can combine various sources of information including personal data experimentation, research, and dialogues to formulate answers
+Values pace over perfection and can show incremental progress of analysis and research through tangible artifacts
+Capable of balancing multiple contending priorities
+Familiar with the financial industry and/or have a strong desire to learn our brokerage business to maximize the value of our data
+Experience with Kimball Data Warehouse design techniques is a plus
+Experience with cloud native data warehousing and data lake solutions using Snowflake is a plus
+"},
+"ranking6":{"title":"Business Intelligence Analyst III","company":"Johnson Controls","location":"Milwaukee","state":"WI","country":"United States","remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Industrial Machinery Manufacturing","level":"Mid-Senior level",
+"Main Responsibilities":"Partner with sales, marketing, product management and finance to create, analyze, and interpret financial and non-financial business metrics, and create action plans to drive growth for the business
+Provide reporting and analytics to support the business needs to deliver recommendations and analysis on course correction and magnitude of business issues
+Collaborate with leaders across Global Products in gathering insights and market intelligence
+Analyze product trends and provide proactive recommendations for continuous improvement and best practices
+Acquire data from primary or secondary data sources
+Use reporting tools and systems including financial, market share, Salesforce, PPM, and BI tools
+Design, develop, and integrate dashboards and data visualizations to support business processes
+Review ad-hoc vs. standard management reporting process to help determine when repetitive ad-hoc requests should be included as standard reporting",
+"Position Requirements":"Bachelor’s Degree in Business, Finance, or related field
+6+ years in Business Analysis, Strategy, and/or Finance
+Excellent analytical and problem-solving skills, including the ability to disaggregate issues, identify root causes, and recommend solutions
+Power BI and Database experience
+Self-motivated, results-oriented and possess a strong sense of urgency
+Strong time management and organization skills
+Ability to lead through ambiguity and complexity to take calculated risks to solve problems, forge new paths for growth and achieve challenging goals
+Work in a dynamic environment with multiple concurrent projects using creativity, flexibility, and organizational skills
+"},
+"ranking7":{"title":"Senior Consumer Insights Analyst","company":"Nestlé Nespresso SA","location":"New York","state":"NY","country":"United States","remote":"(On-site)","time":"Full-time","employees":"5001-10000","type":"Food and Beverage Services","level":"Associate",
+"Main Responsibilities":"Work with insights and cross functional teams to identify gaps, frame key business issues and define project scope
+Assist in the development, management and execution of research plans
+Manage all aspects of the project timeline to a timely and on budget completion
+Effectively communicate the consumer’s point of view and advocate on their behalf to core research stakeholders in the form of written and visual summaries (ie Powerpoint presentations)",
+"Position Requirements":"BA / BS degree with outstanding academic track record, preferably in Business/Marketing
+Detailed knowledge of all Microsoft Office applications including strong PowerPoint and Excel skills
+Min 3+ years working in research/consumer insights capacity; Supplier experience a plus
+Good understanding of a variety of qualitative and quantitative research methodologies and how and when to apply them to custom projects
+Has hands-on experience in sample design, survey and discussion guide design
+Able to synthesize data and research results into impactful analyses and communicate key findings to business stakeholders
+Demonstrated strong collaboration, written and verbal communication and presentation skills
+Strong influencing skills to be able to partner directly with main stakeholders, including Directors and Managers
+Positive, go-getter attitude and ability to juggle multiple projects with keen attention to detail in a timely manner
+"},
+"ranking8":{"title":"Sr. Consumer Insights Analyst","company":"Covetrus","location":"Covetrus","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"5001-10000","type":"Veterinary Services","level":"Mid-Senior level",
+"Main Responsibilities":"Collect and analyze data and present research, findings, and recommendations to cross-functional teams
+Access, extract and analyze information from a variety of data warehouse sources (MySQL, Redshift, Google Analytics, and Snowflake)
+Provide internal consulting support and expertise – generate, review and communicate benchmarks in the context of the effort
+Working as part of a project team – Identify, prioritize and generate ad hoc and scheduled reports and executive dashboards
+Partner with key stakeholders to ensure data accuracy and consistency and provide actionable insights
+Use analytics to inform projects and drive strategic initiative decision making pre- and post-launch, coupled with a good understanding of best practices and what works well
+Build dashboards and manage Consumer reporting suite in Tableau, Excel, and PowerPivot
+Automate data workflows to create self-serve datasets that can be used by business leaders to identify trends and opportunities and make strategic decisions
+",
+"Position Requirements":"Bachelor’s Degree in Computer Sciences, Math, Statistics or related field
+4+ years’ experience in data modeling/advanced business analytics"}}

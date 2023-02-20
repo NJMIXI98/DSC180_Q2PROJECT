@@ -1,0 +1,169 @@
+{"name":"Myers Howard",
+"email":"jobless9696969696@gmail.com",
+"gender":"man",
+"ethnicity":"white",
+"treatment_id":"white-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Principal Consultant - Power BI","company":"P3 Adaptive","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"11-50","type":"unknown","level":"unknown",
+"Main Responsibilities":"Build complex dimensional data models and reports from the bottom up
+Audit existing Power BI efforts with a focus on improvement
+Visualize compelling data stories on the report canvas
+Produce KPIs with user-friendly display dashboards
+Collaborate with client’s data team to engineer revolutionary companywide data solutions
+Provide skills training both at our client’s firms and in public classes
+Develop and implement Ad Hoc and Enterprise Power BI Solutions for our clients",
+"Position Requirements":"Exceptional communication skills
+Excellent time management skills – multitasking is critical
+Experienced in Project Management
+Intermediate or better proficiency in DAX
+Working knowledge of Power Query
+Experience visualizing data in Power BI Desktop and Power BI Service
+Solid understanding of dimensional modeling concepts
+Ability to connect with our clients
+Expertise in developing Power BI solutions
+Insatiable curiosity and love of learning
+Travel Optional
+"},
+"ranking2":{"title":"Analytics Analyst II - Managed Care","company":"AmTrust Financial Services, Inc.","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"5001-10000","type":"Insurances","level":"unknown",
+"Main Responsibilities":"Healthcare data reporting related to Care Management
+New data reporting & analytics projects
+Use of SQL to query databases in SSMS
+Creation of reports in Excel
+Design and development of Power BI dashboards
+Ad-hoc reporting request completion
+Financial & operational data modeling
+Staffing models
+Attend regular meetings with stakeholders",
+"Position Requirements":"Bachelor’s degree
+Excel; minimum intermediate user, and must have demonstrated skills using formulas, pivot tables, pivot charts, various “look-ups,” and VBA or macros
+Power BI; minimum 6 months experience, experience with other data visualization software may be substituted
+SQL; intermediate demonstrated skills writing queries in a professional setting
+SQL Server Management Studio; intermediate demonstrated skills in a professional setting
+MS Office applications experience
+Ability to communicate effectively with both business and technical staff, and convey complex ideas both verbally and in written form
+"},
+"ranking3":{"title":"Principal Consultant - Power BI","company":"Zurich North America","location":"Schaumburg","state":"IL","country":"United States","remote":"Remote","time":"Full-time","employees":"10001+","type":"Insurance","level":"Associate",
+"Main Responsibilities":"Study, analyze, and understand business requirements in context to business intelligence
+Design and map data models to shift raw data into meaningful insights
+Utilize Power BI to build interactive and visually appealing dashboards and reports
+Transform business requirements into technical publications
+Build multi-dimensional data models
+Participate in key Enterprise Data Initiative team projects, supporting underlying data capture and utilization opportunities
+Identify data most valuable to the organization, and evaluate this data and alignment with the corporate data model
+Establish working relationships with key technical leads throughout the organization, and ensure ongoing alignment with their activities and the overall organization’s strategic direction",
+"Position Requirements":"Bachelor’s Degree and 3 or more years of experience in the Data Management area OR
+High School Diploma or Equivalent and 5 or more years of experience in the Data Management area AND
+Experience with data interrogation/analysis techniques
+"},
+"ranking4":{"title":"Data Analyst (Remote)","company":"Talentify.io","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time",
+"employees":"11-50","type":"Human Resources Services","level":"Entry level",
+"Main Responsibilities":"You will be responsible for analytics initiatives, including managing relationships with several enterprise clients, building out their analytics framework, overseeing tagging, and ad-hoc reporting needs
+Provide subject matter expertise in Google Analytics and Google Tag Manager to your clients via scheduled reports, ad-hoc reports, overseeing the tagging and analytics framework, and a variety of analysis and insight initiatives
+Develop analytics and data strategies for some of the largest brands in the world with a focus on measurably lifting their business
+Share your data and marketing analytics expertise with clients; acting as a thought leader for your client, and an active participant in the knowledge growth of the NAS team
+Assist clients in understanding the importance of online measurement, and provide best practice guidelines for their general data strategy, as well as specific technical implementations
+Assist the data team in propelling our practice forward with new go to market initiatives and solutions
+NAS is looking for an experienced Google Analytics Data Specialist with enterprise-level client facing experience in analytics and implementation of marketing projects",
+"Position Requirements":"The ideal candidate MUST have a history of working with Google Analytics, Google Tag Manager, and the Google Marketing Platform to help a variety of businesses, overseeing or directly having a hand in the implementation of their data collection, as well as finding ways to utilize this data to drive value for their clients through reporting and analysis
+We are looking for candidates that can wear two hats comfortably - “business” and “data” - with at least 2-3 years of client facing experience with Google Analytics
+Ideally, this experience is with a digital recruitment marketing consulting firm, agency, or advertiser
+Beyond the experience with Google Analytics, in our eyes the most important qualities are intellectual curiosity, autonomy, and proactivity
+You have deep knowledge and experience using Google Analytics, Google Tag Manager, and other parts of the Google Marketing Platform
+You have a deep knowledge and understanding of the data, ad tech, and marketing tech industry
+You have experience managing strategic projects and/or clients
+You are someone who can sit in a room/Zoom with large clients and confidently establish yourself as a business partner while providing guidance on their analytics and data strategy
+You lean into a challenge; resilient and are a practitioner of accountability
+You are a self-directed, resourceful, and a critical thinker with attention-to-detail and problem-solving skills
+You are someone who loves to collaborate within cross-functional teams
+You have self and situational awareness; an ability to ‘read the room’; a leader and a listener
+"},
+"ranking5":{"title":"Senior Data Analyst, Team Lead","company":"VMLY&R ","location":"Kansas City","state":"MO","country":"United States","remote":"unknown","time":"Full-time","employees":"10001+","type":"Advertising Sales","level":"Mid-Senior level",
+"Main Responsibilities":"Synthesize and interpret marketing data into a narrative of business performance and actionable insights in deliverables of various formats
+Create measurement frameworks that identify KPIs and diagnostic measures for marketing programs
+Enable behavior tracking on various digital platforms
+Extract data from various digital tools
+Manage data accuracy and integrity for client marketing programs
+Plan, implement and manage marketing optimization programs (e.g.: A/B testing)
+Create and design business and marketing dashboards that align to client program objectives and various audiences
+Implement, collect, and analyze natural language data across social media platforms
+Additional responsibilities as assigned",
+"Position Requirements":"4+ years of related experience working in marketing analytics
+Demonstrated ability to connect paid media tools, CRM, and Social Monitoring tools with site analytics tools to gain integrated online marketing insights
+Deep experience in data analysis and report generation through tools such as Excel, Tableau, PowerBI, SPSS etc.
+Expert knowledge in digital metrics, dimensions and KPIs
+Experience working independently, self-managing, and managing others on projects to deliver results supporting multiple clients and stakeholders
+Hands-on experience with web analytics platform(s) (Adobe Analytics, Google Analytics, etc.)
+Proficiency in Microsoft Excel
+Experience with multivariate and experimental test platform(s) (Adobe Target, Optimizely, Visual Website Optimizer, etc.)
+Experience with predictive analytics and CRM applications a plus??
+"},
+"ranking6":{"title":"Data Analyst","company":"Centre College","location":"Danville","state":"KY","country":"United States","remote":"(On-site)","time":"Full-time","employees":"201-500","type":"unknown","level":"unknown",
+"Main Responsibilities":"Develop and support reports, dashboards, and analytic tools used by ITS and other administrative offices that employ the Jenzabar-CX database, the Centrenet portal and its mobile apps
+Use relevant data to generate administrative reports showing trends, patterns, and forecasts
+Create a final analysis report to help stakeholders understand the process of data analysis so that they can make important decisions based on various facts and trends
+Performing analysis to assess the quality and importance of the data
+Review reports and performance counters to filter data to identify and fix code issues
+Use statistical tools to identify, analyze, and interpret patterns and trends in complex datasets that can be useful for diagnosis and prediction
+Assist in the maintenance of the database content on the SIS/ERP system. (SUSE Linux, MS Windows Server, Informix, MS SQL Server, IIS, Apache, MySQL and PostgreSQL)
+Provide direct support to the managers and end users of the Jenzabar-CX administrative database environment in those modules supporting the analytic function
+Implement and provide support for Database Analytics and report writing. (SSRS, Cognos, Informix)
+Support the academic program and the administrative computing environment by responding to and resolving requests for assistance from faculty and administrative staff
+Demonstrates appreciation of and commitment to further an inclusive culture for those of diverse backgrounds such as ability, age, class, ethnicity, faith, gender, neurodiversity, race and sexual orientation",
+"Position Requirements":"A bachelor’s degree is required in computer science, information systems, or an appropriate discipline
+Excellent math skills for collecting, measuring, organizing, and analyzing data
+Knowledge of programming languages such as SQL, MATLAB, Python, Oracle, R
+Technical knowledge of developing database design, data models, data mining, and segmentation techniques
+Experience working with report packages such as business objects, programming, and databases
+Knowledge of statistics for use in dataset analysis and statistical packages
+Competent working skills in the Windows, Mac and appropriate versions of UNIX operating system
+Familiarity with the design of and the discrete structures within the Jenzabar-CX enterprise system and its Informix database platform, both their structure and functionality
+Ability to work in a team environment providing support for a diverse constituency of users, including students, faculty and administrative staff
+Strong communication and interpersonal skills
+"},
+"ranking7":{"title":"Lead Statistician (Associate Director Level)","company":"Spark Therapeutics, Inc.","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time",
+"employees":"501-1000","type":"Biotechnology","level":"Associate",
+"Main Responsibilities":"Contribute to the statistical strategy for Hemophilia A and participate as a member on study/development subteams
+Initiate, drive and implement novel methods and innovative trial designs
+Provide statistical input into protocol and case report form (CRF) development (e.g., trial design, sample size estimation, statistical methods for protocols, edit checks for clinical trial data)
+Participate in regulatory (e.g., pre-IND, NDA) activities including authoring of statistical sections and participating in regulatory meetings/written responses
+Contribute to planning and execution of exploratory analyses, data visualization and statistical consultation on cross-functional teams
+Collaborate cross-functionally (e.g. data management, programming, safety, clinical, etc) to ensure timeliness and quality for statistical deliverables
+Contribute to external engagement with consultants, advisory boards, health authorities, congresses, and scientific meetings
+Write and review statistical analysis plans and TFLs
+Interpret and clearly communicate statistical results and concepts to non-statisticians
+Provide statistical support and outputs for conference presentations, manuscripts, CSRs, DMCs, etc.
+Develop/Write statistical standard operating procedures (SOPs) and input into general standardization efforts (e.g., CDISC, TFLs, eCRFs)
+Keep abreast of new developments in statistics, drug development, and regulatory guidance through literature review and attendance at workshops and professional meetings",
+"Position Requirements":"PhD in Biostatistics or Statistics with ≥ 6 years of pharmaceutical or CRO industry experience (MS candidates with significant related experience may be considered)
+Experience in designing, conducting and reporting Phase 3 clinical trials data in CSRs to CDISC standards
+Experience supporting regulatory efforts
+Deep and broad statistical expertise in methodologies such as Mixed Models, Complex Innovative designs, Modelling and Simulation methods, and in SAS, R
+Ability to work successfully within cross-functional teams leading to successful global regulatory filings and approvals
+Excellent verbal and written communications skills, strong presentation skills, able to translate statistical concepts to non-statisticians
+Ability to be flexible and adapt quickly to the changing needs of the organization
+Ability to organize multiple work assignments and establish priorities
+Experience with rare diseases and/or gene therapy development preferred
+In-depth skills in designing and reporting advanced stage clinical studies to CDISC standards
+Competencies in ADaM specifications and datasets
+Abilities writing statistical analysis plans and mock TFLs for clinical study reporting and ISS/ISE
+Competencies in working on clinical study teams and project teams to design studies including sample size calculations
+Experience supporting DSURs, IBs and DMCs
+Extensive SAS and R programming
+"},
+"ranking8":{"title":"Senior Analyst, Analytics","company":"Zenith","location":"New York","state":"NY","country":"United States","remote":"(On-site)","time":"Full-time","employees":"5001-10000","type":"Advertising Services","level":"unknown",
+"Main Responsibilities":" You will help own reporting on a number of major diabetes, immunology, oncology and neurology brands. You will explore and help refine leading and lagging metrics that empower our strategy and media buying teams to optimize digital campaigns across channels, from streaming services to social networks and partner websites. Our clients are innovative and hungry, and so are we. You should be comfortable with ambiguity and change, able to juggle multiple projects and develop deep insights that speak to multiple audiences. Our senior analysts are more than number crunchers; they are data detectives who seek to answer the “why” behind the trend. ",
+"Position Requirements":"B.A. or B.S., preferably in a quantitative field such as Mathematics, Statistics, Computer Science, Marketing/Advertising or equivalent experience
+2+ years of experience working with large data sets or conducting quantitative analysis
+Knowledge of Digital Media, Marketing/Advertising industries highly preferred
+Agency experience highly preferred
+Ability to service clients, partners and internal stakeholders by understanding needs, developing creative solutions, and delivering on those solutions with accuracy, diligence and a sense of urgency
+Strong attention to detail with the ability to QA others’ work as well as your own
+Ability to speak and write effectively for a variety of audience types and management levels
+Experience and comfort with presenting work by phone, Zoom or within small groups
+Comfort in a remote or hybrid environment, where most interactions with teammates and clients are virtual
+Familiarity with SQL, Python, R or other programming languages
+Experience working with relational databases and an understanding of ETL/ELT concepts
+Knowledge of web analytics tools such as Google Analytics, Adobe Analytics, etc.
+Proficiency in Microsoft Office software such as Word, Excel, PowerPoint and Teams
+Advanced skills using pivot tables, lookups and formulas, and building polished presentations
+Knowledge of data visualization and dashboarding tools like Tableau, Data Studio or Power BI"}}

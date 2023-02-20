@@ -1,0 +1,125 @@
+{"name":"Jacob Williams",
+"email":"jobless078@gmail.com",
+"gender":"man",
+"ethnicity":"black",
+"treatment_id":"black-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Information Technology Risk Management","company":"DATAMTX LLC","location":"Princeton","state":"NJ","country":"United States","remote":"On-site","time":"Contract","employees":"51-200","type":"IT Services and IT Consulting","level":"Mid-Senior level",
+"Main Responsibilities":"unknown",
+"Position Requirements":"Bachelor’s Degree in Computer Science, MIS, Business Analytics or related field of study; or any equivalent combination of relevant work experience and training
+Minimum 5 years of experience in supply chain information security & risk management
+Experience in a Pharma / Biotech / Healthcare company preferred
+Certified CISA, CRISC, CISM, CISSP or relevant experience
+Experience working with security and risk management frameworks and regulations (ISO, NIST, GDPR, SOX, HIPAA etc.)
+Experience working with GRC tools (ServiceNow, Galvanize, Archer, WolfPAC etc.)
+Experience in defining and implementing supply chain security management processes and controls
+Experience in setting up a supply chain security improvement roadmap and driving the implementation of corresponding actions and processes
+Experience in working in multinational organizations and global virtual teams
+Good understanding of current and emerging cyber security and privacy regulations and practices, and how other enterprises are employing them
+"},
+"ranking2":{"title":"Microsoft Dynamics Consultant","company":"Accuro","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Contract","employees":"1001-5000","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"Hands on experience with Dynamics 365 (D365) in Finance/ Supply chain (SCM) background
+responsible for performing discovery, capturing requirements, engaging subject matter experts and stakeholders, translating requirements, and configuring the solution and applications
+Respond to the customer queries and concerns promptly. Ensure that project deliverables meet customer specifications
+As D365 F&O Supply Chain Management (SCM) Consultant you will be responsible for participating in all phases of the project life cycle including: analysing, designing, modelling, testing, training, pre and post Go live support, and deploying suitable and appropriate solutions
+Work directly with clients to implement D365 F&O Finance & Accounting processes, including but not limited to: General Ledger, Accounts Payable, Accounts Receivable, Cash Management, Credit and collections, Budgeting & Fixed Assets",
+"Position Requirements":"unknown
+"},
+"ranking3":{"title":"Senior Assessment Analyst, Training and Assessment Center","company":"Miami Dade College","location":"Miami","state":"FL","country":"United States","remote":"On-site","time":"Full-time","employees":"5001-10000","type":"Higher Education","level":"Executive",
+"Main Responsibilities":"Develops and administers products and services to client agencies and student population
+Maintains day-to-day testing operations
+Develops work simulations and other testing devices for contracting public safety agencies
+Creates and coordinates internal schedules for new and existing projects, assessors, and role players
+Supervises support staff in all aspects of large-scale test administrations and candidate evaluations
+Develops and submits proposals to ensure the fiscal solvency of the Assessment Center to be self-sustaining
+Coordinates the delivery of candidate/student orientations and test conducted by the Assessment Center (CVSA, PSYCH, PAT)
+Carries out validation studies and research related to the development and implementation of testing and training programs
+Conducts statistical analysis on the effectiveness of current programs offered by the Assessment Center",
+"Position Requirements":"Master’s degree in Industrial/Organizational Psychology or related field and three (3) years of related testing experience; or bachelor’s degree in Industrial/Organizational Psychology or related field and seven (7) years of related testing experience
+"},
+"ranking4":{"title":"Senior Government Analyst","company":"Fresenius Kabi USA","location":"Lake Zurich","state":"IL","country":"United States","remote":"Hybrid","time":"Full-time",
+"employees":"1001-5,000","type":"Pharmaceutical Manufacturing","level":"Associate",
+"Main Responsibilities":"Work with management/analysts to ensure that all Government pricing submissions are accurately calculated, analyzed, validated and to ensure that the required government pricing variables for monthly, quarterly, and annual pricing submissions are appropriately reported to various federal and state government programs (Medicare Part B Program, VA Federal Supply Schedule Program, Medicaid Drug Rebate Program, and PHS 340B Drug Discount Program)
+Duties may include monthly and quarterly submission and validations of mAMP, AMP, BPI/BP, ASP submission and validations in CMS MDP system, and PHS Ceiling prices into HRSA reporting system. Preparation of PHS pricing for newly launched products. Temporary, Provisional, Permanent quarterly/annually NFAMP calculations
+Perform maintenance pertaining to the Model N system for the Government Pricing Module, Price List Module, Product Module, Methodology, and 340b contract
+Manage/provide back up for every aspect of a Products life cycle including assignment of NDC, package size intro date, shelf-life expiration date (Last Lot), reactivation date, and unit of use (INNER NDC)",
+"Position Requirements":"Bachelor’s Degree in Finance, Accounting, Economics or other degrees appropriate to this area of responsibility required
+Experience preferred with Model N suite of applications (Medicaid, Contract Management or Government Pricing) or similar applications
+3+ years’ specific experience supporting federal government pricing programs including pharmaceutical experience or federal or state government affairs, contracting or government pricing experience preferred including demonstrated knowledge of statutes, regulations, and agency guidance
+Pharmaceutical government pricing experience (AMP, BP, ASP, FSS and PHS Pricing)
+Proficiency in Word and Excel required, SAP and Access strongly preferred
+"},
+"ranking5":{"title":"PT Perishable Associate","company":"Food Lion","location":"Yorktown","state":"VA","country":"United States","remote":"(On-site)","time":"Full-time","employees":"10001+","type":"Retail","level":"Entry level",
+"Main Responsibilities":"Maintain an atmosphere of enthusiastic customer awareness with primary emphasis on fast, friendly, and accurate customer service to create a positive shopping experience
+Courteous and helpful to other associates
+Understand and use company tools such as; average cost inventory system (ACIS) and ordering (CAO)
+Receive deliveries, code where applicable, rotate and put in appropriate storage area
+Ensure that ordering, receiving, preparation, conditioning and displaying of merchandise is done in accordance with policies and guidelines
+Maintain proper product levels in all areas within the Perishable Department including meat, lunchmeat, frozen, dairy, ice cream
+Process beef and grinds as directed from the planned production tool and as requested or needed
+Wrap, label, weigh and stock meat case as requested or needed
+Assemble, disassemble, and clean the grinder as requested or needed
+Properly clean and sanitize the department
+Maintains variety and layout standards
+Ensure that all advertising and sales promotion materials applicable to the department are properly utilized
+Maintain a complete understanding of and adherence to company guidelines, policies and standard practice
+Understand and follow Food Safety and Workplace Safety guidelines and procedures
+Observe and correct all unsafe conditions that could cause associate or customer accidents
+Report all associate and customer accidents in accordance with established Food Lion procedures to the Manager on Duty
+Ensure compliance with local, state and federal regulations
+Wear the Food Lion uniform with apron, complete with name badge, when on duty, has a neat and clean appearance while adhering to the Food Lion dress code
+Successfully complete Computer Based Training (CBT), Training Packet and Training Aid courses
+Perform all other duties as assigned",
+"Position Requirements":"High school graduate or equivalent preferred
+Excellent interpersonal, organizational, communication and customer service skills
+Ability and willingness to learn multiple tasks and technical requirements of the job
+Ability to use technical information to solve problems
+Must meet minimum age requirements to perform specific job functions
+Must be able to meet the physical requirements of the position, with or without reasonable accommodations
+"},
+"ranking6":{"title":"Warehouse Associate","company":"Mondelēz International","location":"Gonzales","state":"LA","country":"United States","remote":"unknown","time":"Full-time","employees":"10001+","type":"Food and Beverage Manufacturing","level":"Entry level",
+"Main Responsibilities":"You will participate in the daily activities of our warehouses in a safe way, including activities such as truck unloading, putting away, storing, picking, truck loading, stock counting
+Work in the warehousing, order picking, palletizing, loading and unloading delivery trucks
+Adhere to all safety and quality checks and specified rules
+Assemble and load product on delivery trucks accurately and in a timely manner
+Load product pallets following standard operating procedures in accordance with the daily delivery schedule",
+"Position Requirements":"Ability to perform repetitive work in a fast-paced work environment and capable of the defined physical activities (lifting, bending, carrying, pushing, pulling, etc.)
+Forklift experience preferred
+Have or be able to obtain relevant licenses to operate equipment
+Able to Lift a minimum of 50 lbs./25kg
+"},
+"ranking7":{"title":"Aegis Weapon System Radar Engineer","company":"Modern Technology Solutions, Inc. (MTSI).","location":"Dahlgren","state":"VA","country":"United States","remote":"(On-site)","time":"Full-time","employees":"1001-5,000","type":"Defense and Space Manufacturing","level":"Entry level",
+"Main Responsibilities":"Direct support MDA Defense of Guam program office in Radar integration of a developmental architecture into the Aegis Weapons System
+Integrating multi service radars into a single weapon system
+Streamline the integration process to support schedule, cost, risk reduction
+Under the purview of MDA, provide support for requirement verification through onsite test observation and inspection. Provide Data management and Configuration Management
+Provide technical support by reviewing changes and participating in Working Groups as needed
+Provide integration and validation support of mechanical, electrical, and integrated systems
+Program management support for program lifecycle cost, program planning, schedule, and risk management
+Support all elements of the systems engineering V",
+"Position Requirements":"US Citizenship with Active Secret Clearance
+Bachelor’s Degree STEM 7+ years of experience
+Works Independently, as a team member, or leading teams/tasks
+Ability to apply Engineering rigor to solve engineering/scientific problems
+Familiarity with Aegis Weapon Systems
+"},
+"ranking8":{"title":"Consultant Engineer II","company":"FM Global","location":"Norwood","state":"MA","country":"United States","remote":"Hybrid","time":"Full-time","employees":"5001-10000","type":"Insurance","level":"Entry level",
+"Main Responsibilities":"Perform hands-on site assessments of the physical property, including roofs
+Conduct evaluations which include, but are not limited to, site water supplies, dust hazards, chemical storage, and rack storage arrangements for client products
+Assess clients’ riverine, storm water, and coastal flood exposures and develop risk mitigation solutions
+Ensure that FM Global Engineering Standards are followed and, as necessary communicate the appropriate recommendations and/or engineering solutions to clients
+Working from a home office and travel to clients' facilities daily (overnight travel is expected approximately 30% of the time)
+",
+"Position Requirements":"Minimum of a bachelor’s degree in engineering (various specialties considered!)
+Five plus years of industry experience
+Strong verbal and written communication skills
+Good analytical, organizational, problem solving, and interpersonal skills
+Efficient time management ability with minimal supervision
+Solid technical capability including diverse knowledge of engineering principles
+Flood risk mitigation design and planning experience a plus
+Experience with Geographic Information Systems (GIS) and aerial survey technologies (e.g., LiDAR) a plus
+Experience with land and/or hydrographic surveying a plus
+Authorization to work in the country you are applying to work in
+Physical ability to lift 25 pounds, able to climb ladders, balance, and deal with heights
+Proficiency in MS Office products
+A valid driver’s license"}}

@@ -1,0 +1,149 @@
+{"name":"Bruce Chen",
+"email":"jobless969696@gmail.com",
+"gender":"man",
+"ethnicity":"asian",
+"treatment_id":"asian-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Data Analyst Team Lead","company":"Union Home Mortgage Corp.","location":"Strongsville","state":"OH","country":"United States","remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"Financial Services","level":"Mid-Senior level",
+"Main Responsibilities":"Serve as a subject matter expert on business data and database structures
+Analyze data analysis requests obtained from management to determine operational problems and define data modeling requirements, validation of content, and problem-solving parameters
+Identify opportunities to use data to develop new strategies and improve business performance and utilize knowledge of mathematical modeling and other optimization methods to perform quantitative and qualitative data analysis
+Conduct exploratory meetings with business partners to generate ideas and gather requirements around how data and reporting can be used to drive operational efficiencies, as well as new business opportunities
+Communicate and present data to management by developing reports
+Collaborate with other team members to build upon results to create deeper insights
+Serve as mentor and problem-solver for Data Analysts by helping them resolve issues and get access to resources needed to deliver data to our customers
+Conduct regular one-on-one meetings with team members and provide critical feedback as necessary to the employee, or to the Enterprise Data Warehouse Manager
+Monitor workflow of Data Analysts by assigning data requests and ensuring completion dates are being met
+Review completed data requests for quality before final artifacts are delivered to customers
+This role directly supervises a team of data analysts",
+"Position Requirements":"B.S./M.S. degree in Computer Information Systems or Data Analytics, or equivalent work experience
+5+ years’ experience as a report or data analyst
+3+ years’ experience in a supervisory/management role with at least one direct report
+Proven experience and proficiency with Excel, Power BI, and SQL Server
+Strong analytical skills
+Strong team-building skills
+Detail-oriented with the ability to multitask and meet established deadlines
+Self-motivated individual with excellent written and verbal communication skills
+A willingness to work both independently and in a team-oriented environment
+Able to work with little supervision and meet deadlines on a consistent basis
+"},
+"ranking2":{"title":"Business Intelligence Analyst II","company":"Sorenson Communications ","location":"Salt Lake City","state":"UT","country":"United States","remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Telecommunications","level":"Mid-Senior level",
+"Main Responsibilities":"Understand the assigned company processes, drivers, complexities, and operational requirements
+Evaluate current Business Intelligence needs including upgrades and new product development
+Drive innovation, process optimization, and critical/analytical thinking with stakeholders and leaders
+Be the technical representative that stakeholders and leaders can use to interpret and develop new or existing insights
+Take initiative in recommending data driven solutions to best serve future business needs
+Use technical tools such as SQL, R, Python, and/or Power BI to develop compelling stories that can drive positive business outcomes
+Critically evaluate information gathered from multiple sources, reconcile conflicts, and break down high-level information into details
+Strong analytical skills required, including a thorough understanding of how to interpret business needs and translate them into application and operational requirements
+Elicit requirements using interviews, document analysis, requirements workshops, surveys, business process descriptions, use cases, scenarios, business analyses, and task/workflow analysis
+Successfully engage in multiple simultaneous initiatives
+Proactively communicate and collaborate with internal customers to analyze information needs, functional requirements and deliver the following artifacts as needed: Business Requirements Document, Use Cases, product requirements documents, written reports, dashboards, and other visual reports used to operate the business
+Possess excellent verbal and written communication skills and the ability to interact professionally with a diverse group of executives, managers, and subject matter experts
+Manage projects and coordinate solutions
+Ensure all products, artifacts, and analytics produced by yourself meet quality standards",
+"Position Requirements":"Intermediate experience with ANSI and Microsoft T SQL
+The ability to explain data and analytical findings to colleagues all levels of the organization and of varied technical backgrounds
+Experience with data visualization products including Tableau or similar, Power BI preferably
+Working knowledge of procedural and object-oriented programing languages. Preferably, python, Scala, or R. Also, an intermediate knowledge of C/C++/Java/C# is acceptable
+Conceptual understanding internet technologies including HTML, CSS, JavaScript, and SOAP/REST APIs
+Conceptual understanding of Data and Systems security
+The ability to build applications, reports, and analytics that adhere to data and system security standards
+Strong working knowledge of Microsoft productivity tools including Power Point, Word, and Excel
+The ability to interpret financial and operational data
+The ability to solve complex problems
+Excellent communication and presentation skills to stakeholders, team members, and customers
+Minimum of a 4 Year / Bachelors Degree In a relevant field. Bachelor of Science (BS, B.Tech, etc.) in a mathematically intensive field like Computer Science, Statistics, Data Analytics, Economics, Software Development, Engineering, IT (if technical), Mathematics, etc.
+Minimum of 3 years’ experience writing SQL queries and stored procedures
+3 years’ experience with data enterprise visualization platforms such as MS Power BI, Tableau, or similar
+3 years’ experience with structured software programing languages (Python, R etc.)
+1 year experience solving complex business needs in the role of business analyst, business process manager, business architect, or other technical expert company leaders leverage for answers to complex technical questions
+"},
+"ranking3":{"title":"Data Analyst MS Dynamics, Oracle Fusion Watsonville, CA 40391","company":"Dice","location":"Watsonville","state":"CA","country":"United States","remote":"Contact","time":"unknown","employees":"1001-5000","type":"Technology, Information and Internet","level":"Entry level",
+"Main Responsibilities":"unknown",
+"Position Requirements":"A solid background in data purification, extraction, review, and loading for Oracle Fusion Cloud ERP systems, as well as testing data conversion between Microsoft Dynamics and Oracle Fusion, is required of the ideal applicant
+The candidate must have experience creating data cleansing strategies and deploying Oracle Utilities and Oracle Data Conversion tools including FBDI and HDL templates
+"},
+"ranking4":{"title":"Data Analyst (Remote)","company":"General Dynamics Information Technology","location":"Little Rock","state":"AR","country":"United States","remote":"Remote","time":"unknown","employees":"100001+","type":"IT Services and IT Consulting","level":"Entry level",
+"Main Responsibilities":"Performs data analysis, interpretation and management duties
+Develops rules and methodologies for data collection and analysis
+Ensures the integrity of project data, including data extraction, storage, manipulation, processing and analysis
+Consults with the external clients and internal staff to determine data management needs and objectives
+May be responsible for database design, administration, security, and maintenance
+Prepares presentations that reflect the results of the data analysis
+Provides data-related training to staff
+Coordinates with scientists and other technical experts to design and develop statistical analyses methodologies
+Maintains current knowledge of relevant technologies as assigned
+Participates in special projects as required",
+"Position Requirements":"2-5 years of related statistics/data analysis experience
+Experience with R and/or SAS
+Bachelors Degree (Master's Degree preferred) in a Computer Science, Statistics or a related technical discipline, or the equivalent combination of education, technical certifications or training, or work experience
+"},
+"ranking5":{"title":"Biostatistician (SAS/MPH)","company":"General Dynamics Information Technology","location":"Silver Spring","state":"MD","country":"United States","remote":"On-site","time":"Full-time",
+"employees":"10001+","type":"IT Services and IT Consulting","level":"Mid-Senior level",
+"Main Responsibilities":"Utilizing SAS programming expertise to acquire and analyze personnel and health data for epidemiological studies
+Assisting in planning, designing, analyzing, and reporting on epidemiological studies
+Supporting Senior Managing Epidemiologists and other personnel in AFHSD with biostatistical expertise
+Providing consultative support on a wide variety of epidemiological and health surveillance questions including survey design, data analysis, technical writing, and public health recommendations for epidemiological consultations provided to stakeholders in the Army
+Responding to requests for information from stakeholders throughout the Army and DoD
+Assessing and ensuring the accuracy and quality of these products to include writing and reviewing SAS code
+Providing epidemiological expertise and mentorship to and collaborating with other agencies on a wide variety of epidemiological projects
+Collecting, monitoring, analyzing, interpreting, and summarizing morbidity and mortality surveillance data for the purposes of supporting behavioral health surveillance efforts for the U.S Army and the DoD
+Disseminating the results of analytical studies via technical reports, briefings, presentations, manuscripts, websites and other media based on target audiences",
+"Position Requirements":"Master's degree in Biostatistics, Epidemiology or related field
+3+ years of experience in SAS Coding
+Experience using independent judgement and advanced knowledge of applied epidemiology
+Has the ability to write and review SAS code for Public Health
+Requires US Citizenship
+Ability to obtain a Secret clearance
+"},
+"ranking6":{"title":"Data Analyst, Strategic Partnerships( Bangkok based)","company":"Agoda","location":"Atlanta","state":"GA","country":"United States","remote":"unknown","time":"Full-time",
+"employees":"5,001-10,000","type":"Technology, Information and Internet","level":"Associate",
+"Main Responsibilities":"In this role, you’ll get to:
+Strategy: Conduct analyses to identify growth opportunities and prioritize investment areas in APAC for Strategic Partnerships team based on analytical insights, industry trends, and changing competitive landscape
+Analytics: Leverage data & tools to analyze SP performance and identify appropriate levers to improve performance
+Cross-functional projects: Work with different teams inside SP (B2B, White Label, Affiliates, Financial Institutions, different markets across APAC, etc.) and outside of SP (product, marketing, supply, finance, etc.) to drive initiatives
+Performance management: Maintain and optimize a performance management system for the department, including a large team of account managers
+Data & tools: Oversee SP data infrastructure to ensure data accuracy, completeness, and timeliness. Design, manage, and oversee the maintenance of data tools to support decision making
+Performance reporting: Preparing updates on business performance, proposals, and recommendations to senior management
+Pricing Experiments: Optimize pricing strategy and make decisions based on A/B experiments",
+"Position Requirements":"4 years and above of experience with Consulting, Data Analytics, Strategy, Business Development, Business Intelligence, or other relevant fields
+Proven ability to leverage analytics and quantitative methods to break down ambiguous problems and come up with recommendations
+Growth mindset and excited to work on a variety of functional areas
+Entrepreneurial and not afraid to be hands-on on the work
+Experience working in a fast-paced and high growth environment 
+Excellent communication skills (both verbal and written in English) with ability to work well across multiple stakeholders
+"},
+"ranking7":{"title":"Senior Tableau Consultant","company":"XeoMatrix","location":"Austin","state":"TX","country":"United States","remote":"Remote","time":"Full-time","employees":"11-50","type":"unknown","level":"unknown",
+"Main Responsibilities":"This candidate must possess technical, business analysis, and communication skills. This position offers an opportunity to work directly with business teams to design strategic solutions that visualize complex data in a focused manner. This individual will work closely with customers to gather requirements, prototype designs, and develop the final deliverable. Familiarity with the Tableau architecture and best practices is a must",
+"Position Requirements":"6+ years experience with implementing Tableau solutions
+Experience with the Tableau Desktop & Tableau Prep
+Expertise in dashboard and data visualization design
+Advanced skills in data analysis and data discovery
+Experience with Tableau Server or Tableau Cloud
+Tableau Administration experience with security & permissions
+Strong communication skills: ability to lead IT architecture design sessions and/or business dashboard working sessions
+Strong SQL, relational database, & data warehousing skills
+Experience with REST APIs is a plus
+Industry experience in Retail, Finance, Supply Chain, Pharmaceuticals, and/or Manufacturing
+Agile development experience is a plus
+Experience with Redshift, BigQuery, Snowflake, Azure SQL Database is a plus
+Experience with Matillion, Fivetran, Azure Data Factory, AWS Glue is a plus
+"},
+"ranking8":{"title":"Data Governance Analyst","company":"Curate Insights","location":"New York City Metropolitan Area","state":"NY","country":"United States","remote":"Remote","time":"Full-time","employees":"11-50","type":"Data Infrastructure and Analytics","":"Mid-Senior level",
+"Main Responsibilities":"Work with lines of business to identify and solve data integrity and quality issues, recommend data quality improvement opportunities, and establish metrics for tracking performance of critical data elements
+Build Frameworks for Data Governance, Data Quality and Data Stewardship efforts
+Work with customers to align Use Cases and business initiatives with technical capabilities
+Assist with policies, procedures and standards for information management throughout its lifecycle
+Continuously improve and automate data management workflows
+Recommend deployment of tools to monitor and control data quality to business data owners and determine the level of business impact for data quality issues
+Facilitate and arbitrate data issue resolution and conflicts across business stakeholders by standardizing definitions, data requirements and quality standards
+Design and recommend data quality issue remediation and escalation processes
+Provide data management and governance guidance and best practices for Modern technologies like Big Data and Cloud technologies
+Assist lines of business with interpreting data, writing business and data requirements and creating reports
+Explore innovative tools and technology, evaluate new systems and keep up to speed with industry
+Analyze existing tools and databases and provide software solution recommendations
+Monitor and maintain the reporting environment, including data sources, security, and metadata
+Help set/inform standards and compliance for Data Security and Privacy
+Understanding of Master Data Management (MDM) and tools like Informatica, Semarchy, Reltio, Riversand, etc...",
+"Position Requirements":"Unknown"}}

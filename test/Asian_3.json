@@ -1,0 +1,152 @@
+{"name":"Gary Hai",
+"email":"Business Reporting & Data Analyst",
+"gender":"man",
+"ethnicity":"asian",
+"treatment_id":"asian-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Business Reporting & Data Analyst","company":"AmeriHome Mortgage Company, LLC","location":"Westlake Village","state":"CA","country":"United States","remote":"On-Site","time":"Full-time","employees":"501-1000","type":"Financial Services","level":"Mid-Senior level",
+"Main Responsibilities":"Compile analytical and statistical reports as needed
+Formulate, define and recommend scope and format of reports
+Oversee provision of ad hoc management reports
+Review information for accuracy and reconciles data on a regular basis
+Provide internal and external data needs
+Define, review and implement best practices for data entry, software security, reporting and information management within database
+Map and load data into development environments
+Elicit business and functional requirements and document them in JIRA / Confluence / Atlassian
+Develops and creates management reporting, including monthly business review materials and presentations
+Perform at a high departmental service levels, production, and quality standards
+Applies applicable theories and concepts to interpret data, provide analysis and observations",
+"Position Requirements":"Bachelor's degree in Computer Science, Business, Economics, Statistics, Software Engineering, other associated fields, or equivalent work experience
+Thorough understanding of frameworks, analytics, programming languages, design, databases and operating systems
+Ability to work independently and as a team player
+Organized, responsible, and ability to use good judgment
+Ability to thrive in a fast paced, multi-tasking environment, and to manage multiple deadlines
+Effective at managing multiple projects/tasks of varying complexities, meeting deadlines and working well under pressure
+Demonstrated verbal and written communication skills
+Proficiency in Microsoft Office products (Excel, Word, PowerPoint, Visio)
+Prior experience in relational databases, Microsoft SQL Server, and Excel VBA is a plus
+"},
+"ranking2":{"title":"Senior QA Analyst (BI/Web)","company":"Keeper Security, Inc.","location":"El Dorado Hills","state":"CA","country":"United States","remote":"Remote","time":"Full-time","employees":"201-500","type":"Software Development","level":"Associate",
+"Main Responsibilities":"Test web-based applications per a standardized QA process
+Set up and configure test tools as needed to accomplish testing goals
+Work with Jira and Confluence to process tickets and document work
+Work with test management platforms such as Testrail
+Configure desktop and mobile operating systems and applications to conduct application testing
+Work with web browsers and other tools used within enterprise environments",
+"Position Requirements":"Experience with enterprise environments and network operations, ideally with a background as a system administrator
+Understanding of fault tolerance and multi-tenancy concepts and implementations, such as load balancers and proxies
+Knowledge of Active Directory, LDAP and Identity Management concepts
+Solid knowledge of standard enterprise operating systems, such as Windows 10, Mac OS X, Linux, Windows Server
+"},
+"ranking3":{"title":"Global Information Governance Analyst","company":"Latham & Watkins ","location":"Los Angeles","state":"CA","country":"United States","remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"Law Practice","level":"Mid-Senior Level",
+"Main Responsibilities":"Providing direct support on all types of projects and other work handled by the IG Operations Support team
+Working with relevant Technology department personnel to properly configure and conduct IG-related reviews using litigation support applications
+Supporting the maintenance and administration of the Records Management System as needed
+Moving, labelling, and implementing the appropriate security settings and procedures for electronic data being stored by the firm
+Participating on virtual teams that support various functions of the IG department and are comprised of global and practice office staff",
+"Position Requirements":"Exhibit an extensive knowledge of information governance, data security and privacy principles, best practices, and procedures
+Demonstrates a thorough knowledge of the physical and electronic resources of the department and firm; understands and is able to articulate the role of effective space management in the overall administration of the office
+Possess well-developed and professional interpersonal skills, with the ability to effectively interface with attorneys, management, support staff, clients and outside contacts
+A Bachelor’s degree
+A minimum of five (5) years of relevant experience will be considered in lieu of a bachelor’s
+A minimum of three (3) years relevant records experience desired, preferably at a law firm
+Experience in other law firm positions having significant document organizational responsibilities may be considered in lieu of directly related Information Governance or Records experience
+"},
+"ranking4":{"title":"Data Analyst-Entry level.","company":"Flexon Technologies Inc.","location":"Pleasanton","state":"CA","country":"United States","remote":"On-Site","time":"Full-time","employees":"51-200","type":"IT Services and IT Consulting","level":"Entry level",
+"Main Responsibilities":"Work hand-in-hand with the business side of an organization to help in process improvement
+Working primarily on design and analysis in the areas of organization, planning cum information technology
+Works as the middle man between the technical team and business team so as to assist in the development of requirements needed for the business
+He/ She will be responsible for documenting customer requirements as outlined by the business users
+The analyst’s role also includes making sure that the designs meet the company’s technical standards",
+"Position Requirements":"Entry Level / Fresh Graduates / Engineers - BS / MS in Business/Data Analytics, Management Information systems, Computer Science ,Software engineering, IT, Industrial Engineering/Engineering management
+Prior experience is a plus but not required
+Candidates with strong communication/presentation skills, strong aptitude to learn and interest in Software programming, Testing or Business Analysis
+Work Authorization: Must be authorized to work in the US
+"},
+"ranking5":{"title":"Sr. Analyst, Data Governance - Decision Sciences","company":"NBCUniversal","location":"Beverly Hill","state":"CA","country":"United States","remote":"On-Site","time":"Full-time","employees":"10,001+","type":" Entertainment Providers","level":"Mid-Senior level",
+"Main Responsibilities":"Work closely with Privacy Counsel and a wide range of internal stakeholders to help implement privacy and governance strategies to achieve the above goals
+Work with the Direct-to-Consumer Data Governance team on tactical day-to-day data management processes
+Assist in executing processes to ensure compliance with various laws and regulations, including VPPA, COPPA, CCPA/CPRA, GDPR and others
+Serve as a liaison with brand stakeholders to ensure alignment and understanding of evolving data privacy requirements, evaluating risks and providing recommendations / solutions from Data Governance leadership in a timely manner
+Manage the brands’ privacy portal and associated Individual Rights Requests
+Manage the brands’ consent management platform (CMP)
+Help to define roles and responsibilities related to consumer data governance and establish standard operating procedures for data stewardship
+Ensure privacy impact assessments and security assessments are completed for system and processes in scope, including vendor management",
+"Position Requirements":"1+ years of working with privacy and security-related matters, privacy statutes, data trends and their related legal implications
+1+ years of experience implementing Privacy and/or Data Governance best practices, policies & procedures, preferably with consumer data in a large organization
+1+ years of project management experience
+BA/BS in business, technology, legal studies or relevant work experience
+"},
+"ranking6":{"title":"MASTER DATA MGMT ANALYST-SC","company":"Stanford Health Care","location":"Palo Alto","state":"CA","country":"United States","remote":"On-Site","time":"Full-time","employees":"100001+","type":"Hospitals and Health Care","level":"Mid-Senior level",
+"Main Responsibilities":"Function as the primary point of contact related to the day-to-day execution of MDM related tasks. They will work to answer questions, resolve data issues and provide analysis
+Assists in developing and maintaining requirements/specifications for new or enhanced functionality to department operational reports
+Collaborates with ITS in managing the resolution of problems and implementation of changes to the department’s information systems
+Perform master data additions, changes and deletions in accordance with procedures and business rules
+Ensure requests for master data maintenance are properly authorized and approved by working with appropriate Data Managers and Data Owners
+Educate users on master data processes and business rules
+Evaluates business and program application systems’ functionality to identify gaps, measuring the solution impact to business operations. The MDMA serves as a liaison between the business managers and ITS to improve productivity and developing and delivering improved data quality and analytics
+Maintains system applications for key stakeholders under general direction of the Data Manager and with guidance from Lawson team
+Filter and cleanse data, review reports and performance indicators to location and correct data and processes where needed
+Runs ad hoc and scheduled reports and collects feedback from customers on creating new reports
+Maintains accurate and up to date price file management in accordance with current contracts
+Performs proactive and ad hoc price performance benchmarking
+Supports vendor and recall management by ensuring data accuracy and adherence to industry and/or regulatory standards
+Supports Non-Labor expense reduction initiatives through comprehensive Item Master and PAR data management, and directed reports to Logistics Managers
+Under direction of the Purchasing manager, designs and maintains organized system for Pricing Agreements and ensures the accuracy of prices in item file and on POs. Partners with Accounts Payable to ensure accuracy of vendor file
+Conducts quality control activities and recommends and/or implements additions/changes to Master Data Management policies and procedures
+Monitors key performance indicators to ensure data accuracy and data management policies are working as expected
+Develop and design improvements to the processes, procedures, tools, rules and metrics to ensure data integrity of master data domains
+Performs other related and incidental duties as needed or assigned",
+"Position Requirements":"Bachelor’s Degree in Information Systems, Business Administration or other related field from an accredited college or university is required
+Four (4) years of progressively responsible and directly related work experience, preferably in a hospital environment
+Positions supporting LPCH require proficiency in the use of PeopleSoft Enterprise Supply Chain Management
+Positions supporting SHC require demonstrated proficiency in the use of Infor Lawson Supply Chain Management
+Demonstrated ability to cleanse, analyze and connect data from multiple sources
+Understanding of Master Data Management principles and practices in an enterprise environment
+Demonstrated experience with Infor Lawson Supply Chain Management
+Ability to be sensitive to the needs of customers through the practice of quality service principles
+Ability to communicate effectively, both orally and in writing, to persuade internal and external stakeholders
+Ability to develop long-range business plans and strategies
+Ability to manage complex relationships with critical vendor partners
+Ability to strategize, plan and implement change
+Ability to understand, draft and negotiate Contractual Agreements and Pricing Agreements
+Ability to work effectively both as a team player and leader
+Knowledge and understanding of financial and statistical activity reports
+Knowledge of automated materials management functions
+Knowledge of basic legal principles
+Knowledge of project management processes and systems
+"},
+"ranking7":{"title":"Senior Data Analyst","company":"Edward Jones","location":"Los Angeles","state":"CA","country":"United States","remote":"Remote","time":"Full-time","employees":"100001+","type":"Financial Services","level":"Mid-Senior level",
+"Main Responsibilities":"Design, manage and execute research projects that generate actionable insights and support business outcomes
+Collect and examine primary data using interviews, surveys, and quasi-experimental and field experiments. Examine secondary data including administrative data using statistical techniques (e.g. t-test, regression, factor analysis, clustering, etc.)
+Communicate insights to stakeholders using compelling narratives and data visualization
+Consult with business stakeholders and collaborate with peers to understand the trade-offs between various approaches and co-create the most efficient and effective research designs
+Build trusted strategic relationships with stakeholders to create buy-in on research plans and influence stakeholders to take appropriate action
+Examine, synthesize, and curate external academic research for application to the Edward Jones business context
+Identify critical tasks, sequence work, prioritize, identify dependencies and conclusions needed to achieve an end deliverable
+"},
+"ranking8":{"title":"Operations Data Analyst","company":"KARL STORZ Endoscopy-America, Inc.","location":"El Segundo","state":"CA","country":"United States","remote":"(On-site)","time":"Full-time","employees":"1001-5000","type":"Medical Device","level":"Associate",
+"Main Responsibilities":"Collaborate with internal business partners facilitating the design, build and automation of reports / dashboards in Tableau that provide actionable insight into customers, products, and sales force
+Mine data, perform quantitative analysis and create clear and actionable narratives about our customers, their behaviors, and drivers of retention and engagement
+Leverage data modeling, wrangling and analytics techniques to investigate our internal data and external data (e.g., surgical procedures) to boost our understanding of medical devices market
+Partner with compliance teams to understand business context, develop metrics to measure performance, iterate and improve on data insights and solutions to deliver actionable information to the business
+Collaborate with stakeholders including technical services, logistics, compliance, OR1 customer service etc. on initiatives that improve our company-level KPIs and match our business priorities
+Develop and deploy solutions for solving business problems predictive modeling techniques
+Build intuitive interfaces, infographics, and visualizations to tell stories with data
+Create presentations with analysis and insights for both technical and non-technical audiences
+Be constantly curious and continue to pursue in-depth explorations of our datasets
+Communicate complicated data findings in a clear and concise manner to stakeholders
+Ad-hoc analysis to address urgent high impact analysis for business stakeholders",
+"Position Requirements":"A Bachelor's degree in a quantitative discipline (e.g., Statistics, Computer Science, Math, Engineering) or equivalent consulting experience
+3+ years of experience with data exploration and visualization like Tableau, Looker, PowerBI, etc. It is a plus if you can share a portfolio of clear, intuitive, and insightful visualizations
+3+ years of experience in data analytics, including building and deploying enterprise-wide data models with applications to real-world problems
+Effective written and verbal communication skills to translate technical solutions and methodologies to executive leadership
+Demonstrated success working in a collaborative, service-oriented team environment
+Experience working in a cross-functional setting, managing the full lifecycle of projects
+Experience working well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+Attention to detail with self-discipline and a drive for results
+Advanced problem-solving, organizational, analytical, and critical thinking skills
+Proven experience with tolerance for ambiguity working through incubation to actual product definition
+Pragmatic attitude and ability to rapidly iterate and evolve ideas into practical implementations
+Proficient in SQL and/or other data query languages. Experience of handling large scale data with efficiency. Familiar with Python or R is a plus
+Experience in medical device or healthcare industry is a plus"}}
