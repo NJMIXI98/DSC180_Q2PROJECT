@@ -100,12 +100,8 @@ def main(targets):
         plt.pie(data, labels = types)
         plt.title("Types of Company for African American Male")
         plt.show(block = True)
+        plt.waitforbuttonpress()
         
-        plt.ion() 
-        plt.plot([1.4, 2.5]) 
-        print("***********")
-        plt.show(block=True)
-      
 
 if __name__ == '__main__':
     targets = sys.argv[1:]
