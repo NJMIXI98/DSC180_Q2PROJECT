@@ -1,0 +1,818 @@
+{"name":"Nancy Jiang",
+"email":"nancyjiang9798@gmail.com",
+"gender":"woman",
+"ethnicity":"asian",
+"treatment_id":"asian-female",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Lead Analytics Consultant Remediation Analytics Deposit Products Group Team","company":"Wells Fargo","location":"Fort Mill","state":"SC","country":"United States","remote":"Hybrid","time":"Full-time",
+"employees":"10001+","type":"Financial Services","level":"Mid-Senior level",
+"Main Responsibilities":"Explore, evaluate, design, test and validate high level regulatory remediations strategies, quality and data.
+Provides up-front data discovery and analytics supporting Remediation Analytics, as well as defining and implementing data strategies for new remediations.
+Advise line of business, , and more experienced leadership on business strategies based on research of performance metrics, trends in population distributions,
+Creates and Contributes to the development of analytic strategies to address multiple impact scenarios, working independently to resolve data across complicated data sources
+Provide end-to-end ownership of analysis efforts including requirements development, code development, documentation and validation
+Mentor or manage less experienced staff, interns, and external contractors
+Collaborate and consult with peers, colleagues, and more experienced managers to resolve issues and achieve goals",
+"Position Requirements":"5+ years of Analytics experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education.
+Experience in Financial Services working with line of business data, specifically, Retail Banking Consumer & Small Business Banking Deposit Products.
+3+ years of SQL and/or SAS experience.
+1+ year of Teradata experience.
+Experience in gathering, analyzing and interpreting large datasets.
+Strong analytical skills with high attention to detail and accuracy.
+Strong communication skills and ability to articulate complex material to a diverse audience.
+Advanced problem solving and technical troubleshooting capabilities.
+Experience in gathering, analyzing and interpreting large datasets.
+Extensive knowledge and understanding of research and analysis.
+Ability to grasp complex business issues quickly, recommend solutions, and drive for resolutions.
+Ability to quickly learn business operations and processes.
+Ability to translate business needs into complex analysis designs and recommendations.
+Experience coordinating multiple tasks within aggressive time frames.
+Ability to be flexible and adjust plans quickly to meet changing business needs.
+Ability to prioritize work, meet deadlines, achieve goals, and work under pressure in a dynamic and complex environment.
+Ability to interact with integrity and a high level of professionalism with all levels of team members and management.
+Excellent verbal, written, and interpersonal communication skills.
+Bachelor's degree or higher in a quantitative field such as applied math, statistics, engineering, physics, accounting, finance, economics, econometrics, computer sciences, or business/social and behavioral sciences with a quantitative emphasis and 4+ years of experience in one or a combination of the following: reporting, analytics, or modeling.
+"},
+"ranking2":{"title":"Data Analyst-(industry 4.0)",company":"Nemak","location":"Sylacauga","state":"AL","country":"United States","remote":"On-site","time":"Full-time",
+"employees":"100001+","type":"Motor Vehicle Manufacturing","level":"Entry level",
+"Main Responsibilities":"Maintain current MES (Manufacturing Execution System) configuration.Oversee and maintain ETL transfers between MES and other systems.Troubleshoot issues and identify root cause and drive to eliminate them.Act as a Project Manager for I4.0 related projects and objectives for the site.Report development on relevant data as per business requirements to help drive data decision making.Understand operational issues and provide information systems based solutions to improve visibility for those problems and help in their elimination.Assist in the identification and promotion of business enhancements and value using data analytics and smart technologies.Promote and implement internal MES best practices and collaborate with other regional experts.Undertake BI (business intelligence) training to keep up with advancements in the analytics field (AI / Machine Learning / Analytics)
+.Support any Industry 4.0 related requests and topics from the Plant",
+"Position Requirements":"Minimal programming experience with any of the following: MS Excel, MS Access, SQL, JavaScript, HTML, etc..Interest in data analytics and related programming.Strong written and verbal communication.Project Management skills.Ability to prioritize workflow and have a sense of urgency.Interest and eagerness to learn new technologies, and apply them to solve problems.Minimum of 1 year of related experience preferred.Bachelor’s Degree in Industrial Systems/ Manufacturing/ Computer Technology Engineering preferred.Experience with report development in SSRS, Tableau, or similar preferred
+"},
+"ranking3":{"title":"Statistician","company":"alliantgroup","location":"Houston","state":"TX","country":"United States","remote":"On-site","time":"Full-time",
+"employees":"1001-5000","type":"Business Consulting and Services","level":"Associate",
+"Main Responsibilities":"unknown",
+"Position Requirements":"Masters in Statistics, Applied Mathematics or similar degree.
+1-3 years of experience in the field or in a related area.
+Experience compiling reports, charts and tables based on established statistical methods.
+Analyzes and interprets data from various sources.
+Relies on experience and judgment to plan and accomplish goals.
+Proven track record of meeting deadlines.
+Superior analytical and problem solving skills.
+Self-starter and works well with minimal supervision.
+Proficient with Microsoft Excel, Word, SAS, R, and/or LaTeX preferred but not required.
+Flexibility to travel for business and training purposes.
+Work location is Houston, TX
+"},
+"ranking4":{"title":"data analyst","company":"Staffing Technologies","location":"Buffalo","state":"NY","country":"United States","remote":"Hybrid","time":"Contract",
+"employees":"201-500","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"unknown",
+"Position Requirements":"A minimum of three years working as a Data Analyst in the Microsoft Suite of Tools to include Power BI, PowerApps, SharePoint and SQL Databases
+.A minimum of three years of experience with building analytical reports and developing dashboards via PowerApps, PowerBI and SharePoint
+.Strong development skills in building queries and creating business logic and workflows with Microsoft PowerApps
+.Proven analytic skills, including mining, evaluation, analysis, and visualization
+.Technical writing experience in relevant areas, including queries, reports, and presentations
+.Strong SQL and Excel skills with the ability to learn other analytic tools
+.Prior experience with database and model design and segmentation techniques
+.Exposure to programming experience with frameworks including XML, JavaScript, SQL, and ETL.
+"},
+"ranking5":{"title":"data analyst","company":"Appen","location":"unknown","state":"SD","country":"United States","remote":"remote","time":"Part-time",
+"employees":"501-1000","type":"IT Services and IT Consulting","level":"Entry level",
+"Main Responsibilities":"Short-term commitment, potential to work long-term. Flexible work schedule.Some projects may ask you to work a designated number of hours each week.",
+"Position Requirements":"No prior data collection experience is necessary.Fluent spoken and written skills in English and the language specified in the role on the application page.Smartphone device, Android or iOS.Personal computer or laptop.Stable internet connection.
+"},
+"ranking6":{"title":"data analyst","company":"Brilliant Infotech Inc.","location":"Buffalo","state":"NY","country":"United States","remote":"Hybrid","time":"Contract",
+"employees":"51-200","type":"IT Services and IT Consulting","level":"Mid-Senior level",
+"Main Responsibilities":"unknown",
+"Position Requirements":"Strong development skills in building queries and creating business logic and workflows with Microsoft PowerApps
+.Technical writing experience in relevant areas, including queries, reports, and presentations
+.A minimum of three years of experience with building analytical reports and developing dashboards via PowerApps, PowerBI and SharePoint
+.Proven analytic skills, including mining, evaluation, analysis, and visualization
+.Strong SQL and Excel skills with the ability to learn other analytic tools
+.Prior experience with database and model design and segmentation techniques
+.Exposure to programming experience with frameworks including XML, JavaScript, SQL, and ETL
+"},
+"ranking7":{"title":"13 - Workday Data Analyst (HCM)","company":"Austin Fraser","location":"Austin","state":"TX","country":"United States","remote":"remote","time":"Contract",
+"employees":"201-500","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"You'll lead evaluation and design of cuntional data, structures and conversion along with cross function teams with a focus on HCM and Reporting.",
+"Position Requirements":"3+ years with Workday HCM and Reporting module experience.
+Strong with data structure optimization and conversion.
+Foundational Data Models.",
+"salary":"Pay Rate: $75 - $85 per hour (possible flexibility based on experience)
+"},
+"ranking8":{"title":"Senior Quantitative Researcher","company":"Gartner","location":"unknown","state":"FL","country":"United States","remote":"remote","time":"Full-time",
+"employees":"10001+","type":"Information Services","level":"unknown",
+"Main Responsibilities":"Identify ways to analyze the most pressing business challenges facing executives from Fortune 500 and mid-sized companies, and translate research and survey results into actionable recommendations that clients can implement.
+Dissect problems using qualitative and quantitative research and analysis skills, inductive and deductive reasoning, abstract thinking and root-cause analysis
+Partner with quantitative and qualitative researchers to build predictive models and translate abstract concepts into measurable constructs for hypothesis testing.
+Lead quantitative research workstreams, including modeling, survey design, question writing, analysis plan creation and execution.
+Analyze data using advanced statistical techniques to identify actionable insights.
+Assist in the standardization and finetuning of quantitative research processes that reduce friction and improve knowledge sharing among different teams and stakeholders.
+Discover new benchmarking and diagnostic opportunities and design, test and bring new client-ready products to life.",
+"Position Requirements":"Experience managing several full-cycle research projects simultaneously including primary and secondary research utilizing qualitative and quantitative data.
+Experience managing stakeholders, specifically, the ability to critically evaluate research teams’ work while maintaining effective working relationships that advance our research.
+Experience designing research experiments and benchmarking products, including measuring concepts, designing surveys and visualizing results.
+Excellent analytical skills, specifically, the ability to solve problems using qualitative and quantitative information (e.g. root cause and modeling).
+Deep statistical knowledge and fundamentals.
+Experience sharing data insights and teaching in simple and intuitive graphs.
+Expertise with Microsoft Excel and a statistical package (e.g., SPSS, STATA, R, etc.) for advanced analytics (e.g., multi-variate regressions, logistic regressions, cluster analysis, factor analysis, etc.) required.
+Proficiency with regular expressions and other deterministic methods for processing text as well as experience in practical NLP is a plus.
+Strong written and verbal English communication skills, including an ability to effectively collaborate with technical and non-technical research and advisory teams."}}
+
+{"name":"Emma Smith",
+"email":"emmasmith.linkedin999@gmail.com",
+"gender":"woman","ethnicity":"Caucasian",
+"treatment_id":"caucasian-female",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Quantitative Analyst","company":"Resolute Management Inc.","location":"Boston","state":"MA","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"201-500","type":"unknown","level":"unknown",
+"Main Responsibilities":"Build and calibrate models that forecast impact of environmental claims (hazardous waste and asbestos) to various client companies through analysis of financial and legal issues.
+Participate in annual reserving initiatives from data collection to model design and execution.
+Provide quantitative support to other departments to address specific business questions, solutions or plans.
+Generate ad hoc reporting for management and clients.",
+"Position Requirements":"Find creative solutions to problems when limited information is available.
+Capable of managing an assigned project with a wide degree of independence.
+Attentive to detail.
+Organizational and prioritizing skills.
+Ability to produce work in a short amount of time, if necessary.
+Demonstrated ability to quickly learn how to adopt and utilize new systems and procedures.",
+"salary":"unknown
+"},
+"ranking2":{"title":"Sr. Audience Data Analyst","company":"HS Ad North America","location":"Englewood Cliffs","state":"NJ","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"51-200","type":"unknown","level":"unknown",
+"Main Responsibilities":"Leverage data sources to expand knowledge of LG’s prospects, shoppers, purchasers, and owners.
+Provide audience insights beyond standard reports to help inform strategic decisions for demand generation activities and beyond.
+Create and maintain clear and useful audience dashboards, preferably with Google Data Studio.
+Turn raw data from the site analytics tool and CDP into visual and actionable insights.
+Employ verbal, written, and visual communication skills to effectively deliver learnings to key stakeholders.",
+"Position Requirements":"5+ years of relevant professional experience, particularly at a media company or in a research/data analytics role preferred.
+Experience with SQL, including query optimization and joining datasets.
+Knowledge and experience with Google Analytics and Big Query strongly preferred.
+Experience with data visualization tools such including Tableau and Google Data Studio; dashboard design and development skills strongly preferred.
+Strong Microsoft Excel and PowerPoint skills, with ability to create compelling presentations.
+Excellent communication skills with the ability to draw conclusions based on data.
+Knowledge of digital media/marketing metrics preferred.",
+"salary":"unknown
+"},
+"ranking3":{"title":"Business Intelligence Analyst","company":"Confidential ","location":"West Palm Beach","state":"FL","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"11-50","type":"unknown","level":"unknown",
+"Main Responsibilities":"Extract information from various internal source systems, to build data visualization using software such as Sisense, Tableau, Dundas or Power BI.
+Conducts analysis to aid in building dashboards, which will allow stakeholders to make business decisions.
+Gather requirements and documentation from subject matter expert on their selected channel and successfully deploy solutions to satisfy requirements.
+Develop and test different models and implement the most accurate for forecasting.
+Work in dynamic environment with a strong focus on achieving the team goals.
+Additional duties as directed by leadership.",
+"Position Requirements":"Bachelor’s degree and/or comparable work experience in business intelligence and analytics.
+Demonstrated experience working with multiple teams.
+Intermediate database design structure and relational database concepts.
+Strong proficiency in Microsoft SQL, PostgreSQL.
+Intermediate knowledge of data warehouse design and usage.
+Ability to work independently on multiple engagements, communicate and provide timely updates to Director of BI and Products, and team members.
+Experience managing data validations.
+Demonstrates a strong ability to use the right elicitation techniques, to gather requirements.",
+"salary":"We offer competitive salary, medical, dental, life, and disability insurance, 401(k) program with company match, paid vacation, professional working environment, job specific training, & advancement opportunities. Become part of our expanding national team that offers, professional growth opportunity, excellent earning potential, training, and leadership that appreciates your drive, skills and ability. We are an equal opportunity employer and a drug free workplace.
+"},
+"ranking4":{"title":"Senior Business Intelligence Analyst","company":"Dresser Utility Solutions","location":"Houston","state":"TX","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"201-500","type":"unknown","level":"unknown",
+"Main Responsibilities":"Develop and promote relationships/partnerships with key business stakeholders.
+Partner with key business stakeholders, IT team members, and business users to understand business processes, evaluate BI requirements, uncover areas for improvement, and translate requirements into actionable data, reporting and visualization solutions.
+Conduct effective business meetings to gather requirements and critical information, share ideas, and present findings and solutions.
+Manage stakeholder BI demand and backlog of reporting requirements and needs.
+Work with team members to prioritize and deliver BI solutions, training, and best practice guidelines to BI users across the organization.
+Design, develop, implement, and fully document strategic BI solutions that meet business requirements with performance, usability, and quality metrics in mind.
+Design and develop solutions based on a strong understanding of sound database structure, database schema, data structures and algorithm concepts.
+Learn existing BI/ETL/Data architectures and solutions; provide support and maintenance for these solutions.
+Monitor, configure, tune BI solutions to ensure a stable environment with acceptable performance.
+Research business problems, recommend and create BI solutions that help users address these problems.
+Develop detailed and thorough test plans and execute rigorous testing to ensure solid, issue-free, BI solutions.
+Learn, understand, apply, and provide input to Dresser policies, procedures, standards, and best practice guidelines for all areas of BI and data warehouse/management design.
+Work within the Dresser IT Management System to leverage the full support of IT, understand and utilize this system (project management, request management, project portfolio, service portfolio). Follow and use the Dresser Change Management process.
+Collaborate effectively with teams and business partners to define, document, and implement project work.
+Effectively respond to service requests received from end users in a comprehensive and timely manner.
+Participate in after-hours implementations, upgrades, troubleshooting, and/or on-call availability as needed.
+Troubleshoot complex issues and participate in escalations within a team environment.
+Utilize superior customer service skills to engage and collaborate with both internal and external resources.
+Participate in other activities necessary to support all departments and aspects of the Dresser business.
+Perform other related duties incidental to the work described herein.",
+"Position Requirements":"Fundamental design principles behind a BI solution.
+MS SQL Server, SSRS, SSAS, SSIS, SSMS, Power Query, Visual Studio, Dev Ops tools.
+Design, build, deliver, train on organization-wide, actionable, complex Business Intelligence data visualization reporting solutions that include analytical and professional parameterized reports and dashboards using various table types, charts, KPIs, and metrics, i.e., Microsoft Power BI or Tableau.
+Strong English reading, writing and verbal communication skills with experience writing complex functional and technical specifications documents.
+Ability to effectively communicate with all levels of the organization up to and including executive roles.
+Leading and supporting successful projects.
+Project Management methodologies (Agile, Waterfall, Hybrid) and SDLC.
+Strong interpersonal skills and the ability to build relationships with colleagues, customers, vendors, and other third parties.
+Ability to maintain a positive attitude, flexibility and resilience when facing multiple demands in challenging circumstances and shifting priorities.
+Influencing skills, able to quickly establish credibility and effectively work with others through influence.
+Critical thinking, creative, analytical, and problem-solving skills; quickly and successfully troubleshoot problems in complex BI environments.
+Excellent planning, organization, and time management skills; ability to effectively prioritize tasks with competing deadlines.
+Self-starter, time management, effectively prioritize tasks with competing deadlines.
+Comfortable with ambiguity as we are building an environment of growth and change.
+Strong team contributor, sharing ideas, knowledge, and best practices.
+Self-motivated Can-Do Attitude, confident, and able to work effectively with little supervision; takes initiative, makes things happen, accepts accountability.
+A strong value system, excellent judgment, unquestioned.",
+"salary":"unknown
+"},
+"ranking5":{"title":"Data Science Analyst","company":"Glaukos Corporation ","location":"San Clemente","state":"CA","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"501-1000","type":"Medical Equipment Manufacturing","level":"Entry level",
+"Main Responsibilities":"Extract and analyze data from GxP systems, and other sources as needed, to deliver actionable reports to be used to support various quality related activities. Examples include, but are not limited to, Management Review, Complaint Review, CAPA investigations, and Postmarket Surveillance.
+Understand quality systems and related processes to comprehend best available data to support reporting needs.
+Utilize software and data related tools to create and provide dashboards, charts, and other data related outputs to maximize useability for stakeholders to understand the health of the Glaukos quality system and portfolio of Glaukos products.
+Performs various activities to ensure accuracy and usability of data, including data gathering, data preparation, data transformation, and data visualization.
+Use statistical tools to analyze data, make acceptance decisions, and improve process.
+Evaluates data and identifies trends in order to develop innovative solutions.
+Work closely with cross functional stakeholders to meet regulatory and business objectives. Ability to lead meetings, support projects and deliver presentations.
+Utilizes business acumen, collaboration, and inquisitiveness to understand problems and identify which data can be utilized to diagnose potential causes.
+Escalate identified quality concerns and/or potential concerns.
+Assist in various quality system analysis, including investigations as appropriate.
+Ensure compliance with all Federal, State, local and company regulations, policies, and procedures.
+Other duties to support the Glaukos Quality unit as assigned.
+Be creative, critical, and analytical thinking to develop innovative ideas to solve problems.",
+"Position Requirements":"Bachelor’s degree in a Data Analytics, Data Science or in a life science, chemistry or engineering field or related degree. Applicable related experience in a regulated environment utilizing data and analytics in addition to required work experience. Advanced degree or qualifications in Quality Assurance Data Analytics, or applicable programming tools desired.
+Minimum of 1-2 years of experience in a data science, data analytics, quality, and/or regulatory affairs position.
+Experience pulling data and reports to solve business problems.
+Knowledge of global Medical Device, Pharmaceutical, and Combination product regulatory requirements.
+Must have excellent documentation skills.
+Attention to detail and accuracy.
+Team player while demonstrating effective negotiation and influence skills for critical compliance related topics.
+Good written/oral communicator.
+Able to thrive in a small, entrepreneurial environment.
+Must be organized and able to coordinate activities with internal departments and outside vendors.
+Ability to effectively negotiate and build collaboration amongst individuals.
+Good interpersonal, verbal and written communication skills.
+Working knowledge of device and/or pharmaceutical manufacturing processes desired.
+Experience with regulatory inspections including interacting with auditors and supporting regulatory audits is preferred.
+Experience with working in validated quality software.
+Proficient in MS Word, Excel, PowerPoint, Visio, and other applications.
+Self-motivated, detail-oriented, and willing to accept temporary responsibilities outside of initial job description.",
+"salary":"unknown
+"},
+"ranking6":{"title":"CPT/OPT/H1 Hiring and Placement for Data Analyst","company":"VForce Infotech","location":"New York","state":"NY","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"51-200","type":"IT Services and IT Consulting","level":"unknown",
+"Main Responsibilities":"Using automated tools to extract data from primary and secondary sources.
+Removing corrupted data and fixing coding errors and related problems.
+Developing and maintaining databases, data systems – reorganizing data in a readable format.
+Performing analysis to assess quality and meaning of data.
+Filter Data by reviewing reports and performance indicators to identify and correct code problems.
+Using statistical tools to identify, analyze, and interpret patterns and trends in complex data sets that could be helpful for the diagnosis and prediction.
+Assigning numerical value to essential business functions so that business performance can be assessed and compared over periods of time.
+Analyzing local, national, and global trends that impact both the organization and the industry.",
+"Position Requirements":"Bachelor’s Degree in Information Technology, a STEM Graduate Degree within Information Technology; Majors include Math, Engineering, Computer Science, Computer Information Systems, Cyber Security, Management Information Systems (MIS) Data Science, Data Engineering or related.
+Technology-focused on foundational software development skills.
+Excellent communication (verbal and written) and interpersonal skills.
+Readiness to accomplish tasks in a challenging environment, self-motivated learner, strives for excellence, and strong analytical and problem-solving skills.",
+"salary":"unknown
+"},
+"ranking7":{"title":"Junior Data Analyst","company":"Baked by Melissa ","location":"New York","state":"NY","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"201-500","type":"Food & Beverages","level":"unknown",
+"Main Responsibilities":"Use data mining to extract information from data sets and identify correlations and patterns.
+Organize and transform information into comprehensible structures such as charts, graphs, and reports.
+Perform statistical analysis of data while monitoring quality and removing corrupt data.
+Assist the Director of Compliance & Product Development in the analysis of existing systems and processes with the goal of improving and implementing best practices.
+Assist with the testing of new releases in the ERP system prior to the use in a production environment.
+Design test cases to cover business processes and system functions; Run tests, analyze results, manage defects and resolve issues.
+Identify and recommend new ways to streamline business processes.
+Communicate data content and trends with management and other departments.
+Create documentation and procedure guidelines for ERP systems users.
+Assists with the development and coordination of projects. Communicates progress and/or any relevant changes with internal and external teams.
+Off-hour maintenance, while not often, will be needed to some degree.
+Other relevant duties as assigned.",
+"Position Requirements":"Bachelor's degree in Computer Science or related technical discipline; or equivalent practical experience with strong competencies in SQL and database design.
+Experience in the development of underlying data models and databases.
+Experience with Oracle and Crystal Reports.
+Experience in SQL query and Business Intelligence tool for reporting and analysis.
+Strong Microsoft Office skills: Word, Excel (including V-Look Ups and Pivot Tables, PowerPoint, and Access.
+Ability to prioritize and execute tasks in high paced environment.
+Strong communication, analytical and problem-solving skills.
+Ability to establish and maintain positive and effective working relationships with numerous departments and employees.
+Must be able to comply with Baked by Melissa Mandatory COVID19 Vaccination Policy. Accommodations granted for Religious or Medical needs.",
+"salary":"$60,000/yr-$70,000/yr"
+},
+"ranking8":{"title":"ELINT Intelligence Analyst","company":"SAIC","location":"unknown","state":"CA","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"Mid-Senior level","type":"IT Services and IT Consulting","level":"Mid-Senior level",
+"Main Responsibilities":"Provides intelligence support for development of perishable Electronic Warfare Mission Data Library loads for Naval Air Platform contingency operations, battle staff and operational-level planning, joint and multi-lateral training exercises, and strategic engagement policy throughout the Areas of Operational Responsibility (AOR) and Areas of Interest (AOI) to include analysis and research for industry, infrastructure, technology, country, geographic area, biographic and targeted vulnerability.
+May support development and analysis of intelligence products specific to E-2, ELINT and MH-60 aviation platforms. Presents analysis or products to customers. May support policy and procedures development for agency, interagency, or community wide support.
+Considered to be a recognized authority in this area of expertise. Intelligence analysis may include; IMINT, SIGINT, ELINT, HUMINT or MASINT. This position is focused on ELINT. Develops and maintains analytical procedures to meet changing requirements and ensure maximum operations.
+Applies extensive technical ELINT expertise and has full knowledge of other related disciplines.",
+"Position Requirements":"Bachelors and five (5) years or more experience; Masters and three (3) years or more experience; years of experience may be substituted in lieu of a degree.
+ELINT experience with simulators and simulations with MH-60 and E-2 aircraft.
+Test Analyst background.
+Must have an active Secret security clearance.
+Aircrew qualifications for SH-60 or E2-C or later aircraft.",
+"salary":"$100,001 - $125,000
+"}}
+
+{"name":"Luthando Williams",
+"email":"luthandowilliams.linkedin999@gmail.com",
+"gender":"woman","ethnicity":"African American",
+"treatment_id":"aa-female",
+"search_job_title":"data analyst",
+"ranking1":{"title":"BI Analyst II","company":"NSM Insurance Group","location":"Greater Philadelphia","state":"PA","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"Insurance","level":"Mid-Senior level",
+"Main Responsibilities":"Promote use of new metrics and data visualization tools/techniques to make recommendations of operational adjustments/changes that may be needed to improve results.
+Monitor established KPIs across the Collector Car Division and proactively meet business stakeholders to stay informed about current business goals, initiatives and provide insights based on data.
+Perform quantitative and qualitative analysis on available data, metrics, trends. Enhance existing models and reports to identify meaningful insights/opportunities to assist Collector Car division in growing business.
+Synthesize financial, sales, marketing, underwriting, and operational data to create actionable dashboards and professional presentations for key stakeholders e.g., divisional leadership, executive leadership, front line management, etc. to enable informed, data-based decision-making.
+Utilize SQL, R, or Python to query data from databases.
+Develop and/or enhance Power BI reports.
+Develop and/or enhance Azure ADF ETL pipelines.
+Perform ad-hoc queries/reports to provide support for special initiatives and business unit needs.
+Bachelors-degree in Data Analysis, Statistics, Finance, or other relevant analytical degree.
+6+ years of experience utilizing SQL.
+2+ years of experience developing ETL pipelines.
+3+ years of experience utilizing data visualization tools such as Power BI, Qlik, Tableau, etc.
+3+ years of providing analytical insights and developing summary decks to senior leadership.
+Advanced understanding of data modeling and data warehousing concepts.
+Exposure to Azure technology stack, preferred.
+Exposure to statistical languages such as R/Python,
+Insurance industry experience preferred",
+"Position Requirements":"Promote use of new metrics and data visualization tools/techniques to make recommendations of operational adjustments/changes that may be needed to improve results.
+Monitor established KPIs across the Collector Car Division and proactively meet business stakeholders to stay informed about current business goals, initiatives and provide insights based on data.
+Perform quantitative and qualitative analysis on available data, metrics, trends. Enhance existing models and reports to identify meaningful insights/opportunities to assist Collector Car division in growing business.
+Synthesize financial, sales, marketing, underwriting, and operational data to create actionable dashboards and professional presentations for key stakeholders e.g., divisional leadership, executive leadership, front line management, etc. to enable informed, data-based decision-making.
+Utilize SQL, R, or Python to query data from databases.
+Develop and/or enhance Power BI reports.
+Develop and/or enhance Azure ADF ETL pipelines.
+Perform ad-hoc queries/reports to provide support for special initiatives and business unit needs.
+Bachelors-degree in Data Analysis, Statistics, Finance, or other relevant analytical degree.
+6+ years of experience utilizing SQL.
+2+ years of experience developing ETL pipelines.
+3+ years of experience utilizing data visualization tools such as Power BI, Qlik, Tableau, etc.
+3+ years of providing analytical insights and developing summary decks to senior leadership.
+Advanced understanding of data modeling and data warehousing concepts.
+Exposure to Azure technology stack, preferred.
+Exposure to statistical languages such as R/Python,
+Insurance industry experience preferred",
+"salary":"unknown
+"},
+"ranking2":{"title":"Senior Biostatistician","company":"Corteva Agriscience","location":"Indianapolis","state":"IN","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"10001+","type":"Farming","level":"unknown",
+"Main Responsibilities":"Provide statistical input to the design, analysis, reporting and interpretation of data
+Collaborate with cross-functional and inter-disciplinary teams for problem solving, addressing complex data analytics and statistical questions, and interpretation of complex datasets
+Effectively explain research methodology and statistical analysis as they relate to research outcomes.
+Collaborate with the research staff to address complex data analytics and statistical questions
+Collaborate with principal investigators, co-investigators, and research staff in the preparation of manuscripts, reports, and presentations",
+"Position Requirements":"MS with 5+ years or Ph.D. with 3+ years in a Statistical or related discipline.
+Ability to plan, develop, and execute biostatistical components of research and development projects
+Strong knowledge of experimental design, generalized linear models and nonlinear models, as well as model selection and validation
+Ability to work both independently and within a multidisciplinary team environment
+Excellent written and verbal communication skills and the ability to successfully collaborate and lead projects with colleagues from diverse technical backgrounds
+Strong critical thinking and problem-solving skills, flexibility, and attention to details",
+"salary":"unknown
+"},
+"ranking3":{"title":"Statistician - Distinguished Member of the Technical Staff","company":"Nevada National Security Site","location":"North Las Vegas","state":"NV","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"1001-5000","type":"Government Administration","level":"Mid-Senior level",
+"Main Responsibilities":"Current knowledge and research experience in transformational DoE for diverse physical sensor modalities;
+Applied multi-physics signature R&D for future national security missions;
+Devises cross-domain solutions that are comprehensive in all aspects and exhaustive at all levels, including cross disciplinary approaches and applications.
+Serve as Technical Lead for major projects and startups. Initiates collaboration with partners, stakeholders external to MSTS.
+Lead collaboration to achieve mission execution.
+Devise and develop solutions and approaches to technical, scientific and operational needs.
+Develop new initiatives for additional scopes of work at NNSS.
+Mentor formal publication development by less experienced S/E’s, and routinely publishes and presents results of personal and team project work.
+Exceptionally accomplished senior scientist in the mathematical theory and application of statistical design of experiments (DoE) in national security research and development;
+Work with NNSA Defense Nuclear Nonproliferation program managers to ensure their needs are clearly defined and works with other partners to meet customer objectives.
+Perform other duties assigned by Management.",
+"Position Requirements":"Bachelor’s degree in an engineering program accredited by the Accreditation Board for Engineering and Technology (ABET) or Bachelor’s degree in calculus-based Science, Technology, Engineering, and Mathematics (STEM) field, plus at least 20 years’ relevant experience.
+Advanced degree (MS or PhD) in mathematics and/or branches of mathematics (e.g. statistics, operations research, etc.) is preferred.
+Capable of creating new scientific knowledge and technological solutions, which cross disparate disciplines.
+Nationally recognized leader as having a full command of the most advanced scientific theories, principles and policy and body of published work.
+Deep working knowledge of NNSA laboratories;
+Strong collaborations with Other Government Agencies.
+Ability to provide guidance to senior MSTS management regarding strategic development opportunities for NNSS.
+Able to participates in business development by defining customer needs, developing proposals and planning projects that will produce results meeting customer needs.
+Able to develop plans to tackle the most challenging monitoring and verification problems.
+Position will be a casual position and may be requested to perform on call work and must be able to work nonstandard hours when required.
+Pre-placement physical examination, which includes a drug screen, is required. MSTS maintains a substance abuse policy that includes random drug testing
+Must possess a valid driver’s license.",
+"salary":"Annual salary range for this position is:$160,472.00 to $256,755.20"},
+"ranking4":{"title":"Data Analyst","company":"Air Force Civilian Service","location":"Dayton","state":"OH","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Government Administrtaion","level":"Entry level",
+"Main Responsibilities":"Data Analyst, NH-0343-03, within Directorate of Personnel (DP) on the Data Integration & Analytics Branch. Preferred candidate experience includes the ability to gather, analyze and report on human resources data from authoritative data sources through a variety of tools. The incumbent will be responsible for assisting organizations with adopting automated tools that enable human resources processes. The incumbent will also utilize qualitative and quantitative data analysis as well as problem solving skills to produce complex reports, findings, and enable data-driven decision making.",
+"Position Requirements":"U.S. Citizenship. Obtain & maintain a Security clearance",
+"salary":"$71,099/yr - $109,908/yr (from job description) "},
+"ranking5":{"title":"Data Governance Analyst (Sr. or II)","company":"Midcontinent Independent System Operator (MISO)","location":"Carmel","state":"IN","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"501-1000","type":"Utilities","level":"Mid-Senior level",
+"Main Responsibilities":"As a Data Governances Analyst, you will be a key contributor to MISO’s management of data as a strategic asset. This role will influence the design and implementing of enterprise data governance by documenting the enterprise data governance standards, documenting and determine with peers the highest level of data domains within the organization, and partnering with key stakeholder projects like Settlements and Planning to document glossary terms and assistance in adherence to the data governance standards.",
+"Position Requirements":"Bachelor’s degree in Computer Science, Information Management, or related field (or 4 years relevant work experience equivalency).
+Minimum of four years of experience in data management and technical business analysis.
+While not required, it would be beneficial to possess a master’s degree and/or previous project team / management / coordination experience.",
+"salary":"unknown"},
+"ranking6":{"title":"Consultant, Analytics- MMA","company":"Ipsos North America","location":"Chicago","state":"IL","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"5001-10000","type":"Market Research","level":"Mid-Senior level",
+"Main Responsibilities":"You are willing to work in fast-paced, dynamic team environment. You thrive in an evolving, growth-oriented business focused on winning and adding measurable, material value to our clients’ business. You will have a combination of strong skills and experiences in data science and quantitative analytics, with an emphasis on marketing mix modelling, pricing and promotion analytics, forecasting and financial analysis. You should possess exemplary focus on quality management, attention to detail, strong work ethic and a commitment to project and data excellence.",
+"Position Requirements":"2 – 5 years of experience in quantitative analytics. Direct experience working with client-based analytic and insights projects and teams.
+Educational requirements are: BA, MA, MS in statistics, economics, operations research, quantitative marketing, engineering or related fields; or MBA with a strong quantitative emphasis.
+Excellent communication skills with a demonstrated ability to translate data into a business story.
+Strong analytic skills with ability to interpret analytic results and convert them into insightful client value.
+Creative problem solver who enjoys thinking “outside the box” to solve complex problems.
+Ability to analyze complex analytic data sets and results and understand/diagnose potential quality issues and anomalies.
+An interest in being a data scientist who is proficient with a variety of analytic methodologies and approaches necessary to solve client analytic challenges.
+Team players who embrace the concept of “we” versus “me.”
+Excellent work ethic and desire to ‘do what it takes’ to learn, grow and provide value to our clients
+Highly focused on quality and “doing it right the first time.”",
+"salary":"unknown"},
+"ranking7":{"title":"Associate Intelligence Analyst","company":"ViaPath Technologies","location":"Columbus","state":"OH","country":"United States",
+"remote":"unknown","time":"Full-time","employees":"1001-5000","type":"Telecommunications","level":"Mid-Senior level",
+"Main Responsibilities":"Analyze data to establish trends within the facility and potential areas of interest
+Assist facility with investigations by utilizing specialized software provided for data mining and link analysis
+Monitor offender telephone calls
+Establish a fundamental understanding of the facility’s operation to include policies and procedures, and data sources available for analysis
+Prepares analysis, evaluation, and recommendations for proper responses to intelligence gathered
+Proactively develop intelligence to assist in accomplishing facility objectives and mission
+Submit detailed reports to facility regarding intelligence findings
+Submit regular reports to superiors outlining level of support and benefit to facility
+Provide guidance and training to facility staff
+Fulfill requests for call recordings or other related data as authorized and requested
+Participation in court or other administrative related hearings",
+"Position Requirements":"A Bachelor’s Degree preferred; equivalent experience in lieu of a degree will be considered. A concentration in Criminal Justice, criminology or a Business-related field is preferred.
+0-2 years of experience as a criminal intelligence analyst; or an equivalent substitution of experience with a government law enforcement or military agency performing technical tasks such as research, reviewing written documentation to identify and extract relevant information, completing investigate reports, court document, or statistical data
+Ability to develop a fundamental understanding of intelligence processes in a correctional environment to include institutional operations and criminal procedures
+Demonstrate fundamental understanding of investigative and intelligence processes to include the intelligence cycle
+Excellent verbal and written communication skills
+Proficient in Microsoft Windows OS and Microsoft Suite
+Ability to learn ViaPath and third-party software applications within the first six months of hire
+Ability to work in a fast-paced environment and meet competing deadlines
+Strong problem-solving skills with an interest and ability to conduct analysis and report on findings
+Pro-active
+Ability to handle confidential information.
+Fluency (written and verbal) in English is required. Fluency (written and verbal) in Spanish is desired",
+"salary":"unknown"},
+"ranking8":{"title":"Mid-Level Intelligence Analyst (On-site Position)(Active Top Secret with SCI eligibility)","company":"Akima","location":"Hanover","state":"MD","country":"United States",
+"remote":"unknown","time":"Full-time","employees":"5001-10000","type":"Defense and Space Manufacturing","level":"Mid-Senior level",
+"Main Responsibilities":"Prepare and coordinate comprehensive analytical products supporting and evaluating collection via applicable systems, IAW SOPs and/or protocols. These reports include but are not limited to Expedited Screening Information Reports.
+Requests for Assistance (RFA) and Requests for Information (RFI). Response data would be provided written and orally.
+Prepare and update status and activity reports of statistical data, progress, summaries, trends, results, and associated information on ESC assessments, activities / threat information, IAW DCSA policy.
+Prepare comprehensive Analytical Assessment reports, and recommendations using other relevant information and intelligence, for use in, but not limited to: CI activities, referrals, and suitability and security determinations.",
+"Position Requirements":"Bachelor's degree with 4 years of related Intel Analysis experience; in lieu of degree, eight (8) years of intelligenceanalyst experience can be substituted.
+Certificate of completion in one of the following certified Department of Defense courses:Counterintelligence Agent, Intelligence Analysis, or Human Intelligence.
+Minimum three (3) years of counterintelligence experience.
+Must have two (2) years of intelligence report writing experience.
+Must have an active Top Secret with SCI eligibility.
+Must have experience with IC agencies and organizations' missions, intelligence products and database systems.
+Must have a basic understanding of threat country collection methodology, order of battle, and general intelligence activities.
+Must be proficient in properly marking classified documents, adhering to disparate classifications of data, and handling of classified information across domains.
+Must have knowledge of IC agencies and organizations' missions, intelligence products, and database systems.
+Demonstrated ability to perform pattern, trend, and link analysis based on analysis of intelligence reporting, message traffic, other data sources, and collaboration with other intelligence analysts, intelligence collectors, and investigators.
+Demonstrated ability to communicate effectively, both orally and in writing.
+Proficient in Microsoft Office applications to include Word, PowerPoint, Excel and Access.",
+"salary":"unknown"}}
+
+{"name":"Valeria Garcia",
+"email":"valeriagarcia.linkedin999@gmail.com",
+"gender":"woman","ethnicity":"Hispanic",
+"treatment_id":"hispanic-female",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Sr. Business Intelligence Analyst","company":"Fuse3 Solutions","location":"Tulsa","state":"OK","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"11-50","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"Leading projects for various products and programs
+Extract, analyze and present data to organization
+Communicate to team members of various departments, both technical and non-technical
+Lead BI division in areas of coaching and developing
+Create and track KPIs
+Provide strategic ideas and creative problem solving based on data",
+"Position Requirements":"Bachelor's degree in technology, finance or similar required
+5+ years of experience in IT such as DBA, BI Analyst, Data Architect
+2+ years of leadership experience
+Experience with PowerBI, SSRS, or similar tools
+Experience in Python or SQL
+Working knowledge with Microsoft Azure or AWS",
+"salary":"$100,000/yr - $125,000/yr (from job description) ·"
+},
+"ranking2":{"title":"Insights Analyst","company":"CROSSMARK","location":"The Colony","state":"TX","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Business Consulting and Services","level":"Associate",
+"Main Responsibilities":"Utilize a broad range of data metrics, tools, and analytics to identify opportunities and deliver insights to our customers and clients.
+Day to day activities involve,
+Analysis of syndicated POS data and shopper/consumer behaviors, leveraging of macro-economic, consumer, and retail insights in order to come up with compelling implications and recommendations.
+Identify, measure, and quantify our client brands and competitors’ trends and opportunities
+Leverage proprietary analytical tools and processes to drive actionable insights
+Create and maintain weekly/monthly reporting vehicles
+Able to conduct Category Management practices of shelf management analytics, uncovering distribution opportunities and pricing and promotion evaluation.
+Creates insight driven presentations with actionable tactics and strategies.
+Develop creative presentations with an eye toward story-telling, focused on flow, visualizations and meaningful headlines.
+Prioritize tasks with a focus on strategic versus tactical activities that deliver stronger ROI.
+Engage with customers and clients to understand strategies and objectives.
+Involved in the planning process, working with manager, internal sales and clients.
+Knowledge of Space Management software (Blue Yonder, SymphonyRetail, Spaceman) is a plus",
+"Position Requirements":"Bachelor's Degree required or minimum 1-2 years equivalent relevant job-related experience in CPG Sales, Marketing and/or Category Management
+Possess excellent written and verbal communication skills
+Be collaborative and able to effectively communicate and work with other organizational functions and levels
+Ability to organize and manage multiple, time-sensitive projects.
+Ability to translate broad trends to specific implications.
+Fundamental knowledge of the technology involved to operate within proprietary and non-proprietary (Microsoft applications)
+Intermediate skills in Excel & Powerpoint
+PowerBI knowledge and experience and plus
+Demonstrates an ongoing commitment to SPIRIT values of Service, Pride Integrity, Results, Innovation and Teamwork",
+"salary":"$60,000/yr - $70,000/yr."
+},
+"ranking3":{"title":"Senior Data Analyst, Research and Development","company":"Kemper","location":"Williamson County","state":"TX","country":"United States",
+"remote":"Remote","time":"Full-time","employees":"5001-10000","type":"Insurance","level":"Mid-Senior Level",
+"Main Responsibilities":"Perform complex analysis to better understand components of pricing and underwriting
+Develop creative ideas and solutions to real time product problems and/or business opportunities
+Apply advanced analytics and modeling techniques to seek out insights
+Explore internal data to develop more accurate pricing with existing data points
+Partner with other areas in National product to evaluate viability of third-party data
+Serve as a subject matter expert for the Auto product
+Generate and document programs, queries, reports, and, or dashboards
+May be involved in analyzing telematics data
+Be a student of the business by being inquisitive and through connecting data, ideas, and people",
+"Position Requirements":"3+years of product analyst experience
+Insurance experience preferred but not required
+Experience in statistical and business analysis
+Advanced excel skills and familiarity with database querying required
+Experience in SAS, Tableau, SQL, SQL Server, Python/R
+Education equivalent to a college degree in mathematics, statistics, risk management, actuarial, or related field, or the equivalent in related work experience
+Sponsorship not accepted for this opportunity
+This position is a remote role and can work from a US based home or a local Kemper office",
+"salary":"$67,200/yr - $115,000/yr (from job description) ·"
+},
+"ranking4":{"title":"Data Analyst","company":"Air Force Civilian Service","location":"Dayton","state":"OH","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Government Administrtaion","level":"Entry level",
+"Main Responsibilities":"Data Analyst, NH-0343-03, within Directorate of Personnel (DP) on the Data Integration & Analytics Branch. Preferred candidate experience includes the ability to gather, analyze and report on human resources data from authoritative data sources through a variety of tools. The incumbent will be responsible for assisting organizations with adopting automated tools that enable human resources processes. The incumbent will also utilize qualitative and quantitative data analysis as well as problem solving skills to produce complex reports, findings, and enable data-driven decision making.",
+"Position Requirements":"U.S. Citizenship. Obtain & maintain a Security clearance",
+"salary":"$71,099/yr - $109,908/yr (from job description) "},
+"ranking5":{"title":"Data Governance Analyst (Sr. or II)","company":"Midcontinent Independent System Operator (MISO)","location":"Carmel","state":"IN","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"501-1000","type":"Utilities","level":"Mid-Senior level",
+"Main Responsibilities":"As a Data Governances Analyst, you will be a key contributor to MISO’s management of data as a strategic asset. This role will influence the design and implementing of enterprise data governance by documenting the enterprise data governance standards, documenting and determine with peers the highest level of data domains within the organization, and partnering with key stakeholder projects like Settlements and Planning to document glossary terms and assistance in adherence to the data governance standards.",
+"Position Requirements":"Bachelor’s degree in Computer Science, Information Management, or related field (or 4 years relevant work experience equivalency).
+Minimum of four years of experience in data management and technical business analysis.
+While not required, it would be beneficial to possess a master’s degree and/or previous project team / management / coordination experience.",
+"salary":"unknown"
+},
+"ranking5":{"title":"Data Analyst with TOAD SQL","company":"Group O","location":"unknown","state":"unknown","country":"United States",
+"remote":"Remote","time":"Full-time","employees":"1001-5000","type":"Outsourcing/Offshoring","level":"Associate",
+"Main Responsibilities":"Create and utilize a variety of database connections and sources (Teradata, Vertica, SQL Server, Oracle, Snowflake, ……etc.) to produce a unified data solution in a Teradata environment. Implement enhancements to existing Toad/FME automation scripts based on client requirements.
+Interface with the Power BI team to develop Toad/FME automation scripts to create client driven data solutions.
+Collecting, analyzing, and reporting on various internal and external metrics and processes.
+Maintain roles and passwords on Mech IDs being utilized by the automation scripts.
+Knowledge of complex databases. I.e., databases with thousands of data tables and views accessing customers, products, and orders.
+Be able to creatively rewrite complex SQL statements while maintaining data integrity",
+"Position Requirements":"Bachelor’s Degree with 1-2 years’ experience as a Data Analyst",
+"salary":"$70,000/yr - $85,000/yr"
+},
+"ranking6":{"title":"Associate, Data Governance Analyst","company":"AmerisourceBergen","location":"Conshohocken","state":"PA","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"10001+","type":"Hospitals and Health Care","level":"Mid-Senior level",
+"Main Responsibilities":"Assist in the documentation and implementation of governance programs, policies, standards, and processes.
+Document and maintain data standards, partnering with functional and business data owners to map existing data structures, usage, and common definitions.
+Assist in data governance tool implementation supporting metadata management, business glossary and data quality functions.
+Leverage agile development methodology and principles of product ownership to support master and reference data management.
+Support current and future state analyses and participate in trainings, workshops, and seminars on data governance methods, standards, and quality.
+Assist in execution of data certification and data ingestion of critical data elements, including data profiling and database structure research.",
+"Position Requirements":"Bachelor's Degree highly preferred with a minimum of 3 years comprehensive experience required.
+Previous experience in data and analytics and/or business process design preferred
+Industry experience in healthcare, life sciences and/or financial services preferred
+You are passionate about the benefits of accurate and actionable data; you drive consistency and enjoy partnering with others to accomplish the task
+You are a solutions-oriented critical thinker with the ability to translate business issues and requirements into actionable plans, and to deliver against those plans
+The ability to network and influence to help build and foster strong business relationships, as well as leverage those relationships to seek consensus among business partners on data governance matters
+Knowledge or experience in data governance tools, such as Informatica’s Axon, IDQ and EDC)
+Basic understanding of the elements of data models, data integrity and data analysis/profiling techniques.
+You can effectively handle and maintain confidential information
+Experience in agile delivery and/or product ownership
+Experience in master data management
+Strong analytical, problem-solving skills
+High energy with a positive outlook and experience as a change agent
+Self-starter/motivator, goal oriented
+Ability to work effectively with minimal supervision and guidance
+Strong knowledge of computers to operate effectively with PowerPoint presentations, Microsoft Project, Excel spreadsheets and Microsoft Outlook",
+"salary":"unknown"
+},
+"ranking7":{"title":"Senior Business Intelligence Analyst","company":"CoxHealth","location":"Springfield","state":"MO","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"10001+","type":"Hospitals and Health Care","level":"unknown",
+"Main Responsibilities":"The Business Intelligence Analyst position identifies, manages, and provides actionable insights related to the data and analytic needs of CoxHealth such as data modeling, business analytics, and data visualization/enhancement services. It supports, influences, and challenges business decisions with data, as well as timely and insightful analysis. It is responsible for the management of business analytic processes and strategies such as: data integration, operational reporting (ad-hoc and analysis), dashboards, and data mining. Determines reporting and analytics needs for various programs and initiatives, and creates customized dashboard and performance metrics/reports related to all aspects of healthcare. Collaborates with stakeholders to design, create, test, and implement analytic tools (databases, extracts, reports, dashboards, etc.) that support enterprise needs. With a strong focus on customer service, innovation, and the delivery of the highest quality work product, the position requires strong technical, critical thinking, project management, and interpersonal skills/",
+"Position Requirements":"Required: Minimum of 4 years’ experience performing data analysis on clinical and financial information.
+Skills.Required: Bachelor’s degree in Computer Information Systems, Business Administration degree, or a related field OR 8 years' experience in IT or Computer Science.
+Strong knowledge of SQL and data extraction tools.
+Experience using industry standard BI, statistical, and analytical tools and technologies such as Power BI and Business Objects.
+Working knowledge of complex database design and concepts.
+Ability to design, write, maintain, and support complex dashboards, queries, extracts, and reports utilizing various reporting tools and data sources.
+Demonstrates careful attention to detail and the ability to work independently.
+Serves as a resource for identification of potential clinical or financial performance improvement activities by identifying and communicating opportunities discovered/identified during analysis.
+Prepares clear and well-organized project-specific documentation to reflect analytic methods used, key decision points, caveats, etc. with sufficient detail to support comprehension and replication of the analysis.
+Consistently performs validation checks to ensure accuracy of reports and data.
+Excellent systematic problem solving skills.",
+"salary":"$34.37/hr "
+},
+"ranking8":{"title":"Data Analyst","company":"Allegis Group","location":"Peoria","state":"IL","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Staffing and Recruiting","level":"Entry level",
+"Main Responsibilities":"Data Analytics- engineering, analysis, creation of dashboards if there is a req.
+Support adhoc data requests
+Extract large, complex data sets that meet business requirements. Work to build the on-prem /cloud infrastructure for optimal extraction, transformation, and loading of a wide variety of complex business data from on-prem/cloud databases.
+Identify ways to improve data reliability, efficiency, and quality.
+Work with internal and external stakeholders to assist with data-related technical issues and support data needs.
+Own the design and development of ongoing business metrics/KPI, reports and dashboards to drive key business decisions.
+Prepare data for predictive and prescriptive modeling.",
+"Position Requirements":"Familiarity with database such as Snowflake, DB2, SQL Server, Oracle (2-3 of these are required)
+Programming languages SAS(preferred)
+Visualization - Tableau(preferred)
+Experience working with platform integration tool like Snaplogic is preferred",
+"salary":"unknown"}}
+
+{"name":"",
+"email":".linkedin999@gmail.com",
+"gender":"woman","ethnicity":"",
+"treatment_id":"-female",
+"search_job_title":"data analyst",
+"ranking1":{"title":"","company":"","location":"","state":"","country":"United States",
+"remote":"","time":"","employees":"","type":"","level":"",
+"Main Responsibilities":"",
+"Position Requirements":"",
+"salary":""},
+"ranking8":{"title":"","company":"","location":"","state":"","country":"United States",
+"remote":"","time":"","employees":"","type":"","level":"",
+"Main Responsibilities":"",
+"Position Requirements":"",
+"salary":""}}
+
+
+{"name":"",
+"email":".linkedin999@gmail.com",
+"gender":"woman","ethnicity":"",
+"treatment_id":"-female",
+"search_job_title":"data analyst",
+"ranking1":{"title":"","company":"","location":"","state":"","country":"United States",
+"remote":"","time":"","employees":"","type":"","level":"",
+"Main Responsibilities":"",
+"Position Requirements":"",
+"salary":""},
+"ranking8":{"title":"","company":"","location":"","state":"","country":"United States",
+"remote":"","time":"","employees":"","type":"","level":"",
+"Main Responsibilities":"",
+"Position Requirements":"",
+"salary":""}}
+
+
+{"name":"Zaoyi Ying",
+"email":"zaoyiying.linkedin999@gmail.com",
+"gender":"woman","ethnicity":"Asian",
+"treatment_id":"asian-female",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Junior Data Analyst","company":"StoneX Group Inc.","location":"Birmingham","state":"AL","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"Financial Services","level":"Mid-Senior level",
+"Main Responsibilities":"Locate and collect data from appropriate source and analyzes it to prepare meaningful and concise reports that summarize the information.
+Define processes to help embed data analysis throughout product discovery and development.
+Communicate issues, client feedback, and edge case scenarios to the Client Services team, Product & Technology team, and other relevant team members as appropriate.
+Creates SQL queries to extract needed data from order management systems, and other internal systems.
+Utilize Python to explain intermediate data blending techniques. Able to apply intermediate checks, implement data quality precautions and able to use analytics techniques to prepare data for analysis.
+Prioritize and manage multiple assignments based off urgency levels while identifying possible issues preventing task completion in a fast-paced work environment.
+Ability to mine and analyze data from various data sources to drive optimization and improvement of product development.
+Create insightful visualizations (e.g. charts, dashboards), tell stories with data and compellingly convey insights and recommendations.
+Helps compliance with FINRA/SEC regulatory data pulls from various databases and internal systems, formats and presents data in accordance with regulatory requests.
+Grow and mature the use of our data, ultimately making it a high-value resource within the firm
+Maintains prompt and regular attendance.
+This list of duties and responsibilities is not intended to be all-inclusive and can be expanded to include other duties or responsibilities that management deems necessary.",
+"Position Requirements":"Bachelor’s degree in Computer Science, Data Analytics, or related field.
+1+ years as a data/financial analyst preferred.
+Advance Excel Skills required and other complimentary Microsoft Tools.
+Ability to function in a fast-paced work environment with a high sense of urgency
+SQL, Python, and/or a similar data query language is a plus or a willingness to learn.
+Strong written and oral communication skills.
+Strong organization skills and attention to detail.
+Excellent analytical and problem-solving capability.
+Must be authorized to work in the US for any employer.",
+"salary":"unknown"},
+"ranking2":{"title":"ELINT Intelligence Analyst","company":"SAIC","location":"unknown","state":"CA","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"10001+","type":"IT Services and IT Consulting","level":"Mid-Senior level",
+"Main Responsibilities":"Provides intelligence support for development of perishable Electronic Warfare Mission Data Library loads for Naval Air Platform contingency operations, battle staff and operational-level planning, joint and multi-lateral training exercises, and strategic engagement policy throughout the Areas of Operational Responsibility (AOR) and Areas of Interest (AOI) to include analysis and research for industry, infrastructure, technology, country, geographic area, biographic and targeted vulnerability.
+May support development and analysis of intelligence products specific to E-2, ELINT and MH-60 aviation platforms. Presents analysis or products to customers. May support policy and procedures development for agency, interagency, or community wide support.
+Considered to be a recognized authority in this area of expertise. Intelligence analysis may include; IMINT, SIGINT, ELINT, HUMINT or MASINT. This position is focused on ELINT. Develops and maintains analytical procedures to meet changing requirements and ensure maximum operations.
+Applies extensive technical ELINT expertise and has full knowledge of other related disciplines.",
+"Position Requirements":"Education and experience
+Bachelors and five (5) years or more experience; Masters and three (3) years or more experience; years of experience may be substituted in lieu of a degree.
+Required Experience
+ELINT experience with simulators and simulations with MH-60 and E-2 aircraft.
+Test Analyst background.
+Required Clearance
+Must have an active Secret security clearance.
+Desired Additional Experience
+Aircrew qualifications for SH-60 or E2-C or later aircraft.",
+"salary":"Target salary range $100,001 - $125,000."},
+"ranking3":{"title":"Senior Business Intelligence Analyst","company":"Dresser Utility Solutions","location":"Houston","state":"TX","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"201-500","type":"unknown","level":"unknown",
+"Main Responsibilities":"Develop and promote relationships/partnerships with key business stakeholders.Partner with key business stakeholders, IT team members, and business users to understand business processes, evaluate BI requirements, uncover areas for improvement, and translate requirements into actionable data, reporting and visualization solutions.
+Conduct effective business meetings to gather requirements and critical information, share ideas, and present findings and solutions.
+Manage stakeholder BI demand and backlog of reporting requirements and needs. Work with team members to prioritize and deliver BI solutions, training, and best practice guidelines to BI users across the organization.
+Design, develop, implement, and fully document strategic BI solutions that meet business requirements with performance, usability, and quality metrics in mind.
+Design and develop solutions based on a strong understanding of sound database structure, database schema, data structures and algorithm concepts.
+Learn existing BI/ETL/Data architectures and solutions; provide support and maintenance for these solutions.
+Monitor, configure, tune BI solutions to ensure a stable environment with acceptable performance.
+Research business problems, recommend and create BI solutions that help users address these problems.
+Develop detailed and thorough test plans and execute rigorous testing to ensure solid, issue-free, BI solutions.
+Learn, understand, apply, and provide input to Dresser policies, procedures, standards, and best practice guidelines for all areas of BI and data warehouse/management design.
+Work within the Dresser IT Management System to leverage the full support of IT, understand and utilize this system (project management, request management, project portfolio, service portfolio). Follow and use the Dresser Change Management process.
+Collaborate effectively with teams and business partners to define, document, and implement project work.
+Effectively respond to service requests received from end users in a comprehensive and timely manner.
+Participate in after-hours implementations, upgrades, troubleshooting, and/or on-call availability as needed.
+Troubleshoot complex issues and participate in escalations within a team environment.
+Utilize superior customer service skills to engage and collaborate with both internal and external resources.
+Participate in other activities necessary to support all departments and aspects of the Dresser business.
+Perform other related duties incidental to the work described herein.",
+"Position Requirements":"Fundamental design principles behind a BI solution.
+MS SQL Server, SSRS, SSAS, SSIS, SSMS, Power Query, Visual Studio, Dev Ops tools.
+Design, build, deliver, train on organization-wide, actionable, complex Business Intelligence data visualization reporting solutions that include analytical and professional parameterized reports and dashboards using various table types, charts, KPIs, and metrics, i.e., Microsoft Power BI or Tableau.
+Strong English reading, writing and verbal communication skills with experience writing complex functional and technical specifications documents.
+Ability to effectively communicate with all levels of the organization up to and including executive roles.
+Leading and supporting successful projects.
+Project Management methodologies (Agile, Waterfall, Hybrid) and SDLC.
+Strong interpersonal skills and the ability to build relationships with colleagues, customers, vendors, and other third parties.
+Ability to maintain a positive attitude, flexibility and resilience when facing multiple demands in challenging circumstances and shifting priorities.
+Influencing skills, able to quickly establish credibility and effectively work with others through influence.
+Critical thinking, creative, analytical, and problem-solving skills; quickly and successfully troubleshoot problems in complex BI environments.
+Excellent planning, organization, and time management skills; ability to effectively prioritize tasks with competing deadlines.
+Self-starter, time management, effectively prioritize tasks with competing deadlines.
+Comfortable with ambiguity as we are building an environment of growth and change.
+Strong team contributor, sharing ideas, knowledge, and best practices.
+Self-motivated Can-Do Attitude, confident, and able to work effectively with little supervision; takes initiative, makes things happen, accepts accountability.
+A strong value system, excellent judgment, unquestioned.
+Bachelor’s degree required; Computer Science or related technical field preferred.
+Minimum of 3 years of business analysis experience, creating functional and technical specification documents, process flows/maps using Visio or other flowcharting tools, and analyzing business processes.
+Minimum of 3 years of experience working with Project Management methodologies (Agile, Waterfall, Hybrid) and SDLC.
+Minimum of 2, 3 to 5 preferred, years of experience with SQL development designing, creating complex relational database models and data warehousing technologies, stored procedures, views, datasets, models.
+Experience using MS SQL Server 2008 or higher, SSRS, SSAS, SSIS, SSMS, Power Query, Visual Studio, Dev Ops.
+Experience designing, building, and delivering organization-wide, actionable, complex BI solutions that include analytical and professional parameterized reports and dashboards using various table types, charts, KPIs, and metrics required; Microsoft Power BI or Tableau preferred.
+Experience in data architecting and modeling using SAP Data Services, ETL tools (Informatica, Teradata, DataStage, etc.), Azure stack (Azure Data factory, Azure Data Lake) preferred.
+Experience using data replication and transformation tools; Oracle or Infor LX preferred.
+Experience working with data both on prem and in the cloud.
+Experience with Infor and Oracle ERP system desirable.",
+"salary":"unknown"},
+"ranking4":{"title":"Associate, Data Analyst","company":"HITT Contracting Inc.","location":"Falls Church","state":"VA","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"1001-5000","type":"Construction","level":"Mid-Senior level",
+"Main Responsibilities":"Ensure quality of master data in core systems while developing and documenting processes with other functional data owners to support ongoing maintenance, data integrity, and data security.
+Perform routine data maintenance activities at regular intervals and ad-hoc maintenance for new and departing team members and other unique requests.
+Ensure data policies are adhered to by corporate and field staff.
+Work with data analytics staff in cleansing data using proprietary tools such as Toric as well as programming skills in Python and SQL
+Develop and maintain audit/integrity reports for monitoring data across multiple systems.
+Identify and ensure the resolution of data quality issues, such as uniqueness, integrity, accuracy, consistency, and completeness, in a cost-effective and timely manner.
+Analyze data stores, generate data quality statistics and communicate the results to the appropriate application owners
+Assist in remediation and strategy to improve data quality with application owners as necessary
+Work collaboratively with analytics professionals, the EBS team, IT, and operations staff internally, as well as with external vendors.
+Assist with software application enhancements to improve user adoption and heighten the user experience
+Support end user data requests and ad-hoc reporting
+Assist in the development of training and training materials using internal or external vendors.
+Follow all HITT information security policies and procedures.",
+"Position Requirements":"Bachelor's degree or equivalent combination of education and experience.
+Recent graduate with a bachelor's degree in information science, data management, computer science, mathematics, or related field preferred.
+Coding skills, preferably in SQL and Python, especially Pandas
+Experience with or exposure to Microsoft Azure data storage tools, Power BI analytics software or similar, such as AWS S3 and Tableau
+Knowledge of relational databases
+Ability to collaborate with clients, team members, external data providers, and management.
+Effective communication, documentation, and presentation skills.
+Self-motivated, eager to learn, and requires minimal supervision.
+Strong analytical and problem-solving skills.",
+"salary":"unknown"},
+"ranking5":{"title":"Data Analyst - Junior","company":"Sunrise Systems, Inc.","location":"Fort Worth","state":"TX","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"501-1000","type":"IT Services and IT Consulting","level":"Mid-Senior level",
+"Main Responsibilities":"Manage routine reporting tasks and develop tools to automate and streamline those tasks.
+Provide analytical support to sales managers in face-to-face customer meetings.
+Provide analytical support to field staff in supporting customers.
+Develop in-house tools to support R&D and manufacturing",
+"Position Requirements":"Bachelor s degree in a quantitative field (e.g. mathematics, computer science, physics) or minimum of 2 years Data Science work in industry.
+Excellent communication skills with experience presenting technical concepts to non-technical audiences.
+Fluency in Python and SQL
+Proficient in MS Office products",
+"salary":"unknown"},
+"ranking6":{"title":"RESEARCH DATA ANALYST II JC-353382","company":"California Department of Public Health","location":"Sacramento","state":"CA","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"Public Safety","level":"Mid-Senior level",
+"Main Responsibilities":"The Research Data Analyst II (RDA II) serve as the eCR Data Analyst II ensuring that healthcare providers and organizations assessing and diagnosing patients with communicable diseases are electronically reporting case reports to public health through the CDPH California Reportable Disease Information Exchange (CalREDIE), with timely and complete reports for case surveillance. The RDA II collects, manages, and analyzes data, reports results, evaluates electronic initial case report (eICR) quality, and communicates with the Association of Public Health Laboratories (APHL) Informatics Messaging Services (AIMS), Enterprise Rhapsody team, CalREDIE technical team, and healthcare providers as needed to resolve identified issues in transmission or message structure or content.",
+"Position Requirements":"unknown",
+"salary":"$5,652/month - $7,290/month "},
+"ranking7":{"title":"Data Center Operations Analyst | 907609","company":"Revel IT","location":"Columbus","state":"OH","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"201-500","type":"IT Services and IT Consulting","level":"Mid-Senior level",
+"Main Responsibilities":"Monitor companywide systems, processes and applications in 24x7x365 environment
+First level response to server, database, middleware, and/or application alerts.
+First and some second level responsibility for monitoring daily job processing and/or overnight batch cycles.
+Outage management (for both scheduled and unscheduled outages), including coordinating the communication with the business, IT management, Stores and the technical resources working on the incident
+Resolve complex problems with minimal guidance.
+Continuously review and update existing standards and procedures
+Provide weekly written status reports and incident reports after hardware/software failures.
+Provide primary contact interface with vendors as needed.
+Execute tasks with little to no oversight",
+"Position Requirements":"Education: Bachelor Degree in Computer Science or an equivalent combination of education and relevant experience.
+Experience: 4-7 years computer operations support.
+3-5 years of network monitoring and troubleshooting.
+Extensive experience with production service level reporting including incident, problem and change management
+Knowledge of Routers, Switches, basic knowledge of Firewalls
+Experience with issue resolution and tracking systems.
+Knowledge of Microsoft Office suite required.
+Experience in providing technical leadership, guidance and training.
+Candidate will be required to hold various conference calls and issue resolution discussions.
+The candidate must have strong written and verbal communication skills.",
+"salary":"unknown"},
+"ranking8":{"title":"Data Analyst","company":"State Farm","location":"Bloomington","state":"IL","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Insurance","level":"Entry level",
+"Main Responsibilities":"The Life/Health Data team is developing innovative data products using emerging AWS technologies and capabilities. We need your help modernizing and transforming our data processes to Cloud-based technology, investigating new and innovative services, and building creative data solutions. Working in the Life/Health business department on the Data Team, you’ll play an integral role working directly with business and technical partners to make decisions and drive pace.
+The primary function of the Life/Health Data Team is to develop data expertise and provide meaningful insight to facilitate data driven decisions by our stakeholders. This promotes gaining competitive advantage through evidence-based research, data analytics, and predictive modeling.
+As a member of the Life/Health Data Team you will be challenged and empowered to grow and learn. We are dedicated to the development of each team member to reach their full potential.",
+"Position Requirements":"Recent programming and SQL coding experience and/or four-year degree in Computer Science or related field.
+Experience in Python or similar language and SQL
+Excellent verbal and written communication skills
+Source management knowledge, Git/GitLab preferred
+Excellent problem-solving skills and ability to handle multiple projects simultaneously
+Ability to work with data sources in a variety of formats",
+"salary":"unknown"}}
+
+
+{"name":"",
+"email":".linkedin999@gmail.com",
+"gender":"woman","ethnicity":"",
+"treatment_id":"-female",
+"search_job_title":"data analyst",
+"ranking1":{"title":"","company":"","location":"","state":"","country":"United States",
+"remote":"","time":"","employees":"","type":"","level":"",
+"Main Responsibilities":"",
+"Position Requirements":"",
+"salary":""},
+"ranking8":{"title":"","company":"","location":"","state":"","country":"United States",
+"remote":"","time":"","employees":"","type":"","level":"",
+"Main Responsibilities":"",
+"Position Requirements":"",
+"salary":""}}
