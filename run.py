@@ -4,7 +4,7 @@ import sys
 import numpy as np
 import pandas as pd
 import matplotlib
-matplotlib.use('TkAgg')
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 from q2 import level_diff
@@ -42,7 +42,7 @@ def main(targets):
         y3 = level_diff(white_male)
         y4 = level_diff(black_male)
         width = 0.2
-        plt.ion() 
+        #plt.ion() 
         plt.bar(x-0.2, y1, width, color='skyblue')
         plt.bar(x, y2, width, color='orange')
         plt.bar(x+0.2, y3, width, color='olivedrab')
@@ -60,7 +60,7 @@ def main(targets):
         y3 = employ_diff(white_male)
         y4 = employ_diff(black_male)
         width = 0.2
-        plt.ion() 
+        #plt.ion() 
         plt.rcParams["figure.figsize"] = [9.50, 4.50]
         plt.bar(x-0.2, y1, width, color='skyblue')
         plt.bar(x, y2, width, color='orange')
@@ -70,7 +70,7 @@ def main(targets):
         plt.xlabel("Numbers of Employees ")
         plt.ylabel("Frequency")
         plt.legend(["Asian", "Hispanic", "White","Black"])
-        plt.show(block=True)
+        plt.show()
         
         #plot type differences
         types = type_diff(asian_male)[0]
