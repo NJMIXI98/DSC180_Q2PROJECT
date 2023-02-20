@@ -74,34 +74,33 @@ def main(targets):
         #plot type differences
         types = type_diff(asian_male)[0]
         data = type_diff(asian_male)[1]
-        fig = plt.figure(figsize =(9, 5))
         plt.ion() 
+        fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for Asian Male")
         plt.show(block=True)
         types = type_diff(hispanic_male)[0]
         data = type_diff(hispanic_male)[1]
-        fig = plt.figure(figsize =(9, 5))
         plt.ion() 
+        fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for Hispanic Male")
         plt.show(block=True)
         types = type_diff(white_male)[0]
         data = type_diff(white_male)[1]
-        fig = plt.figure(figsize =(9, 5))
         plt.ion() 
+        fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for Caucasian Male")
         plt.show(block=True)
         types = type_diff(black_male)[0]
         data = type_diff(black_male)[1]
-        fig = plt.figure(figsize =(9, 5))
         plt.ion() 
+        fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for African American Male")
         plt.show(block = True)
-        plt.waitforbuttonpress()
-        
+   
 
 if __name__ == '__main__':
     targets = sys.argv[1:]
