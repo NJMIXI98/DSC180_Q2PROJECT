@@ -3,8 +3,6 @@
 import sys
 import numpy as np
 import pandas as pd
-import matplotlib
-matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
 from q2 import level_diff
@@ -51,7 +49,7 @@ def main(targets):
         plt.xlabel("Job Level Difference")
         plt.ylabel("Frequency")
         plt.legend(["Asian", "Hispanic", "White","Black"])
-        plt.show(block=True) 
+        plt.show() 
         
         #plot number of employee difference
         x = np.arange(8)
@@ -75,21 +73,21 @@ def main(targets):
         #plot type differences
         types = type_diff(asian_male)[0]
         data = type_diff(asian_male)[1]
-        plt.ion() 
+        
         fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for Asian Male")
-        plt.show(block=True)
+        plt.show()
         types = type_diff(hispanic_male)[0]
         data = type_diff(hispanic_male)[1]
-        plt.ion() 
+      
         fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for Hispanic Male")
-        plt.show(block=True)
+        plt.show()
         types = type_diff(white_male)[0]
         data = type_diff(white_male)[1]
-        plt.ion() 
+
         fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for Caucasian Male")
@@ -100,7 +98,9 @@ def main(targets):
         fig = plt.figure(figsize =(9, 5))
         plt.pie(data, labels = types)
         plt.title("Types of Company for African American Male")
-        plt.show(block = True)
+        plt.show()
+        
+        print("It should generate 6 graphs, but the terminal does not show them. It works on my local machine and Jupyter Notebook")
    
 
 if __name__ == '__main__':
