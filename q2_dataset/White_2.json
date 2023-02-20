@@ -1,0 +1,153 @@
+{"name":"Brad Turner",
+"email":"jobless295@gmail.com",
+"gender":"man",
+"ethnicity":"white",
+"treatment_id":"white-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Principal Consultant - Power BI","company":"P3 Adaptive","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"11-50","type":"unknown","level":"unknown",
+"Main Responsibilities":"Build complex dimensional data models and reports from the bottom up
+Audit existing Power BI efforts with a focus on improvement
+Visualize compelling data stories on the report canvas
+Produce KPIs with user-friendly display dashboards
+Collaborate with client’s data team to engineer revolutionary companywide data solutions
+Provide skills training both at our client’s firms and in public classes
+Develop and implement Ad Hoc and Enterprise Power BI Solutions for our clients",
+"Position Requirements":"Exceptional communication skills
+Excellent time management skills – multitasking is critical
+Experienced in Project Management
+Intermediate or better proficiency in DAX
+Working knowledge of Power Query
+Experience visualizing data in Power BI Desktop and Power BI Service
+Solid understanding of dimensional modeling concepts
+Ability to connect with our clients
+Expertise in developing Power BI solutions
+Insatiable curiosity and love of learning
+Travel Optional
+"},
+"ranking2":{"title":"Senior Data Analyst","company":"MSI International","location":"Jacksonville","state":"FL","country":"United States","remote":"Remote","time":"Contract","employees":"51-200","type":"Staffing and Recruiting","level":"Mid-Senior Level",
+"Main Responsibilities":"MSI International is seeking to hire a Sr. IT Developer/Data Analyst w/ a focus on IBM Info Analyzation for our client in Jacksonville, FL. IT Developers are responsible for the development, programming, and coding of Information Technology solutions. They will engage in all phases of the software development life-cycle, including gathering and analyzing user/business system requirements, responding to outages, and creating application system models. IT Developers are responsible for documenting detailed system specifications and will participate in evaluating, conducting performance testing, and all planned and unplanned maintenance for both internally developed applications and purchased products. Participate in design meetings and consult with clients to refine, test and debug programs to meet business needs and interact and sometimes direct third-party partners in the achievement of business and technology initiatives. IT Developers are responsible for including IT Controls to protect the application's confidentiality, integrity, and availability and the data processed or output by the application.",
+"Position Requirements":"5+ years of IT development/programming/coding professional work experience
+Bachelor’s Degree in Computer Science or Mathematics or relevant work experience
+Experience with unit testing, release procedures, coding design, and documentation protocol as well as change management procedures
+Proficiency using versioning tools: GIT, GNU, RCS, SCCS, CVS, SVN, Mercurial, Monotone, etc
+Demonstrated organizational, analytical, and interpersonal skills
+Flexible team player
+Ability to manage tasks independently and take ownership of responsibilities
+Ability to learn from mistakes and apply constructive feedback to improve performance
+Must demonstrate initiative and effective independent decision-making skills
+Ability to communicate technical information clearly and articulately
+Ability to adapt to a rapidly changing environment
+In-depth understanding of the systems development life cycle
+Proficiency in programming in more than one object-oriented programming language; JAVA, Python, Ruby, C++, .Net, Objective-C, React.Js, Node.JS, JavaScript, PHP, HTML, etc
+May include languages such as; Hadoop, Storm, Spark, Kafka, Hive, NFI, Scoop, etc
+May include database knowledge in; SQL, MySQL, Oracle DB, PostgreSQL, Cassandra, dBase, MS Access, etc
+Proficiency using standard desktop applications such as MS Suite and flowcharting tools such as Visio
+Proficiency using debugging tools; Advanced Debugger, Allinea DDT, AQtime, ARM, CA/EZTEST, etc
+High critical thinking skills to evaluate alternatives and present solutions that are consistent with business objectives and strategy
+"},
+"ranking3":{"title":"Analytics Analyst II - Managed Care","company":"AmTrust Financial Services, Inc.","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"5001-10000","type":"Insurance","level":"unknown",
+"Main Responsibilities":"Healthcare data reporting related to Care Management
+New data reporting & analytics projects
+Use of SQL to query databases in SSMS
+Creation of reports in Excel
+Design and development of Power BI dashboards
+Ad-hoc reporting request completion
+Financial & operational data modeling
+Staffing models
+Attend regular meetings with stakeholders",
+"Position Requirements":"Bachelor’s degree
+Excel; minimum intermediate user, and must have demonstrated skills using formulas, pivot tables, pivot charts, various “look-ups,” and VBA or macros
+Power BI; minimum 6 months experience, experience with other data visualization software may be substituted
+SQL; intermediate demonstrated skills writing queries in a professional setting
+SQL Server Management Studio; intermediate demonstrated skills in a professional setting
+MS Office applications experience
+Ability to communicate effectively with both business and technical staff, and convey complex ideas both verbally and in written form
+"},
+"ranking4":{"title":"Data Analyst (Remote)","company":"Talentify.io","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"11-50","type":"Human Resources Services","level":"Entry level",
+"Main Responsibilities":"You will be responsible for analytics initiatives, including managing relationships with several enterprise clients, building out their analytics framework, overseeing tagging, and ad-hoc reporting needs
+Provide subject matter expertise in Google Analytics and Google Tag Manager to your clients via scheduled reports, ad-hoc reports, overseeing the tagging and analytics framework, and a variety of analysis and insight initiatives
+Develop analytics and data strategies for some of the largest brands in the world with a focus on measurably lifting their business
+Share your data and marketing analytics expertise with clients; acting as a thought leader for your client, and an active participant in the knowledge growth of the NAS team
+Assist clients in understanding the importance of online measurement, and provide best practice guidelines for their general data strategy, as well as specific technical implementations
+Assist the data team in propelling our practice forward with new go to market initiatives and solutions
+NAS is looking for an experienced Google Analytics Data Specialist with enterprise-level client facing experience in analytics and implementation of marketing projects",
+"Position Requirements":"The ideal candidate MUST have a history of working with Google Analytics, Google Tag Manager, and the Google Marketing Platform to help a variety of businesses, overseeing or directly having a hand in the implementation of their data collection, as well as finding ways to utilize this data to drive value for their clients through reporting and analysis
+We are looking for candidates that can wear two hats comfortably - “business” and “data” - with at least 2-3 years of client facing experience with Google Analytics
+Ideally, this experience is with a digital recruitment marketing consulting firm, agency, or advertiser
+Beyond the experience with Google Analytics, in our eyes the most important qualities are intellectual curiosity, autonomy, and proactivity
+You have deep knowledge and experience using Google Analytics, Google Tag Manager, and other parts of the Google Marketing Platform
+You have a deep knowledge and understanding of the data, ad tech, and marketing tech industry
+You have experience managing strategic projects and/or clients
+You are someone who can sit in a room/Zoom with large clients and confidently establish yourself as a business partner while providing guidance on their analytics and data strategy
+You lean into a challenge; resilient and are a practitioner of accountability
+You are a self-directed, resourceful, and a critical thinker with attention-to-detail and problem-solving skills
+You are someone who loves to collaborate within cross-functional teams
+You have self and situational awareness; an ability to ‘read the room’; a leader and a listener
+"},
+"ranking5":{"title":"Sr. Site Performance and Insights Analyst","company":"PrincentonOne","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"51-200","type":"Staffing and Recruiting","level":"Associate",
+"Main Responsibilities":"In this position, you will analyze the customer behavioral data to evaluate site performance and identify opportunities for improvement in conversion
+Deliver insights and conduct bi-weekly business review meetings with the leadership
+Establish measurement frameworks for new features on the site and work with the Analytics development team to implement the data collection strategies via tagging
+Develop scorecards and reports that assess the site/features performance
+Generate testing ideas and help with the co-ordination/implementation/evaluation of A/B tests on the website",
+"Position Requirements":"Looking for someone that is naturally curious, data-driven and able to articulate trends, patterns and data sets in a solution-oriented approach. This role will require you to form KPI’s to measure success, as well as implement SOP’s for this newly formed team
+"},
+"ranking6":{"title":"Senior Data Analyst","company":"VMLY&R","location":"Nashville","state":"TN","country":"United States","remote":"unknown","time":"Full-time","employees":"100001+","type":"Advertising Services","level":"Mid-Senior level",
+"Main Responsibilities":"Synthesize and interpret marketing data into a narrative of business performance and actionable insights in deliverables of various formats
+Create measurement frameworks that identify KPIs and diagnostic measures for marketing programs
+Enable behavior tracking on various digital platforms
+Extract data from various digital tools
+Manage data accuracy and integrity for client marketing programs
+Plan, implement and manage marketing optimization programs (e.g.: A/B testing)
+Create and design business and marketing dashboards that align to client program objectives and various audiences
+Implement, collect, and analyze natural language data across social media platforms
+Additional responsibilities as assigned",
+"Position Requirements":"4+ years of related experience working in marketing analytics
+Demonstrated ability to connect paid media tools, CRM, and Social Monitoring tools with site analytics tools to gain integrated online marketing insights
+Deep experience in data analysis and report generation through tools such as Excel, Tableau, PowerBI, SPSS etc.
+Expert knowledge in digital metrics, dimensions and KPIs
+Experience working independently, self-managing, and managing others on projects to deliver results supporting multiple clients and stakeholders
+Hands-on experience with web analytics platform(s) (Adobe Analytics, Google Analytics, etc.)
+Proficiency in Microsoft Excel
+Experience with multivariate and experimental test platform(s) (Adobe Target, Optimizely, Visual Website Optimizer, etc.)
+Experience with predictive analytics and CRM applications a plus??
+"},
+"ranking7":{"title":"Associate Data Analyst","company":"Brooksource","location":"Charlotte","state":"NC","country":"United States","remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"IT Services and IT Consulting","level":"Associate",
+"Main Responsibilities":"Build frameworks and reusable components for data acquisition and integration going across structured and unstructured data sources
+Use data to find new efficiencies and decrease data duplication across the company
+Scan assets, pulling payment information, and inputting into corresponding applications
+Create data standards and patterns for others to use across the company
+Communicate with business and other technology teams onshore and offshore
+Present data stories to business leaders
+Monitor and analyze existing processes to identify enhancement opportunities
+Assist with troubleshooting issues and providing end-to-end technical solutions quickly and accurately
+Handle complex operational tasks and recommends processing and tech changes with minimal supervision
+Maintain knowledge of emerging technologies",
+"Position Requirements":"B.S. or M.S. in Computer Science, Data Science, Management Information Systems (MIS) or similar field or equivalent experience and work record
+1+ years working within a SQL database
+1+ years working with Excel
+1+ years of data mining or data comparison experience
+Strong problem-solving and troubleshooting skills with the ability to exercise mature judgment
+Ability to manage multiple projects without continuous direction
+Ability to function effectively and proficiently in an environment of ongoing change
+Proactive self-starter with the ability to work well under pressure, prioritize and multitask
+Experience working directly with technology, business stakeholders/leadership in formulating technical requirements
+"},
+"ranking8":{"title":"Senior Data Analyst","company":"PRESENCE","location":"South Barrington","state":"IL","country":"United States","remote":"Hybrid","time":"Full-time","employees":"201-500","type":"Manufacturing","level":"Associate",
+"Main Responsibilities":"Report Design & Development – As the Senior Data Analyst, you are primarily responsible for building out reports and syndicated data reporting environments to meet the evolving needs of our business, clients, and customers. This involves creating custom reports using all applicable data sources (SPINS, IRI, Nielsen, PowerBI, and others) and collaborating on ad hoc needs. You’ll also be responsible for the production and delivery of scheduled reporting. All reports should be structured, understandable and professional and provide insights to the end user
+Presentations and Insights– You will be responsible for meeting with all levels in an organization, including C-Level Executives both internally and externally, to analyze, present and provide insights on many different data scenarios and strategies. You must be comfortable meeting and presenting to small and large audiences and fully understand data points to provide analytical insights
+Provide Education – The Senior Data Analyst will answer questions on which reports to use to answer common business questions, help users navigate available reporting, outline rules/releasability of provided reporting as well as helping users understand structures of available data suppliers.
+Maintain Data Environments – Ensure reporting environments, schedules, distribution lists and templates remain current",
+"Position Requirements":"5+ Years of Data Analysis Experience
+Regular and predictable attendance is required
+Advanced experience with SPINS, IRI, Nielsen, PowerBI
+Experience and confidence of meeting with and presenting to all levels in an organization including C-Level Executives
+Strong understanding of retail measurement data capabilities and measures
+Advanced knowledge of Microsoft Excel and PowerBI as well as a working knowledge of Microsoft Office suite.
+Base understanding of SQL (Structured Query Language) or aptitude to learn
+Attention to detail and strong organizational skills, self-motivated
+Ability to work independently while being a strong team player
+Dependable, diplomatic person, able to problem-solve successfully with a wide variety of people and issues
+Flexibility to successfully multi-task in a fast-paced environment with a positive attitude
+Ability to manage time and deadlines
+Knowledge and interest of the natural products/brands and retail landscape is a plus"}}

@@ -1,0 +1,134 @@
+{"name":"Tony Pollard",
+"email":"jobless769@gmail.com",
+"gender":"man",
+"ethnicity":"white",
+"treatment_id":"white-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Principal Consultant - Power BI","company":"P3 Adaptive","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"11-50","type":"unknown","level":"unknown",
+"Main Responsibilities":"Build complex dimensional data models and reports from the bottom up
+Audit existing Power BI efforts with a focus on improvement
+Visualize compelling data stories on the report canvas
+Produce KPIs with user-friendly display dashboards
+Collaborate with client’s data team to engineer revolutionary companywide data solutions
+Provide skills training both at our client’s firms and in public classes
+Develop and implement Ad Hoc and Enterprise Power BI Solutions for our clients",
+"Position Requirements":"Exceptional communication skills
+Excellent time management skills – multitasking is critical
+Experienced in Project Management
+Intermediate or better proficiency in DAX
+Working knowledge of Power Query
+Experience visualizing data in Power BI Desktop and Power BI Service
+Solid understanding of dimensional modeling concepts
+Ability to connect with our clients
+Expertise in developing Power BI solutions
+Insatiable curiosity and love of learning
+Travel Optional
+"},
+"ranking2":{"title":"Senior Data Analyst","company":"Pareto Intelligence","location":"Chicago","state":"IL","country":"United States","remote":"Hybrid","time":"Full-time","employees":"51-200","type":"Hospitals and Health Care","level":"Associate",
+"Main Responsibilities":"Design and build publication-ready data visualizations using diverse sets of structured and unstructured data
+Build interactive dashboards and reports that provide insights that can be easily interpreted and applied by business leaders to help improve client performance
+Provides data analysis and model development support for the deployment of Pareto’s software solutions
+Reasons independently to synthesize raw data into digestible and actionable information
+Works to continually develop and further Pareto’s quantitative and modeling skills, capabilities, and client offerings
+Collaborates with product management, client advisory, data science and operations on product visualizations, enhancements and debugging issues
+Contributes to requirements gathering and recommendations that align with best practices and future state design",
+"Position Requirements":"BS or BA degree in business, economics, finance, accounting, marketing analytics, MIS, computer science, engineering, healthcare field with proven experience exhibiting data and analytical proficiency
+3+ years of data visualization experience using Tableau, Qlik, Power BI or Looker
+5+ years of experience with analytics, database, or business intelligence in the healthcare field
+5+ years of Strong SQL querying experience both creating and updating and stored procedures
+Experience with Python (i.e. Jupyter)
+Exposure to statistical software such as SAS or R
+Healthcare Payer and/or Provider experience with claims, clinical and or quality data
+Strong analytical aptitude and an understanding of statistical methods
+Desire to improve and expand analytical and data visualization skills with new technology
+"},
+"ranking3":{"title":"Senior Data Analyst","company":"a2c IT Consulting","location":"Greater Philadelphia","state":"PA","country":"United States","remote":"Hybrid","time":"Full-time","employees":"51-200","type":"IT Services and IT Consulting","level":" Mid-Senior level",
+"Main Responsibilities":"You will be tasked to take stewardship over sophisticated data mappings, movements and process analysis
+Document business requirements for inclusion in the Metadata Repository, and establish business processes to support its usage
+Build data dictionaries
+Source Target Mapping, Data extraction",
+"Position Requirements":"7-10 Years and Data Analyst-Systems analyst
+Requirements Management, BRDs
+Data Quality Data Lineage ETL
+strong sql query expertise
+Visio, excel,
+Process Mapping, as is vs future state requirements management
+Understanding of etl-data warehouse environment preferred
+"},
+"ranking4":{"title":"Data Analyst (Remote)","company":"Talentify.io","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time",
+"employees":"11-50","type":"Human Resources Services","level":"Entry level",
+"Main Responsibilities":"You will be responsible for analytics initiatives, including managing relationships with several enterprise clients, building out their analytics framework, overseeing tagging, and ad-hoc reporting needs
+Provide subject matter expertise in Google Analytics and Google Tag Manager to your clients via scheduled reports, ad-hoc reports, overseeing the tagging and analytics framework, and a variety of analysis and insight initiatives
+Develop analytics and data strategies for some of the largest brands in the world with a focus on measurably lifting their business
+Share your data and marketing analytics expertise with clients; acting as a thought leader for your client, and an active participant in the knowledge growth of the NAS team
+Assist clients in understanding the importance of online measurement, and provide best practice guidelines for their general data strategy, as well as specific technical implementations
+Assist the data team in propelling our practice forward with new go to market initiatives and solutions
+NAS is looking for an experienced Google Analytics Data Specialist with enterprise-level client facing experience in analytics and implementation of marketing projects",
+"Position Requirements":"The ideal candidate MUST have a history of working with Google Analytics, Google Tag Manager, and the Google Marketing Platform to help a variety of businesses, overseeing or directly having a hand in the implementation of their data collection, as well as finding ways to utilize this data to drive value for their clients through reporting and analysis
+We are looking for candidates that can wear two hats comfortably - “business” and “data” - with at least 2-3 years of client facing experience with Google Analytics
+Ideally, this experience is with a digital recruitment marketing consulting firm, agency, or advertiser
+Beyond the experience with Google Analytics, in our eyes the most important qualities are intellectual curiosity, autonomy, and proactivity
+You have deep knowledge and experience using Google Analytics, Google Tag Manager, and other parts of the Google Marketing Platform
+You have a deep knowledge and understanding of the data, ad tech, and marketing tech industry
+You have experience managing strategic projects and/or clients
+You are someone who can sit in a room/Zoom with large clients and confidently establish yourself as a business partner while providing guidance on their analytics and data strategy
+You lean into a challenge; resilient and are a practitioner of accountability
+You are a self-directed, resourceful, and a critical thinker with attention-to-detail and problem-solving skills
+You are someone who loves to collaborate within cross-functional teams
+You have self and situational awareness; an ability to ‘read the room’; a leader and a listener
+"},
+"ranking5":{"title":"Data Analyst_1","company":"Michelin","location":"Greenville","state":"SC","country":"United States","remote":"unknown","time":"Full-time","employees":"10001+","type":"Motor Vehicle Manufacturing","level":"Mid-Senior level",
+"Main Responsibilities":"Identifies and understands issues the company/entity/business is facing and relevant data sources for its scope
+prioritizes needs with stakeholders
+Identifies or acquires data needed to meet a simple business need
+Collects, selects and validates data relevant to the analysis
+Analysis and valorizes, with the help of a Data Scientist, heterogeneous, possibly unstructured, data masses to extract useful knowledge for the optimization of the company’s offers, services or processes and to obtain reliable results
+Extract and translate business data into statistical data
+Analyzes results, identifies trends and/or ideas for action and makes recommendations based on the analysis of data collected
+Provides its entity with decision-making statistical levers for the conduct and analysis of action campaigns
+Popularize and present results to decision makers in a format that is accessible to all through data visualization tools
+Applies Group standards for data security, quality and confidentiality throughout their lifecycle and processing
+Tests, monitors database quality and consistency and ensures regular updates
+Ensures protection and integrity of information on its perimeter
+Meets ethical rules in the use of data",
+"Position Requirements":"Unknown
+"},
+"ranking6":{"title":"Quantitative Model Governance Oversight Analyst - Minneapolis or Remote","company":"U.S. Bank","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"10001+","type":"Banking","level":"Entry level",
+"Main Responsibilities":"Collaborating and communicating with business lines, model owners, and model validation to ensure Model Risk Management program requirements are communicated and understood
+Overseeing execution of Validation Quality Assurance program, including:
+Allocating resources, performing/overseeing peer reviews, vetting the findings and ensuring their effective remediation
+Managing the peer review process designed to ensure model weaknesses and limitations are appropriately identified in the course of the inaugural, periodic, and targeted validations, as well as annual reviews performed by the validation teams across all models used within the Company
+Additional focus will be on ensuring consistency of the validation program execution across all validation teams and all model types utilized within the institution and staying current with changes in regulatory expectations and leading industry practices
+Being involved in assessments of business lines’ compliance with MRM program requirements, which includes:
+Interviewing business line personnel on products, services, business processes, risk management programs, and model use related to these efforts, as well as implementation of MRM program requirements
+Assessing model documentation, including development, monitoring, certifications, implementation, and validation documentation, for consistency and completeness against program standards and templates
+Summarizing and providing context for conclusions and findings in a written report, and verbally communicating findings to the business lines and senior management
+Thinking critically in executing the business line assessment process and for all activities in support of MRM program objectives and continuous process improvements therein
+Reviewing the bank’s internal policy updates and regulatory changes for potential impact to the MRM program and its key stakeholders
+Performing other work as required, to support the MRM program",
+"Position Requirements":"Bachelor’s degree in a quantitative field, and eight or more years of relevant experience OR
+MA/MS in a quantitative field, and five or more years of related experience OR
+PhD in a quantitative field, and four or more years of related experience
+"},
+"ranking7":{"title":"Web Insights Analyst","company":"Insight Global","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Contract","employees":"1001-5000","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"Our Consumer client is looking for a Web Insights Analyst to support their web and CRM analytics. 80% of the role is supporting web analytics, 20% is supporting CRM Salesforce Marketing Cloud analytics. You will analyze consumer's interaction with product sites, effectiveness of web pop-up ads and coupons, google rankings, search engine optimization strategy, email marketing ads, and some social ad performance.",
+"Position Requirements":"Bachelor's degree
+3+ years of experience with running Google Analytics and reporting on GA first party data
+3+ years of experience with SEO (Search Engine Optimization)
+3+ years of experience with A/B testing
+3+ years of experience with SQL
+2+ year of experience visualizing in Tableau or Power BI
+"},
+"ranking8":{"title":"Senior Business Intelligence Analyst","company":"Lumos Fiber","location":"North Carolina","state":"NC","country":"United States","remote":"Remote","time":"Full-time","employees":"201-500","type":"Technology, Information and Internet","level":"Mid-Senior level",
+"Main Responsibilities":"Deliver monthly results and forecast reporting to Sales, Customer Care, and Marketing teams as well as Lumos senior leadership.
+Partner to achieve budget and ROI targets with an emphasis on revenue growth goals.
+Deliver required Sales and Marketing inputs to the Monthly Operations Report
+Provide analysis on the effectiveness of programs in Sales Operations (incentives), Market Acquisition (direct mail, paid media, email, phone), Market Conditioning, and Customer Care. Provide alternative solutions as possible.
+Support Marketing & Sales leaders in the campaign and channel-level performance initiatives
+Perform problem analysis to resolve analytics, tracking, and campaign issues.
+Provide input to product pricing strategy and tactical execution of promotional programs.
+Manages the Lumos Rewards Card program.
+Assisting in the development of the annual plan for Sales, Customer Care and Marketing organizations that align with company goals.
+Ad hoc reporting and analysis",
+"Position Requirements":"Bachelor's Degree in Finance or Accounting or applicable years of experience. While possessing the stated degree is preferred, Lumos also may consider applicants who hold some combination of coursework and experience, or who have extensive related professional experience. MBA or master's equivalent preferred.
+Financial acumen and economic thinking are required."}}

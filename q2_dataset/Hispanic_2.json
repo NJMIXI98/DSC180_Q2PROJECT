@@ -1,0 +1,110 @@
+
+{"name":"Pablo Rodriguez",
+"email":"rodripablo123678@gmail.com",
+"gender":"man",
+"ethnicity":"hispanic",
+"treatment_id":"hispanic-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Senior Business Intelligence Analyst","company":"The Placement Gurus","location":"Boston","state":"MA","country":"United States","remote":"Hybrid","time":"Full-time","employees":"1-10","type":"Staffing and Recruiting","level":"Associate",
+"Main Responsibilities":"Builds strong relationships with their Business Partners to understand the business needs and analytical and reporting challenges and leverages the relationship to identify new opportunities to increase efficiency in both process and understanding using new or existing Business Intelligence projects.
+Uses in-depth knowledge of industry best practices and expertise in data model development, data analytics, and dashboard design to guide cross-functional teams in the development of creative and innovative ways to answer critical business questions efficiently and effectively. Key player in the development of all Business Intelligence projects to the successful and timely outcome that answers the questions posed by Business Partners
+Ensures that Business Intelligence projects adhere to the enterprise design standards for visual design, data governance, and performance, including cross validation of source data, development of routine data quality checks, and performance testing under different enterprise load conditions.
+Provides support for all deployed Business Intelligence projects, driving the identification of root cause of issues and actively participates in guiding issue resolution and control process remediation to prevent further occurrences
+Guides the User Acceptance testing, project documentation, and deployment processes for all assigned BI projects, including regularly reoccurring project updates on completion status to project sponsors.",
+"Position Requirements":"Bachelor's Degree in Computer Science, Mathematics, Statistics, or related quantitative field
+3+ years of hands-on experience utilizing Business Intelligence Tools, such as Tableau or PowerBI to develop robust, interactive, and visually impactful dashboards
+3+ years of hands-on experience developing optimized, complex SQL queries across large volumes of data in both relational and multi-dimensional data sources such as Teradata, Hadoop, and Hyperion Essbase
+Exceptional ability to work cross functionally and develop strong inter-business relationships
+Full authorization to work for a U.S. employee without limitation or sponsorship
+"},
+"ranking2":{"title":"Senior Research Data Analyst","company":"Komodo Health","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"501-1000","type":"Software Development","level":"Mid-Senior level",
+"Main Responsibilities":"Develop programming pipeline to perform large-scale data extraction, transformation, and validations to facilitate high-quality HEOR/RWE studies using SQL
+Implement and execute analytic plans for observational research studies using Komodo data
+Perform complex statistical modeling in a programming language such as R/Python/SAS
+Take ownership of the analysis pipeline to generate results, and ensure that results align with study objectives and statistical approaches in the research protocol
+Present interim and final results internally for review by stakeholders, incorporate feedback to the analysis pipeline and iterate on analytic plans as needed.
+Create final deliverables in industry standard to share with external clients
+Design and implement standardized programs for reproducible research",
+"Position Requirements":"Bachelor’s or Master’s degree in Statistics, Biostatistics, Data Science, Public Health, Epidemiology, or other relevant disciplines.
+At least three years of industry experience working with large-scale databases using SQL (data query, data cleaning, data transformation).
+Experience working with a large healthcare database (preferably administrative claims or EHR).
+Experience working in a research team collaborating with subject-matter experts on epidemiological research studies.
+Basic understanding of concepts used in epidemiological study design.
+Experience performing statistical analysis (descriptive analytics, regression, hypothesis testing, and visualization).
+Proficient in implementing statistical methods in programming languages such as R/Python/SAS.
+Willingness to learn new tools and methods in order to deliver best-in-class results.
+"},
+"ranking3":{"title":"Senior Data Analyst","company":"Insight Global","location":"Columbus","state":"OH","country":"United States","remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"Assists in supporting effective data management and governance practices and ensure adherence to the Data Policy and standards; participates in change management practices
+Works closely with the Segment Data Manager and team, Data Trustees & Curators, and technology partners across the data lifecycle
+Dedicated to the ongoing improvement of data quality within the business segment
+Participates in the fit for purpose analysis of data for regulatory and management reporting
+Assists in identifying Critical Data Elements (CDEs) and data profiling of CDEs
+Assists in the management segment-specific reference data
+Supports metadata, business definitions and lineage are mapped into the enterprise-wide tool
+Helps manage the inventory of data-related controls on systems that support segment processes and customers
+Has basic knowledge of the legal, compliance, and regulatory issues impacting data
+Partners with the CDAO (Chief Data & Architecture Office) Data Literacy team to support literacy efforts within the segment",
+"Position Requirements":"Bachelor’s degree or higher
+5+ years of experience working in business analyst or data management or data quality analyst roles (focus in quality)
+Experience performing data analysis with SQL (strongly preferred) or other query tools to analyze data and working in a data environment and/or on data projects
+Experience working with Collibra or IBM Data Libraries, or similar
+Experience with data profiling
+Hands on experience with data quality management tools or validation tools – Informatica, etc
+Understanding of Metadata or other data glossary tools
+Well-developed negotiation, influencing, and partnership skills
+"},
+"ranking4":{"title":"Data Analyst_1","company":"Michelin","location":"Greenville","state":"SC","country":"United States","remote":"unknown","time":"Full-time","employees":"10001+","type":"Motor Vehicle Manufacturing","level":"unknown",
+"Main Responsibilities":"Identifies and understands issues the company/entity/business is facing and relevant data sources for its scope
+prioritizes needs with stakeholders
+Identifies or acquires data needed to meet a simple business need
+Collects, selects and validates data relevant to the analysis
+Analysis and valorizes, with the help of a Data Scientist, heterogeneous, possibly unstructured, data masses to extract useful knowledge for the optimization of the company’s offers, services or processes and to obtain reliable results",
+"Position Requirements":"unknown
+"},
+"ranking5":{"title":"Data Analyst Quality (Hybrid)","company":"Palomar Health","location":"Escondido","state":"CA","country":"United States","remote":"(On-site)","time":"Full-time","employees":"5001-10000","type":"Hospitals and Health Care","level":"Entry level",
+"Main Responsibilities":"Responsible for the Quality Incentive Pool (QIP) Program data needs, assessment, and distribution for the program. Role involves data extraction, interpretation and integration from multiple database systems for report and graph production, evaluation, and ongoing development. Researches best practices and makes recommendations to key stakeholders for adoption of systems and tools, based on analysis of findings. Responsible for assisting to create, maintain and validate all QIP data. Speak and read English at a level that is sufficient to satisfactory perform the essential functions of the position. Knowledge of standard office equipment (i.e., calculator, fax, photocopier) and personal computer and computer software skills (i.e., MS Windows, Excel, Access, Word, PowerPoint, internet, e-mail). Windows computer skills including proficient use of keyboarding, use of mouse or keys for functions such as selecting items, use of drop down menus, scroll bars, opening folders, copying and similar operations required upon employment or within the 1st two weeks of employment to perform the essential functions of the job. Performs other duties as assigned. Follows Palomar Health rules, policies, procedures, applicable laws and standards. Carries out the mission, vision, and quality commitment of Palomar Health.",
+"Position Requirements":"Minimum Education: Associate's Degree and/or equivalent combination of education and experiencePreferred Education: Bachelor's DegreeMinimum Experience: 2 years related functional experiencePreferred Experience: 2 years experience extracting and integrating data from electronic systems and utilizing clinical, financial, and ancillary systems for report writing production within a healthcare environmentRequired Certification: Preferred Certification: Required License: Preferred License:
+"},
+"ranking6":{"title":"Data Analyst","company":"K16 Solutions","location":"Greater Phoenix Area","state":"AZ","country":"United States","remote":"Hybrid","time":"Full-time","employees":"51-200","type":"IT Services and IT Consulting","level":"Associate",
+"Main Responsibilities":"Create and maintain key performance indicator reports and dashboards in various systems, including Tableau, Salesforce, and other applications
+Work with the finance team to translate business analytics for financial models
+Assist in auditing and maintaining existing data sets and creating new data sets based on business reporting priorities
+Complete ad-hoc analysis to answer questions, develop knowledge, and gain insights
+Work with functional business areas to operationalize analyses
+Assist in the completion of monthly, quarterly, and ad hoc reporting",
+"Position Requirements":"Bachelor's degree preferred
+Intermediate proficiency with Tableau, Microsoft Power BI, or large-scale reporting tools required
+Salesforce knowledge required
+1+ years of experience in an analytic function (finance, data, systems) required
+Snowflake knowledge or similar technologies preferred
+"},
+"ranking7":{"title":"Senior Data Analyst","company":"Pareto Intelligence","location":"Chicago","state":"IL","country":"United States","remote":"Hybrid","time":"Full-time","employees":"51-200","type":"Hospitals and Health Care","level":"Associate",
+"Main Responsibilities":"Design and build publication-ready data visualizations using diverse sets of structured and unstructured data
+Build interactive dashboards and reports that provide insights that can be easily interpreted and applied by business leaders to help improve client performance
+Provides data analysis and model development support for the deployment of Pareto’s software solutions
+Reasons independently to synthesize raw data into digestible and actionable information
+Works to continually develop and further Pareto’s quantitative and modeling skills, capabilities, and client offerings.
+Collaborates with product management, client advisory, data science and operations on product visualizations, enhancements and debugging issues
+Contributes to requirements gathering and recommendations that align with best practices and future state design",
+"Position Requirements":"BS or BA degree in business, economics, finance, accounting, marketing analytics, MIS, computer science, engineering, healthcare field with proven experience exhibiting data and analytical proficiency
+3+ years of data visualization experience using Tableau, Qlik, Power BI or Looker
+5+ years of experience with analytics, database, or business intelligence in the healthcare field
+5+ years of Strong SQL querying experience both creating and updating and stored procedures
+Experience with Python (i.e. Jupyter)
+Exposure to statistical software such as SAS or R
+Healthcare Payer and/or Provider experience with claims, clinical and or quality data
+Strong analytical aptitude and an understanding of statistical methods
+Desire to improve and expand analytical and data visualization skills with new technology
+"},
+"ranking8":{"title":"Data Analyst - 71286","company":"Swoon","location":"Chicago","state":"IL","country":"United States","remote":"Hybrid","time":"Full-time","employees":"201-500","type":"Staffing and Recruiting","level":"Associate",
+"Main Responsibilities":"Lead the identification and automation of data workflows
+Structuring large data sets and finding patterns from and insights from data
+Create presentations and reports using impactful graphs and other methods of visualization
+Mapping of current value streams, identification of improvement opportunities, and design/deployment of automation scripts.",
+"Position Requirements":"Degree in Engineering, Computer Science, Business, or closely related field
+3+ years of Data Analytics experience required
+3+ years working with Process Improvement methodologies
+Excellent knowledge of databases and SQL scripting
+Excellent knowledge of Python and R scripting
+Detailed-oriented, resourceful, competitive, and organized"}}

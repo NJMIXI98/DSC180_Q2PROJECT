@@ -1,0 +1,167 @@
+{"name":"Felipe Javier",
+"email":"jobless2678@gmail.com",
+"gender":"man",
+"ethnicity":"hispanic",
+"treatment_id":"hispanic-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Senior Statistician","company":"eTeam","location":"United States","state":"unknown","country":"United States",
+"remote":"Remote","time":"Contract","employees":"501-1000","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"Author and/or provide input on statistical sections of clinical study documents including protocols,
+electronic case report forms, randomization plans, data transfer specifications, statistical analysis plans, tables, listings,
+and figures (TLF) shells,SDTM/ADaM specifications, clinical study reports, and other relevant documents
+Drive TLF development and TLF reviews with programming and other relevant team members, determine analysis populations,
+validate key analysis results, and present final analysis results to key stakeholders. Accountability for 5+ concurrent studies.
+Represent the Statistics function in study team meetings",
+"Position Requirements":"Masters or PhD in Statistics
+3-5 years recent/related statistical experience within a pharmaceutical and/or medical device company, or similar organization
+Experience with different clinical phases
+Knowledge of clinical trial methodology and study design
+Study-level statistical expertise
+Proficiency in SAS and knowledge of CDISC standards
+Strong working knowledge of statistical data analysis and data management principles
+"},
+"ranking2":{"title":"Senior Data Analyst","company":"CREF","location":"Boston","state":"MA","country":"United States","remote":"Hybrid",
+"time":"Full-time","employees":"51-200","type":"Real Estate","level":"Mid-Senior level",
+"Main Responsibilities":"Understand and execute on the long-term vision and goals for the platform. Work with cross-functional teams of
+product managers, engineers, designers, and analysts while playing a key role in organizing and communicating",
+"Position Requirements":"Minimum 3 years of experience as a business/data/product analyst
+Bachelor's degree in Computer Science, Data Science, Engineering, Business, or related discipline required; Master’s degree strongly preferred
+Data Analytics experience required-Tableau/PowerBI, Alteryx, SQL, AWS, Google Clouid
+Product Management experience a plus QA experience a plus High level of problem-solving abilities
+Ability to manage shifting priorities
+Ability to thrive in an entrepreneurial or start-up environment
+Excellent verbal, written and presentation skills
+Demonstrated leadership experience with a focus on quality, efficiency, and customer service
+"},
+"ranking3":{"title":"Quantitative Senior Researcher","company":"O.C. Tanner","location":"Salt Lake City Metropolitan Area","state":"UT",
+  "country":"United States","remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"Human Resources Services","level":"Associate",
+"Main Responsibilities":"Gathering information primarily through survey research and secondary research, but also utilizing in-depth interviews,
+multi-city focus groups, and other methods.Leading primary research, assessment, and client program evaluation projects.
+Collaborating, providing feedback, and receiving feedback within a team of diverse thinkers with a variety of educational and experiential backgrounds.
+Blending data from our world-class intellectual property research with millions of recognition experiences from our transactional data.
+Conducting both basic and advanced statistical analyses, to include crosstabulations, correlations, regressions, and additional models.
+Leveraging machine learning models, to include decision trees, naïve bayes, random forests, neural networks, various NLP models, and more, generating rich insights about our clients programs and user behavior.
+Productizing predictive and prescriptive models, surfacing nuanced findings to various user personas and internal stakeholders
+Generating three research papers, in addition to other deliverables as assigned
+Communicating convincing stories with data, focusing on actionable insights that can be meaningfully visualized
+Emerging as a recognized subject matter expert in the application of advanced models with culture, employee experience, and rewards and recognition, acting as an advisor for both internal and external clients
+A typical day for our senior researcher: delivering an insightful assessment of a client's organizational culture, collaborating on a new product offering,
+meeting with our client success partners to propose enhancements to a client program, grabbing lunch with your ramen-addicted colleagues, and surfacing insights to create a new, market-leading, state-of-the-art machine learning model.",
+"Position Requirements":"A master's degree in any social science or mathematical discipline with significant quantitative training
+4+ years of data modeling experience
+4+ years of primary research experience, including the application of statistical modeling techniques
+A portfolio of innovative applications of various machine learning models and/or algorithms
+Experience with STATA
+An ability to distill complex details, mathematical approaches, and findings, in a highly accessible matter
+Exceptional business acumen
+An openness to sharing your knowledge and educating the broader team on your initiatives
+Extreme attention to detail and quality
+Availability to travel to various research sites
+"},
+"ranking4":{"title":"Data Analyst (Remote)","company":"General Dynamics Information Technology","location":"Little Rock","state":"AK",
+"country":"United States","remote":"Remote","time":"Full-time","employees":"10001+","type":"IT Services and IT Consulting","level":"Entry level",
+"Main Responsibilities":"Performs data analysis, interpretation and management duties
+Develops rules and methodologies for data collection and analysis
+Ensures the integrity of project data, including data extraction, storage, manipulation, processing and analysis
+Consults with the external clients and internal staff to determine data management needs and objectives
+May be responsible for database design, administration, security, and maintenance
+Prepares presentations that reflect the results of the data analysis
+Provides data-related training to staff
+Coordinates with scientists and other technical experts to design and develop statistical analyses methodologies
+Maintains current knowledge of relevant technologies as assigned
+Participates in special projects as required.",
+"Position Requirement":"Bachelors Degree (Master's Degree preferred) in a Computer Science, Statistics or a related technical discipline,
+or the equivalent combination of education, technical certifications or training, or work experience
+2-5 years of related statistics/data analysis experience
+Experience with R and/or SAS
+"},
+"ranking5":{"title":"BI Reporting Analyst IV","company":"Russell Tobin","location":"Mountain View","state":"CA","country":"United States",
+"remote":"Hybrid","time":"Contract","employees":"201-500","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"Performs business analysis using various techniques, e.g. statistical analysis, explanatory and predictive modeling, data mining
+Determines best practices and develops actionable insights and recommendations for the current business operations
+Works directly with the internal or external client to identify analytical requirements.
+May help to produce ad hoc data and reports. May assist in implementing or developing systems to capture business operation information
+May occasionally guide less experienced business data analysts.",
+"Position Requirements":"Strong analytical skills. Knowledge of SQL and relational databases as well as BI tools such as Tableau
+SQL, Tableau, Excel, Azure
+"},
+"ranking6":{"title":"Senior Data Analyst","company":"Texas Capital Bank","location":"Richardson","state":"TX","country":"United States",
+"remote":"On-site","time":"unknown","employees":"1001-5000","type":"Banking","level":"unknown",
+"Main Responsibilities":"Interpret data, analyze results using statistical techniques and provide ongoing reports
+Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality
+Work with Business team to gather requirements
+Carry out Data profiling to understand the data and find out linkage between each data elements.
+Assist Architecture team to create data model
+Create Source to Target Mapping document
+Work with QA/Development team to explain the requirements and close all the outstanding questions on issues/bug on requirements/Data Model/Mapping
+Acquire data from primary or secondary data sources and maintain databases/data systems
+Identify, analyze, and interpret trends or patterns in complex data sets
+Work with management to prioritize business and information needs
+Carrying out training sessions and workshops to guide relevant teams
+Carrying out periodic quality checks
+Working experience with multiple vendors",
+"Position Requirements":"Bachelor’s degree in computer science or MIS related area required or equivalent experience (industry experience substitutable)
+8+ years of experience of data analyst /data developer
+3+ years of experience in Banking and financial domain
+Experience in loans/credit risk will be a value add
+Proven analytic skills, including mining, evaluation, analysis, and visualization
+Technical writing experience in relevant areas, including queries, reports, and presentations
+Strong advanced SQL or Excel skills with the ability to learn other analytic tools
+Prior experience with database and model design and segmentation techniques
+Data warehouse experience is a MUST.
+Practical experience in statistical analysis using packages including Excel, SPSS, and SAS
+Proven success in a collaborative, team-oriented environment
+Excellent understand of the SDLC process and familiar with the various testing methodologies (e.g.: SCRUM, Kanban, TDD, BDD and Squad Models).
+Excellent verbal and written communication skills
+Must adhere to corporate/team etiquette
+Highly proficient in Publisher, PowerPoint, SharePoint, Visio, Confluence and Azure DevOps
+Working knowledge of best practices in value-driven development (requirements management, prototyping, hypothesis-driven development, usability testing)
+Good communicator with problem solving mindset and focus on process improvement
+Working knowledge of work management and collaboration tools (Azure DevOps and Confluence preferred)
+Strong time management skills and a proven track record of meeting various deadlines
+Strong knowledge of Snowflake/Redshift, AWS/Azure
+Takes bottom line responsibilities starting from requirements till deliver
+Strong executive presentation skills with expertise in PowerPoint and presentation best practices.
+Consistently demonstrates clear and concise written and verbal communication skills
+Good interpersonal skills, ability to interact with Senior Management
+Highly self-motivated with a strong sense of initiative
+Interpersonal and customer service skills are required when meeting with and interviewing potential clients
+Excellent multitasking skills, task management strategies, organizational and analytical abilities.
+Ability to work well in a team environment, meet deadlines, demonstrate good time management, and multi-task in a fast-paced project environment
+"},
+"ranking7":{"title":"Indiana Fever Basketball Data Analyst","company":"Pacers Sports & Entertainment","location":"Indianapolis","state":"IN",
+"country":"United States","remote":"Hybrid","time":"Full-time","employees":"1001-5000","type":"Spectator Sports","level":"Entry level",
+"Main Responsibilities":"Engage in advanced statistical modelling and analysis regarding basketball data
+Manipulate, visualize, and analyze large data sets
+Assist in database maintenance and data cleansing
+Develop tools to streamline the decision-making process for the front office and coaching staff
+Develop recommendations and solutions to create efficiencies and improve decision-making throughout the basketball operations department
+Communicate results and findings to the basketball operations staff through presentations, written reports, and other tools
+Work and communicate with other stakeholders, including the sports performance staff, to evaluate, integrate, and provide insights on health and performance data
+Innovate across all aspects of basketball operations
+Support the gathering of additional data for ad-hoc analysis as needed
+Collaborate on team projects and work autonomously on individual projects as needed
+Maintain confidentiality and excellent attention to detail when working with data
+Other duties as assigned",
+"Position Requirements":"Deep statistical expertise and experience with varied programming languages
+Strong experience with Bayesian analysis, artificial intelligence, and machine learning techniques
+Significant experience with statistical software packages
+Expertise in data mining and working with big data
+Data visualization experience is a plus
+Excellent interpersonal and communication skills to effectively convey messages with a variety of different constituencies
+Strong organizational skills with a focus on detailed outcomes
+Self-motivated and goal oriented
+Interest in and familiarity with basketball and its terminology
+Ability to work in a stressful environment and meet firm timelines
+Ability to work long hours on short notice, including nights and weekends as needed
+"},
+"ranking8":{"title":"Senior Data Analyst","company":"Insight Global","location":"Irvine","state":"CA","country":"United States",
+"remote":"Hybrid","time":"Contract","employees":"1001-5000","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"This person will be working with the business, understand the problem, and gather the data needed. They will be gathering the data, cleaning, restructuring, joining multiple data sources, and interpret the data for analysis.
+They need to find the pattern, understand the correlation, and provide a recommendation and pass this off to the Data Engineer on the team. 40% of the time will be creating written reports/PowerPoint presentations and creating Proof of Concepts (PoCs)",
+"Position Requirements":"5+ years of experience as a Data Analyst (business strategy)
+2+ years of experience with PowerBI - Visualization
+2+ years of experience with Python & R (analyzing the data)
+2+ years of experience with SQL (navigating the data/finding correlation)
+Plusses
+BA Degree/MBA"}}

@@ -1,0 +1,152 @@
+
+{"name":"Tyus Jefferson",
+"email":"jonesjaden123689@gmail.com",
+"gender":"man",
+"ethnicity":"black",
+"treatment_id":"black-male",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Senior Business Intelligence Analyst","company":"CoxHealth","location":"Springfield","state":"MO","country":"United States","remote":"Remote","time":"Full-time","employees":"10001+","type":"Hospitals and Health Care","level":"unknown",
+"Main Responsibilities":"unknown",
+"Position Requirements":"Required: Bachelor’s degree in Computer Information Systems, Business Administration degree, or a related field OR 8 years' experience in IT or Computer Science
+Required: Minimum of 4 years’ experience performing data analysis on clinical and financial information
+Strong knowledge of SQL and data extraction tools
+Experience using industry standard BI, statistical, and analytical tools and technologies such as Power BI and Business Objects
+Working knowledge of complex database design and concepts
+Ability to design, write, maintain, and support complex dashboards, queries, extracts, and reports utilizing various reporting tools and data sources
+Demonstrates careful attention to detail and the ability to work independently
+Serves as a resource for identification of potential clinical or financial performance improvement activities by identifying and communicating opportunities discovered/identified during analysis
+Prepares clear and well-organized project-specific documentation to reflect analytic methods used, key decision points, caveats, etc. with sufficient detail to support comprehension and replication of the analysis
+Consistently performs validation checks to ensure accuracy of reports and data
+Excellent systematic problem solving skills
+"},
+"ranking2":{"title":"Principal Data Analyst","company":"Planet Technology","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"1001-5000","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"Provide thought leadership with internal stakeholders so that they may be able to leverage insights better.
+Partner with key stakeholders to prioritize, scope, and perform in-depth analyses that drive and inform strategic decisions, primarily related to portfolio assessment, financial modeling, and growth initiatives
+Develop insights to answer complex questions via thorough and well-designed data analyses using Looker, SQL, Python, and other tools to optimize learning outcomes
+Oversee advanced data analytics and interpretation, define key performance indicators and other performance metrics, and create advanced forecasting and statistical models to predict portfolio behavior.
+Collaborate with Data Engineering teams to map source data, create data pipelines, and define business rules and reporting requirements to support business units onboarding new data
+Drive optimization and data-minded culture inside the company
+Develop frameworks, models, tools, and processes to ensure that analytical insights can be incorporated into critical decision-making.
+Connect with Product and Engineering teams to produce instrumentation to generate insightful measurements on our new and existing products.
+Identify information and visualizations required to tell a compelling and meaningful story using data, establish baselines, and monitor growth or decline in metrics
+Contribute to tools, documentation, and instruction to enable our customers to increasingly use data independently.
+Serve as a point of contact with our business partners and cross-functional teams for the day-to-day management of the Data Analytics program.
+Help create and maintain the plan, schedules, and other documentation required to effectively manage our customers' deliverables.",
+"Position Requirements":"Bachelor's degree in statistics, mathematics, computer science, or a related quantitative discipline
+Strong communication, negotiation, and empathy skills to understand, roadmap, and execute our stakeholders' data analytic journeys
+7+ years of experience with advanced SQL Knowledge (Snowflake, BigQuery, Redshift, Oracle, PostgreSQL, MSSQL, etc.)
+5+ years of experience with reporting/visualization tools, design, and standards – Looker, Tableau, PowerBI, etc
+Experience in analysis of financial or payment data preferred
+Strong knowledge of Looker / LookML is highly desired
+Strong understanding of data preparation, processing, and classification
+Experience with Python and related modules
+Familiarity with the software product lifecycle
+Experience working within an Agile environment
+Must be proactive, demonstrate initiative, and be a logical thinker
+Extensive consultative skills, including understanding and applying stakeholder requirements, drawing out unforeseen implications, and making design recommendations
+The ability to define design reasoning and understand the potential impacts of design requirements
+Strong leadership, communication, and collaboration skills with a track record of taking solution ownership
+Strong problem-solving and troubleshooting skills
+"},
+"ranking3":{"title":"Data Analyst","company":"Centre College","location":"Danville","state":"KY","country":"United States","remote":"(On-site)","time":"Full-time","employees":"201-500","type":"unknown","level":"unknown",
+"Main Responsibilities":"Develop and support reports, dashboards, and analytic tools used by ITS and other administrative offices that employ the Jenzabar-CX database, the Centrenet portal and its mobile apps;
+Use relevant data to generate administrative reports showing trends, patterns, and forecasts;
+Create a final analysis report to help stakeholders understand the process of data analysis so that they can make important decisions based on various facts and trends;
+Performing analysis to assess the quality and importance of the data;
+Review reports and performance counters to filter data to identify and fix code issues.
+Use statistical tools to identify, analyze, and interpret patterns and trends in complex datasets that can be useful for diagnosis and prediction;
+Assist in the maintenance of the database content on the SIS/ERP system. (SUSE Linux, MS Windows Server, Informix, MS SQL Server, IIS, Apache, MySQL and PostgreSQL);
+Provide direct support to the managers and end users of the Jenzabar-CX administrative database environment in those modules supporting the analytic function;
+Implement and provide support for Database Analytics and report writing. (SSRS, Cognos, Informix);
+Support the academic program and the administrative computing environment by responding to and resolving requests for assistance from faculty and administrative staff;
+Demonstrates appreciation of and commitment to further an inclusive culture for those of diverse backgrounds such as ability, age, class, ethnicity, faith, gender, neurodiversity, race and sexual orientation.",
+"Position Requirements":"A bachelor’s degree is required in computer science, information systems, or an appropriate discipline
+Excellent math skills for collecting, measuring, organizing, and analyzing data
+Knowledge of programming languages such as SQL, MATLAB, Python, Oracle, R
+Technical knowledge of developing database design, data models, data mining, and segmentation techniques
+Experience working with report packages such as business objects, programming, and databases
+Knowledge of statistics for use in dataset analysis and statistical packages
+Competent working skills in the Windows, Mac and appropriate versions of UNIX operating system
+Familiarity with the design of and the discrete structures within the Jenzabar-CX enterprise system and its Informix database platform, both their structure and functionality
+Ability to work in a team environment providing support for a diverse constituency of users, including students, faculty and administrative staff
+Strong communication and interpersonal skills
+"},
+"ranking4":{"title":"Associate, Data Analyst","company":"HITT Contracting Inc.","location":"Falls Church","state":"VA","country":"United States","remote":"(On-site)","time":"Full-time","employees":"1001-5000","type":"Construction","level":"Mid-Senior level",
+"Main Responsibilities":"Ensure quality of master data in core systems while developing and documenting processes with other functional data owners to support ongoing maintenance, data integrity, and data security
+Perform routine data maintenance activities at regular intervals and ad-hoc maintenance for new and departing team members and other unique requests
+Ensure data policies are adhered to by corporate and field staff
+Work with data analytics staff in cleansing data using proprietary tools such as Toric as well as programming skills in Python and SQL
+Develop and maintain audit/integrity reports for monitoring data across multiple systems
+Identify and ensure the resolution of data quality issues, such as uniqueness, integrity, accuracy, consistency, and completeness, in a cost-effective and timely manner
+Analyze data stores, generate data quality statistics and communicate the results to the appropriate application owners
+Assist in remediation and strategy to improve data quality with application owners as necessary
+Work collaboratively with analytics professionals, the EBS team, IT, and operations staff internally, as well as with external vendors
+Assist with software application enhancements to improve user adoption and heighten the user experience
+Support end user data requests and ad-hoc reporting
+Assist in the development of training and training materials using internal or external vendors
+Follow all HITT information security policies and procedures.",
+"Position Requirements":"Bachelor's degree or equivalent combination of education and experience
+Recent graduate with a bachelor's degree in information science, data management, computer science, mathematics, or related field preferred
+Coding skills, preferably in SQL and Python, especially Pandas
+Experience with or exposure to Microsoft Azure data storage tools, Power BI analytics software or similar, such as AWS S3 and Tableau
+Knowledge of relational databases
+Ability to collaborate with clients, team members, external data providers, and management.
+Effective communication, documentation, and presentation skills
+Self-motivated, eager to learn, and requires minimal supervision
+Strong analytical and problem-solving skills
+"},
+"ranking5":{"title":"Sr. Consumer Insights Analyst","company":"Covertrus","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Full-time","employees":"5001-10000","type":"Veterinary Services","level":"Mid-Senior level",
+"Main Responsibilities":"Collect and analyze data and present research, findings, and recommendations to cross-functional teams
+Access, extract and analyze information from a variety of data warehouse sources (MySQL, Redshift, Google Analytics, and Snowflake)
+Provide internal consulting support and expertise – generate, review and communicate benchmarks in the context of the effort
+Working as part of a project team – Identify, prioritize and generate ad hoc and scheduled reports and executive dashboards
+Partner with key stakeholders to ensure data accuracy and consistency and provide actionable insights
+Use analytics to inform projects and drive strategic initiative decision making pre- and post-launch, coupled with a good understanding of best practices and what works well
+Build dashboards and manage Consumer reporting suite in Tableau, Excel, and PowerPivot
+Automate data workflows to create self-serve datasets that can be used by business leaders to identify trends and opportunities and make strategic decisions",
+"Position Requirements":"Bachelor’s Degree in Computer Sciences, Math, Statistics or related field
+4+ years’ experience in data modeling/advanced business analytics
+"},
+"ranking6":{"title":"Business Intelligence Analyst III","company":"Johnson Controls","location":"Milwaukee","state":"WI","country":"United States","remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Industrial Machinery Manufacturing","level":"Mid-Senior level",
+"Main Responsibilities":"Partner with sales, marketing, product management and finance to create, analyze, and interpret financial and non-financial business metrics, and create action plans to drive growth for the business
+Provide reporting and analytics to support the business needs to deliver recommendations and analysis on course correction and magnitude of business issues
+Collaborate with leaders across Global Products in gathering insights and market intelligence
+Analyze product trends and provide proactive recommendations for continuous improvement and best practices
+Acquire data from primary or secondary data sources
+Use reporting tools and systems including financial, market share, Salesforce, PPM, and BI tools
+Design, develop, and integrate dashboards and data visualizations to support business processes
+Review ad-hoc vs. standard management reporting process to help determine when repetitive ad-hoc requests should be included as standard reporting.",
+"Position Requirements":"Bachelor’s Degree in Business, Finance, or related field
+6+ years in Business Analysis, Strategy, and/or Finance
+Excellent analytical and problem-solving skills, including the ability to disaggregate issues, identify root causes, and recommend solutions.
+Power BI and Database expereince
+Self-motivated, results-oriented and possess a strong sense of urgency
+Strong time management and organization skills
+Ability to lead through ambiguity and complexity to take calculated risks to solve problems, forge new paths for growth and achieve challenging goals
+Work in a dynamic environment with multiple concurrent projects using creativity, flexibility, and organizational skills
+"},
+"ranking7":{"title":"Quantitative Researcher","company":"Bruin","location":"Connecticut","state":"CT","country":"United States","remote":"Hybrid","time":"Full-time","employees":"51-200","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"Main Responsibilities":"Research & develop methods to make existing trading signals more efficient, profitable and robust.
+Research and develop new trading signals that complement and diversify production strategies in terms of style, source of alpha & market trade.
+Research and develop portfolio construction and optimization methods to maximize performance while controlling risk, drawdowns, and trading costs
+Follow robust research and development procedures to reduce simulated and actual performance differences.",
+"Position Requirements":"MS or Ph.D. in a quantitative field such as science, engineering, or finance
+3+ years related experience
+Exposure to securities and derivatives markets and investment processes with knowledge of mid-to-low frequency systematic strategies
+Advanced programming experience in languages suited for quantitative design
+Ability to synthesize complex topics into the easily digestible written commentary
+"},
+"ranking8":{"title":"Business Intelligence Analyst","company":"Xoriant","location":"United States","state":"unknown","country":"United States","remote":"Remote","time":"Contract","employees":"5001-10000","type":"IT Services and IT Consulting","level":"Associate",
+"Main Responsibilities":"This role is supporting esports data and focusing digital tournaments
+Looking for someone who will be more focusing on dashboards and who has ability to Build dashboards
+Data analyst would work with all required
+Knowledge in gaming is a plus
+Will be dealing with 3-5 external partners per week
+60% Data Analysis/Data Mining, 20% internal collaboration, 20% giving presentations on weekly basis - 30 min update to stakeholders
+2-4 yrs of experience will work",
+"Position Requirements":"SQL
+Data visualization:
+Qlik/Tableau , power bi
+Public presentation skills
+Snowflake is a plus
+Python, R (nice to have but not required as other team assigned to work on these tools)"}}
