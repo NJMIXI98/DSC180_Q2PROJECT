@@ -4,6 +4,8 @@ import sys
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+import statsmodels.api as sm
+from statsmodels.formula.api import ols
 
 from q2 import level_diff
 from q2 import employ_diff
@@ -73,35 +75,80 @@ def main(targets):
         #plot type differences
         types = type_diff(asian_male)[0]
         data = type_diff(asian_male)[1]
+        fig, ax = plt.subplots(figsize =(16, 9))
+        ax.barh(types, data)
+        for s in ['top', 'bottom', 'left', 'right']:
+            ax.spines[s].set_visible(False)
+        ax.xaxis.set_ticks_position('none')
+        ax.yaxis.set_ticks_position('none')
+ 
+        ax.xaxis.set_tick_params(pad = 5)
+        ax.yaxis.set_tick_params(pad = 10)
+ 
+        ax.grid(b = True, color ='grey',linestyle ='-.', linewidth = 0.5,alpha = 0.2)
+        ax.invert_yaxis()
         
-        fig = plt.figure(figsize =(9, 5))
-        plt.pie(data, labels = types)
-        plt.title("Types of Company for Asian Male")
+        ax.set_title('Types of Company for Asian Male',loc ='left', )
         plt.show()
+        
         types = type_diff(hispanic_male)[0]
         data = type_diff(hispanic_male)[1]
-      
-        fig = plt.figure(figsize =(9, 5))
-        plt.pie(data, labels = types)
-        plt.title("Types of Company for Hispanic Male")
-        plt.show()
-        types = type_diff(white_male)[0]
-        data = type_diff(white_male)[1]
-
-        fig = plt.figure(figsize =(9, 5))
-        plt.pie(data, labels = types)
-        plt.title("Types of Company for Caucasian Male")
-        plt.show(block=True)
-        types = type_diff(black_male)[0]
-        data = type_diff(black_male)[1]
-        plt.ion() 
-        fig = plt.figure(figsize =(9, 5))
-        plt.pie(data, labels = types)
-        plt.title("Types of Company for African American Male")
+        fig, ax = plt.subplots(figsize =(16, 9))
+        ax.barh(types, data)
+        for s in ['top', 'bottom', 'left', 'right']:
+            ax.spines[s].set_visible(False)
+        ax.xaxis.set_ticks_position('none')
+        ax.yaxis.set_ticks_position('none')
+        ax.xaxis.set_tick_params(pad = 5)
+        ax.yaxis.set_tick_params(pad = 10)
+        ax.grid(b = True, color ='grey',linestyle ='-.', linewidth = 0.5,alpha = 0.2)
+        ax.invert_yaxis()
+        ax.set_title('Types of Company for Hiapanic Male',loc ='left', )
         plt.show()
         
-        print("It should generate 6 graphs, but the terminal does not show them. It works on my local machine and Jupyter Notebook")
-   
+        types = type_diff(white_male)[0]
+        data = type_diff(white_male)[1]
+        fig, ax = plt.subplots(figsize =(16, 9))
+        ax.barh(types, data)
+        for s in ['top', 'bottom', 'left', 'right']:
+            ax.spines[s].set_visible(False)
+        ax.xaxis.set_ticks_position('none')
+        ax.yaxis.set_ticks_position('none')
+        ax.xaxis.set_tick_params(pad = 5)
+        ax.yaxis.set_tick_params(pad = 10)
+        ax.grid(b = True, color ='grey',linestyle ='-.', linewidth = 0.5,alpha = 0.2)
+        ax.invert_yaxis()
+        ax.set_title('Types of Company for Caucasian Male',loc ='left', )
+        plt.show()
+        
+        types = type_diff(black_male)[0]
+        data = type_diff(black_male)[1]
+        fig, ax = plt.subplots(figsize =(16, 9))
+        ax.barh(types, data)
+        for s in ['top', 'bottom', 'left', 'right']:
+            ax.spines[s].set_visible(False)
+        ax.xaxis.set_ticks_position('none')
+        ax.yaxis.set_ticks_position('none')
+        ax.xaxis.set_tick_params(pad = 5)
+        ax.yaxis.set_tick_params(pad = 10)
+        ax.grid(b = True, color ='grey',linestyle ='-.', linewidth = 0.5,alpha = 0.2)
+        ax.invert_yaxis()
+        ax.set_title('Types of Company for African American Male',loc ='left', )
+        plt.show()
+        
+        print("rank Entry level as 1, Associate as 2, Mid-Senior level as 3")
+              
+        level_male = pd.DataFrame({'gender':np.repeat(['male'], 12),"ethnicity":np.repeat(
+            ['asian','caucasian','hispanic','african'], 3),"level_most":[1,3,3,2,2,3,3,2,3,1,1,2]})
+        level_female = pd.DataFrame({'gender':np.repeat(['female'], 12),"ethnicity":np.repeat(
+            ['asian','caucasian','hispanic','african'], 3),"level_most":[3,3,3,1,2,3,2,2,3,3,1,1]})
+        level_difference = pd.concat([level_male, level_female], axis=0)
+        
+        # Performing two-way ANOVA
+        model = ols('level_most ~ C(gender) + C(ethnicity) +C(gender):C(ethnicity)',
+                    data=level_difference).fit()
+        result = sm.stats.anova_lm(model, type=2)
+        print(result)
 
 if __name__ == '__main__':
     targets = sys.argv[1:]
