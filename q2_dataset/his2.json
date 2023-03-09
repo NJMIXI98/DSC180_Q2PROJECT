@@ -1,0 +1,39 @@
+{"name":"Valeria Garcia",
+"email":"valeriagarcia.linkedin999@gmail.com",
+"gender":"woman","ethnicity":"Hispanic",
+"treatment_id":"hispanic-female",
+"search_job_title":"data analyst",
+"ranking1":{"title":"Sr. Business Intelligence Analyst","company":"Fuse3 Solutions","location":"Tulsa","state":"OK","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"11-50","type":"Staffing and Recruiting","level":"Mid-Senior level",
+"salary":"$100,000/yr - $125,000/yr (from job description) ·"
+},
+"ranking2":{"title":"Insights Analyst","company":"CROSSMARK","location":"The Colony","state":"TX","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Business Consulting and Services","level":"Associate",
+"salary":"$60,000/yr - $70,000/yr."
+},
+"ranking3":{"title":"Senior Data Analyst, Research and Development","company":"Kemper","location":"Williamson County","state":"TX","country":"United States",
+"remote":"Remote","time":"Full-time","employees":"5001-10000","type":"Insurance","level":"Mid-Senior Level",
+"salary":"$67,200/yr - $115,000/yr (from job description) ·"
+},
+"ranking4":{"title":"Data Analyst","company":"Air Force Civilian Service","location":"Dayton","state":"OH","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Government Administrtaion","level":"Entry level",
+"salary":"$71,099/yr - $109,908/yr (from job description) "},
+"ranking5":{"title":"Data Governance Analyst (Sr. or II)","company":"Midcontinent Independent System Operator (MISO)","location":"Carmel","state":"IN","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"501-1000","type":"Utilities","level":"Mid-Senior level",
+"salary":"unknown"
+},
+"ranking5":{"title":"Data Analyst with TOAD SQL","company":"Group O","location":"unknown","state":"unknown","country":"United States",
+"remote":"Remote","time":"Full-time","employees":"1001-5000","type":"Outsourcing/Offshoring","level":"Associate",
+"salary":"$70,000/yr - $85,000/yr"
+},
+"ranking6":{"title":"Associate, Data Governance Analyst","company":"AmerisourceBergen","location":"Conshohocken","state":"PA","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"10001+","type":"Hospitals and Health Care","level":"Mid-Senior level",
+"salary":"unknown"
+},
+"ranking7":{"title":"Senior Business Intelligence Analyst","company":"CoxHealth","location":"Springfield","state":"MO","country":"United States",
+"remote":"On-site","time":"Full-time","employees":"10001+","type":"Hospitals and Health Care","level":"unknown",
+"salary":"$34.37/hr "
+},
+"ranking8":{"title":"Data Analyst","company":"Allegis Group","location":"Peoria","state":"IL","country":"United States",
+"remote":"Hybrid","time":"Full-time","employees":"10001+","type":"Staffing and Recruiting","level":"Entry level",
+"salary":"unknown"}}
